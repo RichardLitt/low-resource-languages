@@ -7,6 +7,8 @@ It has struck me that there is no centralised list of code that would be useful 
 
 Endangered languages is here meant to mean human languages that are in danger of extinction (for example, Yurok); this list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low or under resourced languages, which are spoken by a significant population by under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Go or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian or Pictish).   
 
+Looking for code languages? Take a look at [the awesome collection of other awesome lists]([https://github.com/sindresorhus/awesome]).
+
 # Generic Github Repositories
 
   * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
