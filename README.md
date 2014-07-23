@@ -34,7 +34,7 @@ http://lingpy.org
   * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
   * [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
   * [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
-  * [moz-l10n-tiers] Creates a pseudo-locale to evaluate string prioritization for l10n
+  * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
   * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
 
