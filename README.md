@@ -9,6 +9,8 @@ Endangered languages is here meant to mean human languages that are in danger of
 
 Looking for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
+_Currently, this is only a list of Github repositories. Any and all other submissions welcome._
+
 # Generic Github Repositories
 
   * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
