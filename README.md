@@ -17,6 +17,7 @@ _Currently, this is only a list of Github repositories. Any and all other submis
   * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
   * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics 
 http://lingpy.org
+  * [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
   * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
