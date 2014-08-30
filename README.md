@@ -11,8 +11,9 @@ Looking for code languages? Take a look at [the awesome collection of other awes
 
 _Currently, this is only a list of Github repositories. Any and all other submissions welcome._
 
-# Generic Github Repositories
+# Generic Repositories
 
+## On Github
   * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
   * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
   * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics 
@@ -40,6 +41,13 @@ http://lingpy.org
   * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
   * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
+  * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
+  * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
+
+
+##Elsewhere 
+
+* [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout ) The Rosetta Project's Pangloss system
 
 # Android Applications
 
@@ -51,7 +59,9 @@ http://lingpy.org
   * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for `The experimental state of mind in elicitation: illustrations from tonal fieldwork' submitted to Language Documentation & Conservation, `How to study a tone language`
   * [orthotree](https://github.com/kscanne/orthotree) Linguistic family tree based on orthographic distance 
 http://borel.slu.edu/crubadan/
-  * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases
+  * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
+  * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
+
 
 # Language Specific Github Repositories
 
