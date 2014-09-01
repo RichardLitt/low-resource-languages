@@ -9,56 +9,52 @@ Endangered languages is here meant to mean human languages that are in danger of
 
 Looking for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
-_Currently, this is only a list of Github repositories. Any and all other submissions welcome._
+_Currently, this is mainly a list of Github repositories. Any and all other submissions welcome._
 
 # Generic Repositories
 
 ## On Github
-  * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
-  * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
-  * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics 
-http://lingpy.org
-  * [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
-  * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
-  * [Toney](https://github.com/langtech/toney) Tone Classification Software
-  * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
-  * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
-  * [SuGarLike](https://github.com/alvations/SuGarLike) Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
-  * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
-  * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
-  * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
-  * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
-  * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
-  * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
-  * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
-  * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
-  * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
-  * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
-  * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
-  * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
-  * [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
-  * [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
-  * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
-  * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
-  * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
-  * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
-  * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
-  * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
-  * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
-  * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
-  * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
-  * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
-  * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
+  * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
+  * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
+  * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
+  * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
+  * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
+  * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
+  * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
+  * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
+  * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
   * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
+  * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
+  * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
+  * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
+  * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
+  * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
+  * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
+  * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
+  * [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
+  * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
+  * [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
+  * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
+  * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
+  * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
+  * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
+  * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system  
+  * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
+  * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
   * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
+  * [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
+  * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
+  * [SuGarLike](https://github.com/alvations/SuGarLike) Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
+  * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
+  * [Toney](https://github.com/langtech/toney) Tone Classification Software
+  * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
+  * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
+  * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
+  * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
   * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
-
-##Elsewhere 
-
-* [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout ) The Rosetta Project's Pangloss system
 
 # Android Applications
 
@@ -74,7 +70,7 @@ http://borel.slu.edu/crubadan/
   * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
 
 
-# Language Specific Github Repositories
+# Language Specific Projects
 
 ###Arabic 
   * [Buckwalter](https://github.com/KentonMurray/Buckwalter) A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
@@ -84,7 +80,6 @@ http://borel.slu.edu/crubadan/
   * [Bangla-অঙ্কুর for Mac](http://sourceforge.net/projects/onkur/) This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
   * [Ekushey](http://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
   * [Bengali Writer](http://sourceforge.net/projects/bengaliwriter/) `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more.
-
 
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
@@ -96,7 +91,7 @@ http://borel.slu.edu/crubadan/
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
 
 
-# Language and Code Interfaces 
+# Language & Code Interfaces 
 
  * [قلب](https://github.com/nasser/---)‫قلب‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
 
