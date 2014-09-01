@@ -43,6 +43,9 @@ http://lingpy.org
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
+  * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
+  * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
+  * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
 
 
 ##Elsewhere 
@@ -87,3 +90,4 @@ http://borel.slu.edu/crubadan/
 
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [lex4all](https://github.com/lex4all)
+ * [longnow](https://github.com/longnow)
