@@ -71,15 +71,15 @@ http://borel.slu.edu/crubadan/
 ###Arabic 
   * [Buckwalter](https://github.com/KentonMurray/Buckwalter) A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 
+###Chichewa
+  * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
+
 ###Gaelic
   * [caighdean](https://github.com/kscanne/caighdean) Ríomhchlár a dhéanann caighdeánú uathoibríoch ar théacsanna Gaeilge
   * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
   * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
 
-###Chichewa
-  * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
-  
 
 # Language and Code Interfaces 
 
