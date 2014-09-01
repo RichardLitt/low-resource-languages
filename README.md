@@ -46,6 +46,14 @@ http://lingpy.org
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
   * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
+  * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
+  * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
+  * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
+  * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
+  * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
+  * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
+  * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
+  * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
 
 ##Elsewhere 
@@ -71,6 +79,13 @@ http://borel.slu.edu/crubadan/
 ###Arabic 
   * [Buckwalter](https://github.com/KentonMurray/Buckwalter) A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 
+###Bengali
+  * [Lekho](http://sourceforge.net/projects/lekho/) A collection of tools and resources for using bangla on computers
+  * [Bangla-অঙ্কুর for Mac](http://sourceforge.net/projects/onkur/) This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
+  * [Ekushey](http://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
+  * [Bengali Writer](http://sourceforge.net/projects/bengaliwriter/) `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more.
+
+
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
@@ -91,3 +106,6 @@ http://borel.slu.edu/crubadan/
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [lex4all](https://github.com/lex4all)
  * [longnow](https://github.com/longnow)
+
+# To add and sort
+ * http://ltrc.iiit.ac.in/showfile.php?filename=downloads/
