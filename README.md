@@ -13,7 +13,6 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 
 # Generic Repositories
 
-## On Github
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
@@ -95,12 +94,15 @@ http://borel.slu.edu/crubadan/
 
  * [قلب](https://github.com/nasser/---)‫قلب‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
 
-
 # Github Organisations
 
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [lex4all](https://github.com/lex4all)
  * [longnow](https://github.com/longnow)
+
+# Closed Source Resourcs
+
+ * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
 
 # To add and sort
  * http://ltrc.iiit.ac.in/showfile.php?filename=downloads/
