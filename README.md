@@ -47,6 +47,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
   * [SuGarLike](https://github.com/alvations/SuGarLike) Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
   * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
+  * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
