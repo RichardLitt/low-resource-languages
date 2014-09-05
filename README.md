@@ -67,6 +67,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 http://borel.slu.edu/crubadan/
   * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
   * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
+  * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
 
 
 # Language Specific Projects
