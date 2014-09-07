@@ -64,11 +64,12 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 # Academic Research Paper-Specific Repositories
 
   * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for `The experimental state of mind in elicitation: illustrations from tonal fieldwork' submitted to Language Documentation & Conservation, `How to study a tone language`
+  * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
   * [orthotree](https://github.com/kscanne/orthotree) Linguistic family tree based on orthographic distance 
-http://borel.slu.edu/crubadan/
+  * [type-supervised-tagging-2012emnlp](https://github.com/dhgarrette/type-supervised-tagging-2012emnlp) This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. _Dan Garrette and Jason Baldridge_. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit [nlp](https://github.com/dhgarrette/nlp)
   * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
   * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
-  * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
+http://borel.slu.edu/crubadan/
 
 
 # Language Specific Projects
