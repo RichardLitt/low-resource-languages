@@ -124,6 +124,3 @@ http://borel.slu.edu/crubadan/
 # Closed Source Resourcs
 
  * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
-
-# To add and sort
- * http://ltrc.iiit.ac.in/showfile.php?filename=downloads/
