@@ -13,6 +13,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 
 # Generic Repositories
 
+  * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
@@ -20,6 +21,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
+  * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
   * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
   * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
@@ -43,6 +45,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system  
   * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
   * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
+  * [Skype in your language](http://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
   * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
   * [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
   * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
@@ -87,17 +90,26 @@ http://borel.slu.edu/crubadan/
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
-###Gaelic
-  * [caighdean](https://github.com/kscanne/caighdean) Ríomhchlár a dhéanann caighdeánú uathoibríoch ar théacsanna Gaeilge
-  * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
+###Irish
+  * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
   * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
+  * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
+  * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
+
+###Lingala
+  * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
 ###Sámi (Saami)
 
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
   * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
 
+###Scottish Gaelic
+  * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
+
+###Secwepemctsín
+  * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
 
 # Language & Code Interfaces 
 
