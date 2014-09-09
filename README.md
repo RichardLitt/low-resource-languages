@@ -118,9 +118,10 @@ http://borel.slu.edu/crubadan/
 
 # Github Organisations
 
- * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [lex4all](https://github.com/lex4all)
  * [longnow](https://github.com/longnow)
+ * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
+ * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
 
 # Closed Source Resourcs
 
