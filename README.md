@@ -3,9 +3,9 @@ Endangered Languages
 
 **A list of resources for conservation, preservation, development, and documentation of endangered, minority, and low or under resourced human languages.**
 
-It has struck me that there is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or in any way working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century [1](http://en.wikipedia.org/wiki/Language_preservation). However, there is a plethora of work by academics, independant scholars, organizations, communities, and individuals that may be of use in helping to slowing this process. This list is intended to provide a central location to document those efforts. Please submit pull requests if you know of any resource available that is not on this list, either on Github or not, either code or otherwise.
+It has struck me that there is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or in any way working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](http://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independant scholars, organizations, communities, and individuals that may be of use in helping to slowing this process. This list is intended to provide a central location to document those efforts. Please submit pull requests if you know of any resource available that is not on this list, either on Github or not, either code or otherwise.
 
-Endangered languages is here meant to mean human languages that are in danger of extinction (for example, Yurok); this list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low or under resourced languages, which are spoken by a significant population by under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Go or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian or Pictish).   
+Endangered languages is here meant to mean human languages that are in danger of extinction (for example, Yurok); this list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).   
 
 Looking for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
@@ -13,14 +13,17 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 
 # Generic Repositories
 
+  * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
+  * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
+  * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
   * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
   * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
@@ -44,6 +47,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system  
   * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
   * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
+  * [Skype in your language](http://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
   * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
   * [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
   * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
@@ -65,7 +69,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 
 # Academic Research Paper-Specific Repositories
 
-  * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for `The experimental state of mind in elicitation: illustrations from tonal fieldwork' submitted to Language Documentation & Conservation, `How to study a tone language`
+  * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation, _How to study a tone language_.
   * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
   * [orthotree](https://github.com/kscanne/orthotree) Linguistic family tree based on orthographic distance 
   * [type-supervised-tagging-2012emnlp](https://github.com/dhgarrette/type-supervised-tagging-2012emnlp) This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. _Dan Garrette and Jason Baldridge_. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit [nlp](https://github.com/dhgarrette/nlp)
@@ -88,17 +92,26 @@ http://borel.slu.edu/crubadan/
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
-###Gaelic
-  * [caighdean](https://github.com/kscanne/caighdean) Ríomhchlár a dhéanann caighdeánú uathoibríoch ar théacsanna Gaeilge
-  * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
+###Irish
+  * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
   * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
+  * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
+  * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
+
+###Lingala
+  * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
 ###Sámi (Saami)
 
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
   * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
 
+###Scottish Gaelic
+  * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
+
+###Secwepemctsín
+  * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
 
 # Language & Code Interfaces 
 
@@ -106,13 +119,11 @@ http://borel.slu.edu/crubadan/
 
 # Github Organisations
 
- * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [lex4all](https://github.com/lex4all)
  * [longnow](https://github.com/longnow)
+ * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
+ * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
 
 # Closed Source Resourcs
 
  * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
-
-# To add and sort
- * http://ltrc.iiit.ac.in/showfile.php?filename=downloads/
