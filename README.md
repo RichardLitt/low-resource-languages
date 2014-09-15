@@ -19,6 +19,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
+  * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
   * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
@@ -42,6 +43,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
   * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
   * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
+  * [old-webapp](https://github.com/jrwdunham/old-webapp) Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
   * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system  
