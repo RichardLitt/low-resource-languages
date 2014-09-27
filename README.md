@@ -17,6 +17,10 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
+  * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative
+Bantu
+OnLine
+Dictionary
   * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
@@ -24,6 +28,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
+  * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
   * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
@@ -115,6 +120,9 @@ http://borel.slu.edu/crubadan/
 
 ###Secwepemctsín
   * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
+
+###Zulu
+  * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 
 # Language & Code Interfaces 
 
