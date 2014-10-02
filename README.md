@@ -39,6 +39,7 @@ Dictionary
   * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
   * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
   * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
+  * [LinGO Grammar Matrix](http://www.delph-in.net/matrix/) The LinGO Grammar Matrix is a framework for the development of broad-coverage, precision, implemented grammars for diverse languages.
   * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
   * [Linguistica](http://linguistica.uchicago.edu/downloads.html) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
   * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
