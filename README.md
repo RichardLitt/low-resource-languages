@@ -40,6 +40,7 @@ Dictionary
   * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
   * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
   * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
+  * [Linguistica](http://linguistica.uchicago.edu/downloads.html) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
   * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
   * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
   * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
