@@ -54,8 +54,10 @@ Dictionary
   * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
   * [old-webapp](https://github.com/jrwdunham/old-webapp) Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
+  * [pepper](https://github.com/korpling/pepper) Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
   * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
-  * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system  
+  * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system
+  * [Salt](https://github.com/korpling/salt) A graph-based model to store and manipulate linguistic data.
   * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
   * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
   * [Skype in your language](http://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
