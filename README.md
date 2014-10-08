@@ -15,6 +15,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
 
   * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
+  * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative
