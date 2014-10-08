@@ -115,6 +115,9 @@ http://borel.slu.edu/crubadan/
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Pomo
+  * [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
+
 ###Sámi (Saami)
 
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
