@@ -18,10 +18,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
-  * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative
-Bantu
-OnLine
-Dictionary
+  * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
   * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
@@ -70,6 +67,7 @@ Dictionary
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
+  * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
   * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
@@ -88,8 +86,6 @@ Dictionary
   * [type-supervised-tagging-2012emnlp](https://github.com/dhgarrette/type-supervised-tagging-2012emnlp) This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. _Dan Garrette and Jason Baldridge_. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit [nlp](https://github.com/dhgarrette/nlp)
   * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
   * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
-http://borel.slu.edu/crubadan/
-
 
 # Language Specific Projects
 
@@ -119,7 +115,6 @@ http://borel.slu.edu/crubadan/
   * [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
 
 ###Sámi (Saami)
-
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
   * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
 
