@@ -23,6 +23,7 @@ _Currently, this is mainly a list of Github repositories. Any and all other subm
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
+  * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
   * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
