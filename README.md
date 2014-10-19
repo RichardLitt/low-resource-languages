@@ -1,8 +1,6 @@
 Endangered Languages
 ====================
 
-**A list of resources for conservation, preservation, development, and documentation of endangered, minority, and low or under resourced human languages.**
-
 There is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](http://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independant scholars, organizations, communities, and individuals that may be of use in helping to stop this. This list is intended to provide a central location to document those efforts. 
 
 Please **submit pull requests** if you know of any resource available that is not on this list, either on Github or not, either code or otherwise. To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md).
