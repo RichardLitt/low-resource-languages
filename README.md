@@ -71,6 +71,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
   * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
+# i18n-related Repositories
+
+ * [Polyglot.js](http://airbnb.github.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
 
 # Android Applications
 
