@@ -49,6 +49,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
   * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
   * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
+  * [ogoki](http://www.ogokilearning.com/native-language-app-code/) iPhone & iPad template source code (as a .zip) for language learning
   * [old-webapp](https://github.com/jrwdunham/old-webapp) Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [pepper](https://github.com/korpling/pepper) Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
