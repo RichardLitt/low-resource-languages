@@ -105,6 +105,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
+###Høgnorsk
+  * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) Ei rettskrivingsordlist til Høgnorsk under Hunspell
+
 ###Irish
   * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
   * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
@@ -127,6 +130,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 ###Secwepemctsín
   * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
+
+###Somali
+  * [somorph](https://github.com/rtxanson/somorph) Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar
 
 ###Zulu
   * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
