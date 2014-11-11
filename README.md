@@ -81,6 +81,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
+  * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 
 # Academic Research Paper-Specific Repositories
 
