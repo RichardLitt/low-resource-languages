@@ -119,6 +119,9 @@ http://universaldependencies.github.io/docs/
   * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
   * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
 
+###Korean
+ * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
+
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
