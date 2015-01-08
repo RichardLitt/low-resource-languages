@@ -69,6 +69,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
   * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
+  * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/ 
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
   * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation 
