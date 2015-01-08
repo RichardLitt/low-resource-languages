@@ -70,6 +70,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
+  * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation 
+http://universaldependencies.github.io/docs/
+  * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
   * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
@@ -84,6 +87,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
   * [AndroidFieldLinguisticsDatabase](https://github.com/mecathcart/AndroidFieldLinguisticsDatabase) Open Source Android App that allows field linguists to elicit, record, transcribe data and convert to LaTeX.
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
+  * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 
 # Academic Research Paper-Specific Repositories
 
@@ -117,6 +121,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
   * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
   * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
+
+###Korean
+ * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
 
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
