@@ -159,6 +159,10 @@ http://universaldependencies.github.io/docs/
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
 
+# Other OSS Organisations
+
+* [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
+
 # Closed Source Resourcs
 
  * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
