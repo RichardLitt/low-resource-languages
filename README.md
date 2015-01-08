@@ -25,6 +25,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
   * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
+  * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
