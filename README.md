@@ -73,6 +73,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation 
 http://universaldependencies.github.io/docs/
   * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
+  * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
   * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
