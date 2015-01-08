@@ -82,6 +82,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Android Applications
 
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
+  * [AndroidFieldLinguisticsDatabase](https://github.com/mecathcart/AndroidFieldLinguisticsDatabase) Open Source Android App that allows field linguists to elicit, record, transcribe data and convert to LaTeX.
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 
 # Academic Research Paper-Specific Repositories
