@@ -44,6 +44,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Linguistica](http://linguistica.uchicago.edu/downloads.html) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
   * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
   * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
+  * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
   * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
   * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
   * [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
