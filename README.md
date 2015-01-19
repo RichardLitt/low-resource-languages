@@ -85,6 +85,14 @@ http://universaldependencies.github.io/docs/
 # i18n-related Repositories
 
  * [Polyglot.js](http://airbnb.github.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
+ * [Transifex](http://transifex.com) - System for providing a nice,
+   userfriendly/project oriented approach to translating `.po` files. Great for
+   non-technical users, free for open-source projects, decent for minority
+   languages; **however**, it can take a while to get a new language added to
+   the Transifex system because the ticketing system Transifex uses results in
+   them losing tickets sometimes. Provides translation memory, ability to
+   appoint reviewers, etc. Transifex used to have an open source system that
+   you could host on your own, but that seems to have disappeared.
 
 # Android Applications
 
@@ -104,6 +112,12 @@ http://universaldependencies.github.io/docs/
 
 # Language Specific Projects
 
+###Amharic
+ * [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) -
+   morphological analysis and generation of Amharic and Oromo verbs and nouns
+   and Tigrinya verbs
+ 
+
 ###Arabic 
   * [Buckwalter](https://github.com/KentonMurray/Buckwalter) A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 
@@ -116,8 +130,15 @@ http://universaldependencies.github.io/docs/
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
+###Guarani
+  * [ParaMorfo](http://www.cs.indiana.edu/~gasser/research/software.html) -
+  	morphological analysis and generation of Spanish and Guarani verbs, nouns,
+  	and adjectives
+
 ###Høgnorsk
-  * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) Ei rettskrivingsordlist til Høgnorsk under Hunspell
+ * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to
+ 	a spellchecking tool for Høgnorsk, a conservative variant of Norwegian
+ 	Nynorsk, based on a set of corpuses.
 
 ###Irish
   * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
@@ -125,6 +146,7 @@ http://universaldependencies.github.io/docs/
   * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
   * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
   * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
+  * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
 
 ###Korean
  * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
@@ -132,12 +154,24 @@ http://universaldependencies.github.io/docs/
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Oromo
+ * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) -
+   morphological analysis and generation of amharic and oromo verbs and nouns
+   and tigrinya verbs
+
 ###Pomo
   * [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
+
+###Quechua
+ * [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
+ * [AntiMorfo](http://www.cs.indiana.edu/~gasser/Research/software.html) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
 
 ###Sámi (Saami)
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
   * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
+    - Mobile keyboards (iOS and Android), learning apps, dictionaries,
+      morphologies, syntax disambiguators, some amount of project collaboration
+      with Apertium on shallow translation between Saami languages, and 
 
 ###Scottish Gaelic
   * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
@@ -146,7 +180,13 @@ http://universaldependencies.github.io/docs/
   * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
 
 ###Somali
-  * [somorph](https://github.com/rtxanson/somorph) Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar
+  * [somorph](https://github.com/rtxanson/somorph) Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in [Giellatekno's](http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html) repository.
+  * [qaamuus.so](http://qaamuus.so/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
+
+###Tigrinya
+ * [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) -
+   morphological analysis and generation of Amharic and Oromo verbs and nouns
+   and Tigrinya verbs
 
 ###Zulu
   * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
