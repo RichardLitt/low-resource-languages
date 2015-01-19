@@ -179,6 +179,26 @@ http://universaldependencies.github.io/docs/
     - Mobile keyboards (iOS and Android), learning apps, dictionaries,
       morphologies, syntax disambiguators, some amount of project collaboration
       with Apertium on shallow translation between Saami languages, and 
+    - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages.
+      Includes WordPress based, media rich lesson-based learning, and
+      morphological and syntactic exercizes generated from the morphological
+      and syntactic tools
+    - [Gïelese](http://gielese.no) - A media learning application for South
+      Saami, including images, sound and animation for learning basic phrases
+      and core vocabulary. JavaScript application, playable on the web or via
+      PhoneGap apps in Android or iOS.
+    - [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically
+      sensitive dictionary, with modes for 'social media input' (which allows
+      users to type a 'relaxed' version of the orthography (*acdnstz* will be
+      recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet
+      to offer click-to-read dictionary lookup functionality. Also available
+      for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
+
+Giellatekno does a lot for other minority Uralic languages. Following are some keywords for CTRL+F friendliness:
+
+* Saami languages: North Saami, Lule Saami, South Saami // Inari Saami, Kildin Saami, Pite Saami, Skolt Saami.
+* Other Uralic languages: Erzya, Finnish, Hill Mari, Ingrian, Khanty, Kven, Komi, Livonian, Meadow Mari, Moksha, Nenets, Nganasan, Olonetsian, Udmurt, Veps.
+* Other languages: Buriat, Cornish, Faroese, Greenlandic, Iñupiaq, Northern Haida, Ojibwe, Plains Cree, Russian.
 
 ###Scottish Gaelic
   * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
