@@ -94,6 +94,13 @@ http://universaldependencies.github.io/docs/
    appoint reviewers, etc. Transifex used to have an open source system that
    you could host on your own, but that seems to have disappeared.
 
+# Computing systems
+
+ * [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.b.uib.no/about/) - One of their projects (not
+   clearly listed here) is about providing an online system for language
+   analysis, so users can connect resources visually, dump in text, and get a
+   result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
+
 # Android Applications
 
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
