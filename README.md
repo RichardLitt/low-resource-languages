@@ -54,6 +54,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
   * [ogoki](http://www.ogokilearning.com/native-language-app-code/) iPhone & iPad template source code (as a .zip) for language learning
   * [old-webapp](https://github.com/jrwdunham/old-webapp) Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
+  * [OpenDataKit](http://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [pepper](https://github.com/korpling/pepper) Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
   * [poio-api](https://github.com/cidles/poio-api) Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api
