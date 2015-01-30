@@ -221,7 +221,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 # Language & Code Interfaces 
 
- * [قلب](https://github.com/nasser/---)‫قلب‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
+ * [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
 
 # Github Organisations
 
