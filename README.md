@@ -156,6 +156,9 @@ http://universaldependencies.github.io/docs/
   * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
   * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
 
+###Kinyarwanda
+  * [TurboTagger & TurboParser for Kinyarwanda (download)](http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
+
 ###Korean
  * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
 
