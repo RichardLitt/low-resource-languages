@@ -158,6 +158,7 @@ http://universaldependencies.github.io/docs/
   * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
 
 ###Kinyarwanda
+  * [kin-morph-fst](https://github.com/ldmt-muri/kin-morph-fst) Kinyarwanda morphological analyzer
   * [TurboTagger & TurboParser for Kinyarwanda (download)](http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
 
 ###Korean
