@@ -168,6 +168,9 @@ http://universaldependencies.github.io/docs/
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Malagasy
+  * [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
+
 ###Oromo
  * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) -
    morphological analysis and generation of amharic and oromo verbs and nouns
