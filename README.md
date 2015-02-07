@@ -118,6 +118,7 @@ http://universaldependencies.github.io/docs/
 
 # Academic Research Paper-Specific Repositories
 
+  * [Gargantua](http://sourceforge.net/projects/gargantua/) Fast Unsupervised Sentence Aligner described in "Improved unsupervised sentence alignment for symmetrical and asymmetrical parallel corpora", COLING 2010.
   * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation, _How to study a tone language_.
   * [Learning to map into a Univerisal POS tagset](http://groups.csail.mit.edu/rbg/code/unitag/)  Yuan Zhang, Roi Reichart, Regina Barzilay and Amir Globerson
   * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
