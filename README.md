@@ -36,6 +36,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
+  * [graf-python](https://github.com/cidles/graf-python) The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
   * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
   * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
@@ -64,7 +65,13 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [OpenDataKit](http://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [pepper](https://github.com/korpling/pepper) Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
+  * [poio-analyzer](https://github.com/cidles/poio-analyzer) Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
   * [poio-api](https://github.com/cidles/poio-api) Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api
+  * [poio-corpus](https://github.com/cidles/poio-corpus) The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
+  * [poio-doc](https://github.com/cidles/poio-doc) Documentation of the Poio project.http://www.poio.eu
+  * [poio-site](https://github.com/cidles/poio-site) The website of the Poio project - http://www.poio.eu
+  * [pressagio](https://github.com/cidles/pressagio) Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
+  * [pyannotation](https://github.com/cidles/pyannotation) PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
   * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
   * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system
   * [Salt](https://github.com/korpling/salt) A graph-based model to store and manipulate linguistic data.
@@ -86,6 +93,7 @@ http://universaldependencies.github.io/docs/
   * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
   * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
   * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
+  * [wordbyword](https://github.com/cidles/wordbyword) WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
   * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
@@ -177,6 +185,10 @@ http://universaldependencies.github.io/docs/
 
 ###Malagasy
   * [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
+
+###Minderico
+   * [fredericajordarzambarino](https://github.com/cidles/fredericajordarzambarino) A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
+   * [mindericobot](https://github.com/cidles/mindericobot) 
 
 ###Oromo
  * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) -
