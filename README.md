@@ -5,7 +5,7 @@ There is no centralised list of open-source code that would be useful for docume
 
 ## Contribute
 
-Please *submit pull requests* if you know of any resource available that is not on this list, either on Github or not, either code or otherwise. To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues).
+To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
 
 ## Definitions
 
