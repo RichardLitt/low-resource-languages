@@ -267,4 +267,4 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 # Closed Source Resourcs
 
- * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
+ * [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
