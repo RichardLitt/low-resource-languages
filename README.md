@@ -260,6 +260,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
  * [longnow](https://github.com/longnow)
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+ * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative
 
 # Other OSS Organisations
 
