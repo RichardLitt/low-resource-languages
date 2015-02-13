@@ -260,7 +260,8 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
  * [longnow](https://github.com/longnow)
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
- * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative
+ * [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+ * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
 # Other OSS Organisations
 
