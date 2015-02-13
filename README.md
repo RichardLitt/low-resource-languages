@@ -123,7 +123,8 @@ http://universaldependencies.github.io/docs/
 # Android Applications
 
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
-  * [AndroidFieldLinguisticsDatabase](https://github.com/mecathcart/AndroidFieldLinguisticsDatabase) Open Source Android App that allows field linguists to elicit, record, transcribe data and convert to LaTeX.
+  * [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
+https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
   * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 
