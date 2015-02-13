@@ -28,6 +28,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
+  * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
   * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
