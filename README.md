@@ -36,6 +36,12 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
+  * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you:
+   * elicit and record lexical information
+   * create dictionaries
+   * interlinearize texts
+   * analyze discourse features
+   * study morphology
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
   * [Glottolog data](https://github.com/clld/glottolog-data) [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages. The data published in Glottolog is curated in https://github.com/clld/glottolog-data
   * [graf-python](https://github.com/cidles/graf-python) The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
