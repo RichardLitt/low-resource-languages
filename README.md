@@ -20,6 +20,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
+  * [Anki](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
