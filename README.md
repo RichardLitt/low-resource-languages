@@ -5,7 +5,7 @@ There is no centralised list of open-source code that would be useful for docume
 
 ## Contribute
 
-Please *submit pull requests* if you know of any resource available that is not on this list, either on Github or not, either code or otherwise. To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues).
+To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
 
 ## Definitions
 
@@ -20,13 +20,16 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
   * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
+  * [Anki](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
   * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
   * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
+  * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
+  * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
   * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
@@ -35,14 +38,22 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
+  * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you:
+   * elicit and record lexical information
+   * create dictionaries
+   * interlinearize texts
+   * analyze discourse features
+   * study morphology
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
+  * [Glottolog data](https://github.com/clld/glottolog-data) [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages. The data published in Glottolog is curated in https://github.com/clld/glottolog-data
+  * [graf-python](https://github.com/cidles/graf-python) The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
   * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
   * [https://github.com/hyphenliu/cnminlangwebcollect](https://github.com/hyphenliu/cnminlangwebcollect) Chinese minorities website languages detection and websites collection
   * [https://github.com/leebock/languages](https://github.com/leebock/languages) Application files for the Smithsonian endangered languages story map.
   * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
   * [koreksyon](https://github.com/reokatoa/koreksyon) Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
   * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
-  * [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no/english.html). 
+  * [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html). 
   * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
   * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
   * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
@@ -50,6 +61,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Lingpy](https://github.com/lingpy/lingpy) LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
   * [Linguistica](http://linguistica.uchicago.edu/downloads.html) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
   * [lrl](https://github.com/RichardLitt/lrl) For work concerning low resource languages.
+  * [Machine](https://github.com/sillsdev/machine) Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
   * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
   * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
   * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
@@ -64,7 +76,13 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [OpenDataKit](http://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
   * [panlex-tools](https://github.com/longnow/panlex-tools) This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
   * [pepper](https://github.com/korpling/pepper) Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
+  * [poio-analyzer](https://github.com/cidles/poio-analyzer) Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
   * [poio-api](https://github.com/cidles/poio-api) Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api
+  * [poio-corpus](https://github.com/cidles/poio-corpus) The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
+  * [poio-doc](https://github.com/cidles/poio-doc) Documentation of the Poio project.http://www.poio.eu
+  * [poio-site](https://github.com/cidles/poio-site) The website of the Poio project - http://www.poio.eu
+  * [pressagio](https://github.com/cidles/pressagio) Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
+  * [pyannotation](https://github.com/cidles/pyannotation) PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
   * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
   * [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system
   * [Salt](https://github.com/korpling/salt) A graph-based model to store and manipulate linguistic data.
@@ -79,13 +97,17 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
   * [Toney](https://github.com/langtech/toney) Tone Classification Software
   * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/ 
+  * [Tsammalex data](https://github.com/clld/tsammalex-data) [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
   * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation 
 http://universaldependencies.github.io/docs/
   * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
   * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
+  * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. 
+http://wesay.org (by the SIL International)
   * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
+  * [wordbyword](https://github.com/cidles/wordbyword) WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
   * [XLTK](https://github.com/alvations/XLTK) eXtensible Language ToolKit
   * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
@@ -112,7 +134,8 @@ http://universaldependencies.github.io/docs/
 # Android Applications
 
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
-  * [AndroidFieldLinguisticsDatabase](https://github.com/mecathcart/AndroidFieldLinguisticsDatabase) Open Source Android App that allows field linguists to elicit, record, transcribe data and convert to LaTeX.
+  * [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
+https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
   * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 
@@ -177,6 +200,10 @@ http://universaldependencies.github.io/docs/
 
 ###Malagasy
   * [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
+
+###Minderico
+   * [fredericajordarzambarino](https://github.com/cidles/fredericajordarzambarino) A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
+   * [mindericobot](https://github.com/cidles/mindericobot) 
 
 ###Oromo
  * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) -
@@ -245,6 +272,8 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
  * [longnow](https://github.com/longnow)
  * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
  * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+ * [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+ * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
 # Other OSS Organisations
 
@@ -252,4 +281,4 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 # Closed Source Resourcs
 
- * [Noto Fonts](http://www.google.com/get/noto/#/) Beautiful and free fonts for all languages. Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
+ * [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
