@@ -17,33 +17,34 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Generic Repositories
 
+	* [ark-tweet-nlp](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp) CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
+	* [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
+	* [dataverse](https://github.com/IQSS/dataverse) A data repository framework to share and publish research data.
+	* [iLanguageCloud](https://github.com/OpenSourceFieldlinguistics/iLanguageCloud) An HTML5/Android word cloud generation codebase
+	* [octothorpe](https://github.com/OpenSourceFieldlinguistics/octothorpe) CouchDB-powered wiki thing
+	* [translitit-engine](https://github.com/OpenSourceFieldlinguistics/translitit-engine) A transliteration engine written in JavaScript
   * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
   * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
-  * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
   * [Anki](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
+  * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
   * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
   * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
+  * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
   * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
-  * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
+  * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
   * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
+  * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
   * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
   * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
-  * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
   * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
   * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
   * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
-  * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
   * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
   * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
   * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
   * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
-  * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you:
-   * elicit and record lexical information
-   * create dictionaries
-   * interlinearize texts
-   * analyze discourse features
-   * study morphology
+  * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
   * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
   * [Glottolog data](https://github.com/clld/glottolog-data) [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages. The data published in Glottolog is curated in https://github.com/clld/glottolog-data
   * [graf-python](https://github.com/cidles/graf-python) The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
@@ -64,6 +65,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Machine](https://github.com/sillsdev/machine) Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
   * [Make-extensions](https://github.com/kscanne/make-extensions) Scripts for generating hunspell spellchecking extensions
   * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
+  * [morfessor](https://github.com/aalto-speech/morfessor) Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
   * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
   * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
   * [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
@@ -100,12 +102,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
   * [Tsammalex data](https://github.com/clld/tsammalex-data) [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
   * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
   * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
-  * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation 
-http://universaldependencies.github.io/docs/
+  * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) Universal Dependencies online documentation http://universaldependencies.github.io/docs/
   * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
   * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
-  * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. 
-http://wesay.org (by the SIL International)
+  * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
   * [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
   * [wordbyword](https://github.com/cidles/wordbyword) WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
   * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
@@ -115,29 +115,47 @@ http://wesay.org (by the SIL International)
 # i18n-related Repositories
 
  * [Polyglot.js](http://airbnb.github.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
- * [Transifex](http://transifex.com) - System for providing a nice,
-   userfriendly/project oriented approach to translating `.po` files. Great for
-   non-technical users, free for open-source projects, decent for minority
-   languages; **however**, it can take a while to get a new language added to
-   the Transifex system because the ticketing system Transifex uses results in
-   them losing tickets sometimes. Provides translation memory, ability to
-   appoint reviewers, etc. Transifex used to have an open source system that
-   you could host on your own, but that seems to have disappeared.
+ * [Transifex](http://transifex.com) - System for providing a nice, userfriendly/project oriented approach to translating `.po` files. Great for non-technical users, free for open-source projects, decent for minority languages; **however**, it can take a while to get a new language added to the Transifex system because the ticketing system Transifex uses results in them losing tickets sometimes. Provides translation memory, ability to appoint reviewers, etc. Transifex used to have an open source system that you could host on your own, but that seems to have disappeared.
 
 # Computing systems
 
- * [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.b.uib.no/about/) - One of their projects (not
-   clearly listed here) is about providing an online system for language
-   analysis, so users can connect resources visually, dump in text, and get a
-   result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
+ * [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.b.uib.no/about/) - One of their projects (not clearly listed here) is about providing an online system for language analysis, so users can connect resources visually, dump in text, and get a result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
 
 # Android Applications
 
+	* [AndroidFieldDBElicitationRecorder](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDBElicitationRecorder) A general purpose video recording tool
   * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
-  * [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
-https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
+  * [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers. 
+  * [AndroidLanguageLearningClientForFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB) An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
+  * [AndroidProductionExperiment](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment) Android App to run perception experiments 
   * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
   * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
+
+# Chrome Extensions
+
+	* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+
+# FieldDB
+
+	_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitely work with it.
+
+	* [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language. 
+	* [UsageDashboard](https://github.com/OpenSourceFieldlinguistics/UsageDashboard) A realtime updating usage dashboard for fielddb servers (forked from dashing) (_Fork_)
+
+	## Modules
+
+	* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
+	* [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
+	* [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
+	* [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
+	* [fielddb-spreadsheet-sikuli](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli) sikuli tests for the spreadsheet module
+	* [FieldDBActivityFeed](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed) A fielddb activity feed widget which can be embedded in other codebases, websites etc
+	* [FieldDBChromeApp](https://github.com/OpenSourceFieldlinguistics/FieldDBChromeApp) A Chrome app workaround for deploying in a sandbox
+	* [FieldDBGlosser](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Uses compression, maximum entropy and fieldlinguistics.
+	* [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases=
+	* [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) 
+	* [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) 
+
 
 # Academic Research Paper-Specific Repositories
 
@@ -170,30 +188,38 @@ https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguist
 ###Chichewa
   * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
+###Georgia
+	* [translitit-latin-to-mkhedruli-georgian](https://github.com/OpenSourceFieldlinguistics/translitit-latin-to-mkhedruli-georgian) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+
 ###Guarani
-  * [ParaMorfo](http://www.cs.indiana.edu/~gasser/research/software.html) -
-  	morphological analysis and generation of Spanish and Guarani verbs, nouns,
-  	and adjectives
+  * [ParaMorfo](http://www.cs.indiana.edu/~gasser/research/software.html) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives
+
+###Hindi
+
+	* [hindi-morph](https://github.com/OpenSourceFieldlinguistics/hindi-morph) An open source morphological analyzer for Hindi
 
 ###Høgnorsk
- * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to
- 	a spellchecking tool for Høgnorsk, a conservative variant of Norwegian
- 	Nynorsk, based on a set of corpuses.
+
+	* [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.  
 
 ###Irish
+  * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
   * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
   * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
-  * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
-  * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
   * [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
   * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
+  * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
+
+###Japanese
+	* [kuromoji](https://github.com/atilika/kuromoji-server) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
+	* [kuromoji-server](https://github.com/atilika/kuromoji-server) Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
 ###Kinyarwanda
   * [kin-morph-fst](https://github.com/ldmt-muri/kin-morph-fst) Kinyarwanda morphological analyzer
   * [TurboTagger & TurboParser for Kinyarwanda (download)](http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
 
 ###Korean
- * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
+	* [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
 
 ###Lingala
   * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
@@ -201,48 +227,36 @@ https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguist
 ###Malagasy
   * [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
 
+###Migmaq
+	* [migmaqLessons](https://github.com/OpenSourceFieldlinguistics/migmaqLessons) 
+
 ###Minderico
    * [fredericajordarzambarino](https://github.com/cidles/fredericajordarzambarino) A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
    * [mindericobot](https://github.com/cidles/mindericobot) 
 
 ###Oromo
- * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) -
-   morphological analysis and generation of amharic and oromo verbs and nouns
+ * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) morphological analysis and generation of amharic and oromo verbs and nouns
    and tigrinya verbs
 
 ###Pomo
   * [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
 
 ###Quechua
- * [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
- * [AntiMorfo](http://www.cs.indiana.edu/~gasser/Research/software.html) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
+	* [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
+	* [AntiMorfo](http://www.cs.indiana.edu/~gasser/Research/software.html) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
 
 ###Sámi (Saami)
   * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
   * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
-    - Mobile keyboards (iOS and Android), learning apps, dictionaries,
-      morphologies, syntax disambiguators, some amount of project collaboration
-      with Apertium on shallow translation between Saami languages, and 
-    - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages.
-      Includes WordPress based, media rich lesson-based learning, and
-      morphological and syntactic exercizes generated from the morphological
-      and syntactic tools
-    - [Gïelese](http://gielese.no) - A media learning application for South
-      Saami, including images, sound and animation for learning basic phrases
-      and core vocabulary. JavaScript application, playable on the web or via
-      PhoneGap apps in Android or iOS.
-    - [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically
-      sensitive dictionary, with modes for 'social media input' (which allows
-      users to type a 'relaxed' version of the orthography (*acdnstz* will be
-      recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet
-      to offer click-to-read dictionary lookup functionality. Also available
-      for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
+    - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and 
+    - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
+    - [Gïelese](http://gielese.no) - A media learning application for South Saami, including images, sound and animation for learning basic phrases and core vocabulary. JavaScript application, playable on the web or via PhoneGap apps in Android or iOS.
+    - [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
+    Giellatekno does a lot for other minority Uralic languages. Following are some keywords for CTRL+F friendliness:
 
-Giellatekno does a lot for other minority Uralic languages. Following are some keywords for CTRL+F friendliness:
-
-* Saami languages: North Saami, Lule Saami, South Saami // Inari Saami, Kildin Saami, Pite Saami, Skolt Saami.
-* Other Uralic languages: Erzya, Finnish, Hill Mari, Ingrian, Khanty, Kven, Komi, Livonian, Meadow Mari, Moksha, Nenets, Nganasan, Olonetsian, Udmurt, Veps.
-* Other languages: Buriat, Cornish, Faroese, Greenlandic, Iñupiaq, Northern Haida, Ojibwe, Plains Cree, Russian.
+		* Saami languages: North Saami, Lule Saami, South Saami // Inari Saami, Kildin Saami, Pite Saami, Skolt Saami.
+		* Other Uralic languages: Erzya, Finnish, Hill Mari, Ingrian, Khanty, Kven, Komi, Livonian, Meadow Mari, Moksha, Nenets, Nganasan, Olonetsian, Udmurt, Veps.
+		* Other languages: Buriat, Cornish, Faroese, Greenlandic, Iñupiaq, Northern Haida, Ojibwe, Plains Cree, Russian.
 
 ###Scottish Gaelic
   * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
@@ -255,30 +269,28 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
   * [qaamuus.so](http://qaamuus.so/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
 
 ###Tigrinya
- * [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) -
-   morphological analysis and generation of Amharic and Oromo verbs and nouns
-   and Tigrinya verbs
+	* [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 ###Zulu
   * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 
 # Language & Code Interfaces 
 
- * [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
+	* [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
 
 # Github Organisations
 
- * [lex4all](https://github.com/lex4all)
- * [longnow](https://github.com/longnow)
- * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
- * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
- * [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
- * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+	* [lex4all](https://github.com/lex4all)
+	* [longnow](https://github.com/longnow)
+	* [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
+	* [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+	* [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+	* [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
 # Other OSS Organisations
 
-* [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
+	* [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
 # Closed Source Resourcs
 
- * [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
+	* [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
