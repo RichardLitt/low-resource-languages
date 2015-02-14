@@ -34,7 +34,7 @@ _Generic Repositories means what exacty? - that it has a home on sourceforge/git
 * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
 * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
 
-###Interations and presentations of data
+###Interactions and presentations of data
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
