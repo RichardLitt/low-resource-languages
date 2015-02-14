@@ -17,13 +17,12 @@ In general, please link directly to the resource or to the page describing the r
 
 Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
+# Table of Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Endangered Languages](#endangered-languages)
-  - [Contribute](#contribute)
-  - [Definitions](#definitions)
 - [Generic Repositories](#generic-repositories)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Computing systems](#computing-systems)
