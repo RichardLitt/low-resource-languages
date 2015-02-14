@@ -25,6 +25,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ark-tweet-nlp](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp) CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
 * [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
+* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/ 
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
 * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
