@@ -16,7 +16,33 @@ To edit this list, simply [click here](https://github.com/RichardLitt/endangered
 Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
 # Generic Repositories
+_Generic Repositories means what exacty? - that it has a home on sourceforge/github? because not everything in this list is one or the other_
 
+##Massive Dictionary and Lexicography projects
+* [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
+* [REFLEX](http://www.reflex.cnrs.fr/) a comparative dictionary project for Africa based out of CNRS in France.
+* [ABVD](http://language.psy.auckland.ac.nz/austronesian/) Austronesian Basic Vocabulary Database
+* [STEDT](http://stedt.berkeley.edu/database) Tibeto-burman focused project  where dictionaries from several languages are comparable.
+* [Tibeto-burman lexicography](http://www.himalayanlanguages.org/cdtd)
+* [Southeast Asian lexicography](http://sealang.net/) Several Southeast Asian lexicons hosted.
+* [IE](http://ielex.mpi.nl./) Indo-european comparitive lexical resource
+
+##Single language lexicography projects and utilities
+###Utilities
+* [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
+* [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
+* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
+
+###Interations and presentations of data
+* [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
+* [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
+* [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
+* [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
+* [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
+* [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people. 
+
+##Software
 * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
 * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
 * [Anki](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
@@ -26,7 +52,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
-* [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
@@ -144,7 +169,7 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [UsageDashboard](https://github.com/OpenSourceFieldlinguistics/UsageDashboard) A realtime updating usage dashboard for fielddb servers (forked from dashing) (_Fork_)
 
 ## Modules
-
+_the term "modules" means something in Python. What does it mean here?_
 * [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
 * [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
@@ -296,7 +321,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
 * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
-* [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
 * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
 # Other OSS Organisations
