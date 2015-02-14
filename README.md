@@ -215,7 +215,7 @@ and Tigrinya verbs
 
 ###Japanese
 
-* [kuromoji](https://github.com/atilika/kuromoji-server) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
+* [kuromoji](https://github.com/atilika/kuromoji) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
 * [kuromoji-server](https://github.com/atilika/kuromoji-server) Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
 ###Kinyarwanda
