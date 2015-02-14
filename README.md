@@ -7,6 +7,8 @@ There is no centralised list of open-source code that would be useful for docume
 
 To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
 
+In general, please link directly to the resource or to the page describing the resource. The blurb after the link should be something short - the GitHub description generally works well, although the blurb may have to be written manually for non-GitHub links or for GitHub links which lack descriptions. Please make sure each link is on one line, to help with automatic alphabetization. 
+
 ## Definitions
 
 **Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).  
