@@ -215,7 +215,7 @@ and Tigrinya verbs
 
 ###Japanese
 
-* [kuromoji](https://github.com/atilika/kuromoji-server) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
+* [kuromoji](https://github.com/atilika/kuromoji) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
 * [kuromoji-server](https://github.com/atilika/kuromoji-server) Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
 ###Kinyarwanda
@@ -289,10 +289,12 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 # Github Organisations
 
+* [batumi](https://github.com/batumi) Speech recognition and natural language processing for low-resource languages
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
 * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
 * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
 * [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
 * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
