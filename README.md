@@ -225,6 +225,11 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 ## FieldDB Webservices/Components/Plugins
 
+* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) 
+* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
+* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
+* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) 
+* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the Drag and Drop FieldLinguistics project.
 * [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
 * [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
