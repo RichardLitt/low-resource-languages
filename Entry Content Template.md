@@ -13,5 +13,7 @@
 * Funding source
 * License
 * General lingusitics Task classification
+* Online - Offline technology connectivity expectations
+* Collaboration expectations
 
 _These are just some thoughts which have not been fully baked. For instance the order of itemes is not yet established. Taxonomies are not yet establsihed for various segments like OS._
