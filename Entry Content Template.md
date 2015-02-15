@@ -14,4 +14,4 @@
 * License
 * General lingusitics Task classification
 
-[//] these are just some thoughts which have not been fully baked the order is not yet established. Taxonomies are not yet establsihed.
+[//]: # these are just some thoughts which have not been fully baked the order is not yet established. Taxonomies are not yet establsihed.
