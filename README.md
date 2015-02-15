@@ -31,6 +31,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [Software](#software)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
+- [Text automation](#text-automation)
 - [Experimentation](#experimentation)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
@@ -220,6 +221,14 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
 * [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
 * [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript
+
+
+# Text automation
+
+* [MultilingualCorporaExtractor](https://github.com/OpenSourceFieldlinguistics/MultilingualCorporaExtractor) Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
+* [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) LaTeX web components
+* [clld](https://github.com/clld/clld) Cross Linguistic Linked Data python library
+* [SeedLing](https://github.com/OpenSourceFieldlinguistics/SeedLing) Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
 
 
 # Experimentation

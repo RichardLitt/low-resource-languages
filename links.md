@@ -1,11 +1,4 @@
 
-Import/Export
-* [MultilingualCorporaExtractor](https://github.com/OpenSourceFieldlinguistics/MultilingualCorporaExtractor) Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
-* [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) LaTeX web components
-* [clld](https://github.com/clld/clld) Cross Linguistic Linked Data python library
-* [SeedLing](https://github.com/OpenSourceFieldlinguistics/SeedLing) Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
-
-
 Training materials for interns
 * [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
 * [CorporaForFieldLinguistics](https://github.com/cesine/CorporaForFieldLinguistics) A collection of data for testing ToolsForFieldLinguistics scripts
