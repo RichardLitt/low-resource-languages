@@ -31,6 +31,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [Software](#software)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
+- [Experimentation](#experimentation)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
 - [Chrome Extensions](#chrome-extensions)
@@ -219,6 +220,16 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
 * [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
 * [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript
+
+
+# Experimentation
+
+* [GamifyPsycholinguisticsExperiments](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments) A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
+* [psychopyMegProsody](https://github.com/OpenSourceFieldlinguistics/psychopyMegProsody) Runs MegProsody using PsychoPy.
+* [experigen](https://github.com/tlozoot/experigen) A framework for creating linguistic experiments 
+* [OPrime](https://github.com/OpenSourceFieldlinguistics/OPrime) Open Source Experimentation Libraries - Online and Offline for Android and HTML5
+* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences 
+* [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
 
 
 # Computing systems
