@@ -1,7 +1,5 @@
 
 Training materials for interns
-* [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
-* [CorporaForFieldLinguistics](https://github.com/cesine/CorporaForFieldLinguistics) A collection of data for testing ToolsForFieldLinguistics scripts
 * [startR](https://github.com/shoestringpsycholing/startR) 
 
 

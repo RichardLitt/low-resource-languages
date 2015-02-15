@@ -181,6 +181,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
 * [Toney](https://github.com/langtech/toney) Tone Classification Software
 * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/ 
+* [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
 * [translitit-engine](https://github.com/OpenSourceFieldlinguistics/translitit-engine) A transliteration engine written in JavaScript
 * [Tsammalex data](https://github.com/clld/tsammalex-data) [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
 * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
