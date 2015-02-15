@@ -7,11 +7,11 @@
 * List of publications which have use this software
 * Languages which this software was designed to be used with and which are benefiting from this software
 * Target OS
-* Scripting language uses
+* Scripting language used
 * Code Peer Reviewed status
 * Project development status
 * Funding source
 * License
 * General lingusitics Task classification
 
-[//]: # these are just some thoughts which have not been fully baked the order is not yet established. Taxonomies are not yet establsihed.
+_These are just some thoughts which have not been fully baked. For instance the order of itemes is not yet established. Taxonomies are not yet establsihed for various segments like OS._
