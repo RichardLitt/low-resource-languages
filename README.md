@@ -30,11 +30,15 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Interactions and presentations of data](#interactions-and-presentations-of-data)
   - [Software](#software)
 - [i18n-related Repositories](#i18n-related-repositories)
+- [Audio automation](#audio-automation)
+- [Text automation](#text-automation)
+- [Experimentation](#experimentation)
+- [Natural language generation](#natural-language-generation)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
 - [Chrome Extensions](#chrome-extensions)
 - [FieldDB](#fielddb)
-  - [Modules](#modules)
+  - [FieldDB Webservices/Components/Plugins](#fielddb-webservicescomponentsplugins)
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
 - [Language & Code Interfaces](#language-&-code-interfaces)
 - [Organisations](#organisations)
@@ -108,6 +112,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
+* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
 * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
 * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
@@ -121,6 +126,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
+* [eopas](https://github.com/eopas/eopas) ETHNOER Online Presentation and Annotation System 
 * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
 * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
 * [Glottolog data](https://github.com/clld/glottolog-data) [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages. The data published in Glottolog is curated in https://github.com/clld/glottolog-data
@@ -178,6 +184,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
 * [Toney](https://github.com/langtech/toney) Tone Classification Software
 * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/ 
+* [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
 * [translitit-engine](https://github.com/OpenSourceFieldlinguistics/translitit-engine) A transliteration engine written in JavaScript
 * [Tsammalex data](https://github.com/clld/tsammalex-data) [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
 * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
@@ -197,6 +204,49 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Polyglot.js](http://airbnb.github.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
 * [Transifex](http://transifex.com) - System for providing a nice, userfriendly/project oriented approach to translating `.po` files. Great for non-technical users, free for open-source projects, decent for minority languages; **however**, it can take a while to get a new language added to the Transifex system because the ticketing system Transifex uses results in them losing tickets sometimes. Provides translation memory, ability to appoint reviewers, etc. Transifex used to have an open source system that you could host on your own, but that seems to have disappeared.
 
+
+# Audio automation
+
+* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java. 
+* [AudioWebService](https://github.com/OpenSourceFieldlinguistics/AudioWebService) a simple nodejs server which accepts upload of audio and runs it through praat
+* [BashScriptsForPhonetics](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)  (_Fork_ of a dormant project)
+* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts  
+* [PraatTextGridJS](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS) A small library which can parse TextGrid into json and json into TextGrid
+* [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) Python interface for forced audio alignment using HTK and SoX
+* [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
+* [arctic-prompts](https://github.com/psibre/arctic-prompts) Generate prompts PDF for CMU ARCTIC dataset
+* [esv-text-audio-aligner](https://github.com/westonruter/esv-text-audio-aligner) ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
+* [et-pocketsphinx-tutorial](https://github.com/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
+* [html5-audio-read-along](https://github.com/westonruter/html5-audio-read-along) HTML5 Audio Read-Along
+* [ipa-chart](https://github.com/westonruter/ipa-chart) International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
+* [lex4all](https://github.com/OpenSourceFieldlinguistics/lex4all) pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
+* [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
+* [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript 
+* [praat-py](https://github.com/OpenSourceFieldlinguistics/praat-py) From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
+* [prosodicParsing](https://github.com/jpate/prosodicParsing) different kinds of HMMs to use for incorporating prosody into basic parsing
+* [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools) 
+
+# Text automation
+
+* [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) LaTeX web components
+* [MultilingualCorporaExtractor](https://github.com/OpenSourceFieldlinguistics/MultilingualCorporaExtractor) Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
+* [SeedLing](https://github.com/OpenSourceFieldlinguistics/SeedLing) Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
+* [clld](https://github.com/clld/clld) Cross Linguistic Linked Data python library
+
+# Experimentation
+
+* [GamifyPsycholinguisticsExperiments](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments) A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
+* [OPrime](https://github.com/OpenSourceFieldlinguistics/OPrime) Open Source Experimentation Libraries - Online and Offline for Android and HTML5
+* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences 
+* [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
+* [experigen](https://github.com/tlozoot/experigen) A framework for creating linguistic experiments 
+* [psychopyMegProsody](https://github.com/OpenSourceFieldlinguistics/psychopyMegProsody) Runs MegProsody using PsychoPy.
+
+
+# Natural language generation
+
+* [hailo](https://github.com/OpenSourceFieldlinguistics/hailo) A conversation bot using Markov chains
+
 # Computing systems
 
 * [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.b.uib.no/about/) - One of their projects (not clearly listed here) is about providing an online system for language analysis, so users can connect resources visually, dump in text, and get a result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
@@ -214,29 +264,30 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Chrome Extensions
 
 * [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
-* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
-* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
+* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries) [use](https://chrome.google.com/webstore/detail/my-dictionary/jfmpeiicncingobdejgmmcamknndpbbi)
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. [use](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja) "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
-_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitely work with it.
+_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitly work with it but could be repurposed for other projects.
 
-* [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language. 
-* [UsageDashboard](https://github.com/OpenSourceFieldlinguistics/UsageDashboard) A realtime updating usage dashboard for fielddb servers (forked from dashing) (_Fork_)
+* [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language, has plugins for various data automation routines along the process of primary data collection to cleaning to publication and archival. [use](https://wwwdev.lingsync.org/)
 
-## Modules
+## FieldDB Webservices/Components/Plugins
 
-* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
-* [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
-* [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
-* [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
-* [fielddb-spreadsheet-sikuli](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli) sikuli tests for the spreadsheet module
-* [FieldDBActivityFeed](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed) A fielddb activity feed widget which can be embedded in other codebases, websites etc
-* [FieldDBChromeApp](https://github.com/OpenSourceFieldlinguistics/FieldDBChromeApp) A Chrome app workaround for deploying in a sandbox
-* [FieldDBGlosser](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Uses compression, maximum entropy and fieldlinguistics.
-* [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases=
-* [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) 
-* [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) 
+* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
+* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
+* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB 
+* [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
+* [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb core components, bower install fielddb --save
+* [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
+* [fielddb-spreadsheet-sikuli](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli) sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
+* [FieldDBActivityFeed](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed) A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa)
+* [FieldDBGlosser](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
+* [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
+* [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
 
 
 # Academic Research Paper-Specific Repositories
