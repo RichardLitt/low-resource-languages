@@ -73,7 +73,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp) CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
-* [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
 * [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/ 
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
@@ -185,7 +184,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Chrome Extensions
 
+* [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
