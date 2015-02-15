@@ -207,14 +207,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Audio automation
 
-* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java. 
-* [AudioWebService](https://github.com/OpenSourceFieldlinguistics/AudioWebService) a simple nodejs server which accepts upload of audio and runs it through praat
-* [BashScriptsForPhonetics](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)  (_Fork_ of a dormant project)
-* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts  
-* [PraatTextGridJS](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS) A small library which can parse TextGrid into json and json into TextGrid
-* [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) Python interface for forced audio alignment using HTK and SoX
-* [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
 * [arctic-prompts](https://github.com/psibre/arctic-prompts) Generate prompts PDF for CMU ARCTIC dataset
+* [AudioWebService](https://github.com/OpenSourceFieldlinguistics/AudioWebService) a simple nodejs server which accepts upload of audio and runs it through praat
+* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java. 
+* [BashScriptsForPhonetics](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)  (_Fork_ of a dormant project)
 * [esv-text-audio-aligner](https://github.com/westonruter/esv-text-audio-aligner) ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
 * [et-pocketsphinx-tutorial](https://github.com/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
 * [html5-audio-read-along](https://github.com/westonruter/html5-audio-read-along) HTML5 Audio Read-Along
@@ -223,24 +219,28 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript 
 * [praat-py](https://github.com/OpenSourceFieldlinguistics/praat-py) From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
+* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts  
+* [PraatTextGridJS](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS) A small library which can parse TextGrid into json and json into TextGrid
 * [prosodicParsing](https://github.com/jpate/prosodicParsing) different kinds of HMMs to use for incorporating prosody into basic parsing
+* [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) Python interface for forced audio alignment using HTK and SoX
 * [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools) 
+* [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
 
 # Text automation
 
+* [clld](https://github.com/clld/clld) Cross Linguistic Linked Data python library
 * [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) LaTeX web components
 * [MultilingualCorporaExtractor](https://github.com/OpenSourceFieldlinguistics/MultilingualCorporaExtractor) Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
 * [SeedLing](https://github.com/OpenSourceFieldlinguistics/SeedLing) Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
-* [clld](https://github.com/clld/clld) Cross Linguistic Linked Data python library
 
 # Experimentation
 
-* [GamifyPsycholinguisticsExperiments](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments) A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
-* [OPrime](https://github.com/OpenSourceFieldlinguistics/OPrime) Open Source Experimentation Libraries - Online and Offline for Android and HTML5
-* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences 
-* [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
 * [experigen](https://github.com/tlozoot/experigen) A framework for creating linguistic experiments 
+* [GamifyPsycholinguisticsExperiments](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments) A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
+* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences 
+* [OPrime](https://github.com/OpenSourceFieldlinguistics/OPrime) Open Source Experimentation Libraries - Online and Offline for Android and HTML5
 * [psychopyMegProsody](https://github.com/OpenSourceFieldlinguistics/psychopyMegProsody) Runs MegProsody using PsychoPy.
+* [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
 
 
 # Natural language generation
@@ -275,10 +275,8 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 ## FieldDB Webservices/Components/Plugins
 
-* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
-* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
-* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
 * [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB 
+* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
 * [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb core components, bower install fielddb --save
 * [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
@@ -288,6 +286,8 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
 * [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
 * [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
+* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
 
 
 # Academic Research Paper-Specific Repositories
