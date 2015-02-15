@@ -222,7 +222,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitely work with it.
 
 * [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language. 
-* [UsageDashboard](https://github.com/OpenSourceFieldlinguistics/UsageDashboard) A realtime updating usage dashboard for fielddb servers (forked from dashing) (_Fork_)
 
 ## Modules
 
