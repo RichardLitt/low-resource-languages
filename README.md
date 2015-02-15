@@ -7,6 +7,8 @@ There is no centralised list of open-source code that would be useful for docume
 
 To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
 
+In general, please link directly to the resource or to the page describing the resource. The blurb after the link should be something short - the GitHub description generally works well, although the blurb may have to be written manually for non-GitHub links or for GitHub links which lack descriptions. Please make sure each link is on one line, to help with automatic alphabetization. 
+
 ## Definitions
 
 **Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).  
@@ -15,18 +17,95 @@ To edit this list, simply [click here](https://github.com/RichardLitt/endangered
 
 Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
+# Table of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Generic Repositories](#generic-repositories)
+  - [Massive Dictionary and Lexicography projects](#massive-dictionary-and-lexicography-projects)
+  - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
+    - [Utilities](#utilities)
+    - [Interactions and presentations of data](#interactions-and-presentations-of-data)
+  - [Software](#software)
+- [i18n-related Repositories](#i18n-related-repositories)
+- [Computing systems](#computing-systems)
+- [Android Applications](#android-applications)
+- [Chrome Extensions](#chrome-extensions)
+- [FieldDB](#fielddb)
+  - [Modules](#modules)
+- [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
+- [Language & Code Interfaces](#language-&-code-interfaces)
+- [Organisations](#organisations)
+  - [On GitHub](#on-github)
+  - [Other OSS Organisations](#other-oss-organisations)
+- [Language Specific Projects](#language-specific-projects)
+    - [Amharic](#amharic)
+    - [Arabic](#arabic)
+    - [Bengali](#bengali)
+    - [Chichewa](#chichewa)
+    - [Georgia](#georgia)
+    - [Guarani](#guarani)
+    - [Hindi](#hindi)
+    - [Høgnorsk](#høgnorsk)
+    - [Irish](#irish)
+    - [Japanese](#japanese)
+    - [Kinyarwanda](#kinyarwanda)
+    - [Korean](#korean)
+    - [Lingala](#lingala)
+    - [Malagasy](#malagasy)
+    - [Migmaq](#migmaq)
+    - [Minderico](#minderico)
+    - [Oromo](#oromo)
+    - [Pomo](#pomo)
+    - [Quechua](#quechua)
+    - [Sámi (Saami)](#sámi-saami)
+    - [Scottish Gaelic](#scottish-gaelic)
+    - [Secwepemctsín](#secwepemctsín)
+    - [Somali](#somali)
+    - [Tigrinya](#tigrinya)
+    - [Zulu](#zulu)
+- [Closed Source Resourcs](#closed-source-resourcs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Generic Repositories
 
+##Massive Dictionary and Lexicography projects
+* [ABVD](http://language.psy.auckland.ac.nz/austronesian/) Austronesian Basic Vocabulary Database
+* [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
+* [IE](http://ielex.mpi.nl./) Indo-european comparitive lexical resource
+* [REFLEX](http://www.reflex.cnrs.fr/) a comparative dictionary project for Africa based out of CNRS in France.
+* [Southeast Asian lexicography](http://sealang.net/) Several Southeast Asian lexicons hosted.
+* [STEDT](http://stedt.berkeley.edu/database) Tibeto-burman focused project  where dictionaries from several languages are comparable.
+* [Tibeto-burman lexicography](http://www.himalayanlanguages.org/cdtd)
+
+##Single language lexicography projects and utilities
+###Utilities
+* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
+* [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
+* [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
+
+###Interactions and presentations of data
+* [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people. 
+* [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
+* [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
+* [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
+* [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
+* [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
+
+##Software
 * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
 * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
 * [Anki](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp) CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
-* [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
+* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/ 
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
-* [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
@@ -37,6 +116,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
 * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
 * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
+* [discoursegraphs](https://github.com/arne-cl/discoursegraphs) Python-based tool to convert and merge multilayer annotated linguistic data
 * [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
 * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
@@ -133,7 +213,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Chrome Extensions
 
+* [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
@@ -167,6 +249,27 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [type-supervised-tagging-2012emnlp](https://github.com/dhgarrette/type-supervised-tagging-2012emnlp) This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. _Dan Garrette and Jason Baldridge_. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit [nlp](https://github.com/dhgarrette/nlp)
 * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
 * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
+
+# Language & Code Interfaces 
+
+* [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
+
+# Organisations
+
+## On GitHub
+
+* [batumi](https://github.com/batumi) Speech recognition and natural language processing for low-resource languages
+* [lex4all](https://github.com/lex4all)
+* [longnow](https://github.com/longnow)
+* [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
+* [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
+* [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+
+## Other OSS Organisations
+
+* [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
 # Language Specific Projects
 
@@ -282,25 +385,6 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 ###Zulu
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
-
-# Language & Code Interfaces 
-
-* [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
-
-# Github Organisations
-
-* [batumi](https://github.com/batumi) Speech recognition and natural language processing for low-resource languages
-* [lex4all](https://github.com/lex4all)
-* [longnow](https://github.com/longnow)
-* [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
-* [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
-* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
-* [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that it's code is now all open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
-* [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
-
-# Other OSS Organisations
-
-* [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
 # Closed Source Resourcs
 
