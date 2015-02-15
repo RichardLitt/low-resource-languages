@@ -264,32 +264,30 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Chrome Extensions
 
 * [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
-* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
-* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
+* [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries) [use](https://chrome.google.com/webstore/detail/my-dictionary/jfmpeiicncingobdejgmmcamknndpbbi)
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. [use](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja) "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
-_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitely work with it.
+_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitly work with it but could be repurposed for other projects.
 
-* [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language. 
+* [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language, has plugins for various data automation routines along the process of primary data collection to cleaning to publication and archival. [use](https://wwwdev.lingsync.org/)
 
 ## FieldDB Webservices/Components/Plugins
 
-* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) 
-* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
-* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) 
-* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the Drag and Drop FieldLinguistics project.
-* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
-* [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
-* [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
-* [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
-* [fielddb-spreadsheet-sikuli](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli) sikuli tests for the spreadsheet module
-* [FieldDBActivityFeed](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed) A fielddb activity feed widget which can be embedded in other codebases, websites etc
-* [FieldDBChromeApp](https://github.com/OpenSourceFieldlinguistics/FieldDBChromeApp) A Chrome app workaround for deploying in a sandbox
-* [FieldDBGlosser](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Uses compression, maximum entropy and fieldlinguistics.
-* [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases=
-* [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) 
-* [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) 
+* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
+* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
+* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB 
+* [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
+* [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb core components, bower install fielddb --save
+* [dative](https://github.com/OpenSourceFieldlinguistics/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
+* [fielddb-spreadsheet-sikuli](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli) sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
+* [FieldDBActivityFeed](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed) A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa)
+* [FieldDBGlosser](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
+* [FieldDBLexicon](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon) A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
+* [FieldDBWebServer](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer) Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LanguageClassDashboard](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard) App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
 
 
 # Academic Research Paper-Specific Repositories
