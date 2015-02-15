@@ -16,7 +16,6 @@ To edit this list, simply [click here](https://github.com/RichardLitt/endangered
 Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
 # Generic Repositories
-_Generic Repositories means what exacty? - that it has a home on sourceforge/github? because not everything in this list is one or the other_
 
 ##Massive Dictionary and Lexicography projects
 * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
@@ -169,7 +168,7 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [UsageDashboard](https://github.com/OpenSourceFieldlinguistics/UsageDashboard) A realtime updating usage dashboard for fielddb servers (forked from dashing) (_Fork_)
 
 ## Modules
-_the term "modules" means something in Python. What does it mean here?_
+
 * [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
 * [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/api to modify the source code
