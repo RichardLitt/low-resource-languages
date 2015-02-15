@@ -24,6 +24,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Generic Repositories](#generic-repositories)
+  - [Massive Dictionary and Lexicography projects](#massive-dictionary-and-lexicography-projects)
+  - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
+    - [Utilities](#utilities)
+    - [Interactions and presentations of data](#interactions-and-presentations-of-data)
+  - [Software](#software)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
