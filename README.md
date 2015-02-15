@@ -243,6 +243,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
 
 
+# Natural language generation
+
+* [hailo](https://github.com/OpenSourceFieldlinguistics/hailo) A conversation bot using Markov chains
+
+
 # Computing systems
 
 * [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.b.uib.no/about/) - One of their projects (not clearly listed here) is about providing an online system for language analysis, so users can connect resources visually, dump in text, and get a result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
