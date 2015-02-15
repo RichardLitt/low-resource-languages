@@ -186,6 +186,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 * [babelfrog](https://github.com/dergachev/babelfrog) Chrome extension to help learn languages as you browse.
 * [DictionaryChromeExtension](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension) Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
