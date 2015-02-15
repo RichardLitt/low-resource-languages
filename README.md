@@ -33,6 +33,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 - [Audio automation](#audio-automation)
 - [Text automation](#text-automation)
 - [Experimentation](#experimentation)
+- [Natural language generation](#natural-language-generation)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
 - [Chrome Extensions](#chrome-extensions)
