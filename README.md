@@ -41,30 +41,30 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [On GitHub](#on-github)
   - [Other OSS Organisations](#other-oss-organisations)
 - [Language Specific Projects](#language-specific-projects)
-    - [Amharic](#amharic)
-    - [Arabic](#arabic)
-    - [Bengali](#bengali)
-    - [Chichewa](#chichewa)
-    - [Georgia](#georgia)
+    - [Amharic/አማርኛ](#amharicአማርኛ)
+    - [Arabic/العربية](#arabicالعربية)
+    - [Bengali/বাংলা](#bengaliবাংলা)
+    - [Chichewa/chicheŵa](#chichewachicheŵa)
+    - [Georgian/ქართული](#georgianქართული)
     - [Guarani](#guarani)
-    - [Hindi](#hindi)
+    - [Hindi/हिन्दी](#hindiहिन्दी)
     - [Høgnorsk](#høgnorsk)
-    - [Irish](#irish)
-    - [Japanese](#japanese)
-    - [Kinyarwanda](#kinyarwanda)
-    - [Korean](#korean)
-    - [Lingala](#lingala)
+    - [Irish/Gaeilge](#irishgaeilge)
+    - [Japanese/日本語](#japanese日本語)
+    - [Kinyarwanda/Ikinyarwanda](#kinyarwandaikinyarwanda)
+    - [Korean/한국어](#korean한국어)
+    - [Lingala/Lingála](#lingalalingála)
     - [Malagasy](#malagasy)
     - [Migmaq](#migmaq)
     - [Minderico](#minderico)
     - [Oromo](#oromo)
     - [Pomo](#pomo)
-    - [Quechua](#quechua)
+    - [Quechua/Runa Simi](#quechuaruna-simi)
     - [Sámi (Saami)](#sámi-saami)
-    - [Scottish Gaelic](#scottish-gaelic)
+    - [Scottish Gaelic/Gàidhlig](#scottish-gaelicgàidhlig)
     - [Secwepemctsín](#secwepemctsín)
-    - [Somali](#somali)
-    - [Tigrinya](#tigrinya)
+    - [Somali/Soomaaliga](#somalisoomaaliga)
+    - [Tigrinya/ትግርኛ](#tigrinyaትግርኛ)
     - [Zulu](#zulu)
 - [Closed Source Resourcs](#closed-source-resourcs)
 
@@ -272,33 +272,37 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 # Language Specific Projects
 
-###Amharic
+###Amharic/አማርኛ
+
 * [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) -
 morphological analysis and generation of Amharic and Oromo verbs and nouns
 and Tigrinya verbs
 
 
-###Arabic 
+###Arabic/العربية
+
 * [Buckwalter](https://github.com/KentonMurray/Buckwalter) A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 
-###Bengali
+###Bengali/বাংলা
 
 * [Bangla-অঙ্কুর for Mac](http://sourceforge.net/projects/onkur/) This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
 * [Bengali Writer](http://sourceforge.net/projects/bengaliwriter/) `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more.
 * [Ekushey](http://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
 * [Lekho](http://sourceforge.net/projects/lekho/) A collection of tools and resources for using bangla on computers
 
-###Chichewa
+###Chichewa/chicheŵa
 
 * [Chichewa](https://github.com/kscanne/chichewa) NLP resources for Chichewa
 
-###Georgia
+###Georgian/ქართული
+
 * [translitit-latin-to-mkhedruli-georgian](https://github.com/OpenSourceFieldlinguistics/translitit-latin-to-mkhedruli-georgian) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
 ###Guarani
+
 * [ParaMorfo](http://www.cs.indiana.edu/~gasser/research/software.html) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives
 
-###Hindi
+###Hindi/हिन्दी
 
 * [hindi-morph](https://github.com/OpenSourceFieldlinguistics/hindi-morph) An open source morphological analyzer for Hindi
 
@@ -306,7 +310,7 @@ and Tigrinya verbs
 
 * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.  
 
-###Irish
+###Irish/Gaeilge
 
 * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
 * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
@@ -315,27 +319,30 @@ and Tigrinya verbs
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
 * [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
 
-###Japanese
+###Japanese/日本語
 
 * [kuromoji](https://github.com/atilika/kuromoji) Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
 * [kuromoji-server](https://github.com/atilika/kuromoji-server) Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
-###Kinyarwanda
+###Kinyarwanda/Ikinyarwanda
 
 * [kin-morph-fst](https://github.com/ldmt-muri/kin-morph-fst) Kinyarwanda morphological analyzer
 * [TurboTagger & TurboParser for Kinyarwanda (download)](http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
 
-###Korean
+###Korean/한국어
 
 * [komoran](https://github.com/shineware/komoran-2.0) Korean morphological analyzer
 
-###Lingala
+###Lingala/Lingála
+
 * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
 ###Malagasy
+
 * [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
 
 ###Migmaq
+
 * [migmaqLessons](https://github.com/OpenSourceFieldlinguistics/migmaqLessons) 
 
 ###Minderico
@@ -344,18 +351,21 @@ and Tigrinya verbs
 * [mindericobot](https://github.com/cidles/mindericobot) 
 
 ###Oromo
+
 * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
 
 ###Pomo
+
 * [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
 
-###Quechua
+###Quechua/Runa Simi
 
 * [AntiMorfo](http://www.cs.indiana.edu/~gasser/Research/software.html) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
 * [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
 
 ###Sámi (Saami)
+
 * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
 * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and 
@@ -368,21 +378,25 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 * Other Uralic languages: Erzya, Finnish, Hill Mari, Ingrian, Khanty, Kven, Komi, Livonian, Meadow Mari, Moksha, Nenets, Nganasan, Olonetsian, Udmurt, Veps.
 * Other languages: Buriat, Cornish, Faroese, Greenlandic, Iñupiaq, Northern Haida, Ojibwe, Plains Cree, Russian.
 
-###Scottish Gaelic
+###Scottish Gaelic/Gàidhlig
+
 * [hunspell-gd](https://github.com/kscanne/hunspell-gd) Files for building Scottish Gaelic spell checkers
 
 ###Secwepemctsín
+
 * [secwepemctsnem](https://github.com/neskie/secwepemctsnem) A project to help people learn Secwepemctsín.
 
-###Somali
+###Somali/Soomaaliga
 
 * [somorph](https://github.com/rtxanson/somorph) Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in [Giellatekno's](http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html) repository.
 * [qaamuus.so](http://qaamuus.so/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
 
-###Tigrinya
+###Tigrinya/ትግርኛ
+
 * [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 ###Zulu
+
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 
 # Closed Source Resourcs
