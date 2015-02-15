@@ -2,11 +2,11 @@ Already added:
 
 ## Webservices
 
-	* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) 
-	* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
-	* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
-	* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) 
-	* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the Drag and Drop FieldLinguistics project.
+* [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) 
+* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
+* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
+* [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) 
+* [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the Drag and Drop FieldLinguistics project.
 
 
 Import/Export
