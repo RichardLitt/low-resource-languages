@@ -6,26 +6,6 @@ Import/Export
 * [SeedLing](https://github.com/OpenSourceFieldlinguistics/SeedLing) Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
 
 
-Audio automation
-* [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) Python interface for forced audio alignment using HTK and SoX 
-* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java. 
-* [prosodicParsing](https://github.com/jpate/prosodicParsing) different kinds of HMMs to use for incorporating prosody into basic parsing 
-* [esv-text-audio-aligner](https://github.com/westonruter/esv-text-audio-aligner) ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
-* [html5-audio-read-along](https://github.com/westonruter/html5-audio-read-along) HTML5 Audio Read-Along
-* [ipa-chart](https://github.com/westonruter/ipa-chart) International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
-* [BashScriptsForPhonetics](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)  (_Fork_ of a dormant project)
-* [et-pocketsphinx-tutorial](https://github.com/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
-* [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools) 
-* [AudioWebService](https://github.com/OpenSourceFieldlinguistics/AudioWebService) a simple nodejs server which accepts upload of audio and runs it through praat
-* [praat-py](https://github.com/OpenSourceFieldlinguistics/praat-py) From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
-* [PraatTextGridJS](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS) A small library which can parse TextGrid into json and json into TextGrid
-* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts 
-* [lex4all](https://github.com/OpenSourceFieldlinguistics/lex4all) pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
-* [arctic-prompts](https://github.com/psibre/arctic-prompts) Generate prompts PDF for CMU ARCTIC dataset
-* [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
-* [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
-* [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript
-
 Training materials for interns
 * [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
 * [CorporaForFieldLinguistics](https://github.com/cesine/CorporaForFieldLinguistics) A collection of data for testing ToolsForFieldLinguistics scripts
