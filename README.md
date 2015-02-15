@@ -112,6 +112,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
+* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
 * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
 * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
@@ -278,7 +279,6 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 ## FieldDB Webservices/Components/Plugins
 
 * [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) 
-* [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
 * [LexiconWebService](https://github.com/OpenSourceFieldlinguistics/LexiconWebService) 
 * [LexiconWebServiceSample](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample) A node.js web server which implements the fieldlinguist's lexicon API for the Drag and Drop FieldLinguistics project.
