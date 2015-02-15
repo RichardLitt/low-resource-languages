@@ -223,7 +223,7 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 * [FieldDB](https://github.com/OpenSourceFieldlinguistics/FieldDB) An offline/online field database which adapts to its user's terminology and I-Language. 
 
-## Modules
+## FieldDB Webservices/Components/Plugins
 
 * [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular compiled versions, see https://github.com/OpenSourceFieldlinguistics/FieldDB/tree/master/angular_client/modules/core to modify the source code
