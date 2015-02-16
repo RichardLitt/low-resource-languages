@@ -32,10 +32,13 @@
   * .NET
   * Bash
   * C++
+  * Ruby
   * C#
 * Code Peer Reviewed status
   * A Single code developer
   * Multiple developers
+* Institutional Support
+ * Name of institution
 * Project development status
   * Closed
   * Abandond
