@@ -304,6 +304,16 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
 * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
 
+# Example Repositories 
+
+_These are repositories that are generally only interesting for training purposes or seeing how something is done._
+
+* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb 
+* [CorporaForFieldLinguistics](https://github.com/OpenSourceFieldlinguistics/CorporaForFieldLinguistics) 
+* [startR](https://github.com/OpenSourceFieldlinguistics/startR) 
+* [lucenerevolution-2013](https://github.com/OpenSourceFieldlinguistics/lucenerevolution-2013) Demo examples for linguistics in Lucene and Solr
+* [berlin-buzzwords-2013](https://github.com/OpenSourceFieldlinguistics/berlin-buzzwords-2013) Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
+
 # Language & Code Interfaces 
 
 * [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
