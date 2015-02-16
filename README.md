@@ -40,6 +40,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 - [FieldDB](#fielddb)
   - [FieldDB Webservices/Components/Plugins](#fielddb-webservicescomponentsplugins)
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
+- [Example Repositories](#example-repositories)
 - [Language & Code Interfaces](#language-&-code-interfaces)
 - [Organisations](#organisations)
   - [On GitHub](#on-github)
