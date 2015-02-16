@@ -1,5 +1,5 @@
 #Content Template
-*This template represents the
+*This template represents the targeted types of information which would be helpful to review software.*
 
 * Software name
 * Software version number
