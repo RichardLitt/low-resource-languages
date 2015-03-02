@@ -98,6 +98,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
+* [Template for Multilayered Language Learning Resources] (https://github.com/eddersko/web-template) This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
@@ -264,6 +265,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [AndroidProductionExperiment](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment) Android App to run perception experiments 
 * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
+* [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
 
 # Chrome Extensions
 
@@ -457,7 +459,10 @@ and tigrinya verbs
 
 _pmm :: Pomo_
 
-* [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
+* [jano sho:jin - hearing Northern Pomo words (iOS)](https://itunes.apple.com/us/app/id895530122) This word-learning app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
+* [jano sho:jin - hearing Northern Pomo words (Android)](https://play.google.com/store/apps/details?id=com.northpomo.janoshojin) This word-learning app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years. This version includes a quiz.
+* [Northern Pomo Language Tools] (http://northernpomolanguagetools.com/) The Northern Pomo Langauge Tools website presents language learning resources. The website is intended to provide access to a corpus of recordings from fieldwork to the community members. It including an online talking dictionary, and a phrasicon, containing phrases and sentences.
+* [Kashaya cahno] (https://play.google.com/store/apps/details?id=com.northpomo.kashaya) This is a Kashaya Pomo word-learning app developed from a template version based on the Northern Pomo app.
 
 ###Quechua
 
