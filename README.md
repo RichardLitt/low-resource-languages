@@ -63,7 +63,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Migmaq](#migmaq)
     - [Minderico](#minderico)
     - [Oromo](#oromo)
-    - [Pomo](#pomo)
     - [Quechua](#quechua)
     - [Sami](#sami)
     - [Scottish Gaelic](#scottish-gaelic)
@@ -454,15 +453,6 @@ _orm :: Oromo_
 
 * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
-
-###Pomo
-
-_pmm :: Pomo_
-
-* [jano sho:jin - hearing Northern Pomo words (iOS)](https://itunes.apple.com/us/app/id895530122) This word-learning app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
-* [jano sho:jin - hearing Northern Pomo words (Android)](https://play.google.com/store/apps/details?id=com.northpomo.janoshojin) This word-learning app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years. This version includes a quiz.
-* [Northern Pomo Language Tools] (http://northernpomolanguagetools.com/) The Northern Pomo Langauge Tools website presents language learning resources. The website is intended to provide access to a corpus of recordings from fieldwork to the community members. It including an online talking dictionary, and a phrasicon, containing phrases and sentences.
-* [Kashaya cahno] (https://play.google.com/store/apps/details?id=com.northpomo.kashaya) This is a Kashaya Pomo word-learning app developed from a template version based on the Northern Pomo app.
 
 ###Quechua
 
