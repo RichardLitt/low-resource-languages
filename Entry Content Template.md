@@ -63,5 +63,23 @@
  * Code is open but service is pay
  * Code is open but service is sign-in
  * Code is closed but content is Open Access
+* Technical senario
+ * Sever <-> Desktop - LAN
+ * Server <-> Desktop - Net
+ * Server
+ * Mobile <-> desktop - LAN
+ * Mobile <-> desktop - Net
+ * Router
+ * Mobile <-> Mobile - LAN
+ * Mobile <-> Mobile - Net
+ * Mobile <-> Server - LAN
+ * Mobile <-> Server - Net
+ * Desktop <-> Desktop
+ * Desktop
+* GUI
+ * Has a GUI - Has an unrefined GUI - needs work
+ * Has a GUI - Designed for general public use
+ * Has no GUI - is designed for programers to use
+
 
 _These are just some thoughts which have not been fully baked. For instance the order of itemes is not yet established. Taxonomies are not yet establsihed for various segments like OS._
