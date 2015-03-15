@@ -1,5 +1,8 @@
 #Standards used in Language Technology and Lingusitics
 
+##Language related ISO standards
+* http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=48124
+
 ##Language and Language Family Identification
 * ISO 639-1
 * ISO 639-2
@@ -12,7 +15,13 @@
 * BCP 47: [Best Current Practice 47](https://tools.ietf.org/html/bcp47), which includes RFC 5646
 * RFC 5646, which superseded RFC 4646, which superseded [RFC 3066](https://www.ietf.org/rfc/rfc3066.txt). (Therefore all standards which depend on any of these 3 IETF standards now use ISO 639-3.)
 
+##Character Encoding 
+* Unicode 
+  * UTF-8
+  * UTF-16
+  * 
 ##Script Identification Standards
+* ISO 15924 [More on Unicode Website](http://unicode.org/iso15924/codelists.html)
 
 ##Metadata Standards
 * OLAC 1.1 [OLAC: the Open Languages Archive Community](http://www.language-archives.org/REC/language.html)
