@@ -19,7 +19,7 @@
 * Unicode 
   * UTF-8
   * UTF-16
-  * 
+
 ##Script Identification Standards
 * ISO 15924 [More on Unicode Website](http://unicode.org/iso15924/codelists.html)
 * ISO 15919 A standard for transliteration of Indic scripts to Roman scripts[More on Wikipedia](http://en.wikipedia.org/wiki/ISO_15919)
