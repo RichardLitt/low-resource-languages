@@ -402,9 +402,9 @@ _gle :: Gaeilge_
 * [aimsigh](https://github.com/kscanne/aimsigh) Source for the now-defunct aimsigh.com Irish search engine
 * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
 * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
-* [GaelSpell](https://code.google.com/p/gaelspell/) Sources for an Irish language spell checker
+* [GaelSpell](https://github.com/kscanne/gaelspell) Sources for an Irish language spell checker
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
-* [tesseract-gle-uncial](https://code.google.com/p/tesseract-gle-uncial/) OCR for old Irish fonts
+* [tesseract-gle-uncial](https://github.com/kscanne/tesseract-gle-uncial/) OCR for old Irish fonts
 
 ###Japanese
 
