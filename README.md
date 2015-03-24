@@ -176,7 +176,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [pressagio](https://github.com/cidles/pressagio) Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [pyannotation](https://github.com/cidles/pyannotation) PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
-* [Rosetta Pangloss](https://code.google.com/p/rosetta-pangloss/source/checkout) The Rosetta Project's Pangloss system
+* [Rosetta Pangloss](https://github.com/jcgood/rosetta-pangloss) The Rosetta Project's Pangloss system
 * [Salt](https://github.com/korpling/salt) A graph-based model to store and manipulate linguistic data.
 * [Secwepemc-Facebook](https://github.com/kscanne/secwepemc-facebook) Translate Facebook into unsupported languages
 * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
