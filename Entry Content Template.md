@@ -87,4 +87,5 @@
 
 
 
-_These are just some thoughts which have not been fully baked. For instance the order of itemes is not yet established. Taxonomies are not yet establsihed for various segments like OS._
+_These are just some thoughts which have not been fully baked. For instance the order of items is not yet established. Taxonomies are not yet established for various segments like OS._
+_Further consideration of a entry content should consult the [DCMI Tools Metadata Application Profile](http://dublincore.org/groups/tools/map.shtml) and an associated PDF/Paper: [DCMI-Tools: Ontologies for Digital Application Description](http://elpub.scix.net/data/works/att/123_elpub2007.content.pdf). Both of these resources make mention of a ontology called DOAP. https://github.com/edumbill/doap/wiki_
