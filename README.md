@@ -345,9 +345,8 @@ _These are repositories that are generally only interesting for training purpose
 
 _amh :: አማርኛ_
 
-* [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) -
-morphological analysis and generation of Amharic and Oromo verbs and nouns
-and Tigrinya verbs
+* [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) -
+morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 
 ###Arabic
@@ -381,7 +380,7 @@ _kat :: ქართული_
 
 _grn :: Guarani_
 
-* [ParaMorfo](http://www.cs.indiana.edu/~gasser/research/software.html) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives
+* [ParaMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives. Used to be [here](http://www.cs.indiana.edu/~gasser/research/software.html).
 
 ###Hindi
 
@@ -432,6 +431,10 @@ _lin :: Lingála_
 
 * [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Malay
+
+* [MorfoMalayu](https://github.com/LowResourceLanguages/hltdi-morphology) morphological analysis of Malay words
+
 ###Malagasy
 
 _mlg :: Malagasy_
@@ -453,14 +456,14 @@ _mic :: Mi'kmaq_
 
 _orm :: Oromo_
 
-* [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) morphological analysis and generation of amharic and oromo verbs and nouns
+* [hornmorpho](https://github.com/LowResourceLanguages/hltdi-morphology) morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
 
 ###Quechua
 
 _que :: Runa Simi_
 
-* [AntiMorfo](http://www.cs.indiana.edu/~gasser/Research/software.html) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
+* [AntiMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
 * [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
 
 ###Sami
@@ -500,7 +503,7 @@ _som :: Soomaaliga_
 
 _tir :: ትግርኛ_
 
-* [HornMorpho](http://www.cs.indiana.edu/~gasser/Research/software.html) morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
+* [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 ###Zulu
 
