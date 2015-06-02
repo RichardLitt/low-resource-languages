@@ -116,6 +116,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [clam](https://github.com/proycon/clam) Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
 * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
+* [CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
 * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
 * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
 * [DataTags](https://github.com/OpenSourceFieldlinguistics/DataTags) A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (_Fork_) 
@@ -175,6 +176,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [poio-site](https://github.com/cidles/poio-site) The website of the Poio project - http://www.poio.eu
 * [pressagio](https://github.com/cidles/pressagio) Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [pyannotation](https://github.com/cidles/pyannotation) PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
+* [PyAnnotationGraph](https://github.com/PhonologicalCorpusTools/PyAnnotationGraph) Implement the formal model for linguistic annotations described in Bird and Liberman (2001) using Python and SQL
 * [pyDelphin](https://github.com/goodmami/pydelphin) Python libraries for DELPH-IN (Friendly Fork)
 * [Rosetta Pangloss](https://github.com/jcgood/rosetta-pangloss) The Rosetta Project's Pangloss system
 * [Salt](https://github.com/korpling/salt) A graph-based model to store and manipulate linguistic data.
@@ -331,6 +333,7 @@ _These are repositories that are generally only interesting for training purpose
 * [longnow](https://github.com/longnow)
 * [NLTK](https://github.com/nltk/nltk) [http://nltk.github.com/](http://nltk.github.com/)
 * [OpenSourceFieldLinguistics](https://github.com/OpenSourceFieldlinguistics)
+* [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools)
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
 * [SIL International](https://github.com/sillsdev) [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
 * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
