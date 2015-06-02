@@ -1,19 +1,19 @@
 Endangered Languages
 ====================
 
-There is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](http://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independant scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts. 
+There is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](http://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independant scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
 
 ## Contribute
 
 To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
 
-In general, please link directly to the resource or to the page describing the resource. The blurb after the link should be something short - the GitHub description generally works well, although the blurb may have to be written manually for non-GitHub links or for GitHub links which lack descriptions. Please make sure each link is on one line, to help with automatic alphabetization. 
+In general, please link directly to the resource or to the page describing the resource. The blurb after the link should be something short - the GitHub description generally works well, although the blurb may have to be written manually for non-GitHub links or for GitHub links which lack descriptions. Please make sure each link is on one line, to help with automatic alphabetization.
 
 ## Definitions
 
-**Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).  
+**Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).
 
-**Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](http://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere. 
+**Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](http://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
 
 Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
 
@@ -93,7 +93,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
 
 ###Interactions and presentations of data
-* [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people. 
+* [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
@@ -109,7 +109,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp) CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
 * [bayesline](https://github.com/alvations/bayesline) A Multinomial Bayesian Classification for Language Identification
-* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/ 
+* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
 * [brain](https://github.com/OpenSourceFieldlinguistics/brain) Neural networks in JavaScript
 * [cdec](https://github.com/redpony/cdec) Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
@@ -117,20 +117,20 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [clld](https://github.com/clld/clld) The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
 * [Cog](https://github.com/sillsdev/cog) Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
 * [CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
-* [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. 
+* [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible.
 * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
-* [DataTags](https://github.com/OpenSourceFieldlinguistics/DataTags) A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (_Fork_) 
+* [DataTags](https://github.com/OpenSourceFieldlinguistics/DataTags) A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (_Fork_)
 * [dataverse](https://github.com/IQSS/dataverse) A data repository framework to share and publish research data.
 * [dative](https://github.com/jrwdunham/dative) A single-page application that interacts with multiple linguistic fieldwork web service databases.
 * [DeepLearnToolbox](https://github.com/OpenSourceFieldlinguistics/DeepLearnToolbox) Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
 * [Desmeme](https://github.com/jcgood/desmeme) Database and tools for exploring linguistic templates
 * [dictdb](https://github.com/substack/dictdb) dictionary database for language translation
 * [discoursegraphs](https://github.com/arne-cl/discoursegraphs) Python-based tool to convert and merge multilayer annotated linguistic data
-* [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W 
+* [DLTK](https://github.com/alvations/DLTK) Deutsch Language Tool Kit http://goo.gl/wdnz1W
 * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
-* [eopas](https://github.com/eopas/eopas) ETHNOER Online Presentation and Annotation System 
+* [eopas](https://github.com/eopas/eopas) ETHNOER Online Presentation and Annotation System
 * [FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/
 * [FLEx / FieldWorks](https://github.com/sillsdev/FieldWorks) FieldWorks is popular a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
 * [Gaia](https://github.com/mozilla-b2g/gaia/) Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
@@ -143,7 +143,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [itweets-geodata](https://github.com/kscanne/itweets-geodata) Geodata from Indigenous Tweets
 * [koreksyon](https://github.com/reokatoa/koreksyon) Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
 * [l20n.js](https://github.com/l20n/l20n.js) L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
-* [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html). 
+* [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html).
 * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
 * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) Material relating to the LEGO Unified Concepticon
 * [Lex4All](https://github.com/lex4all/lex4all) pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
@@ -184,14 +184,14 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [SeedLing](https://github.com/alvations/SeedLing) Building and Using A Seed Corpus for the Human Language Project
 * [Skype in your language](http://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
 * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
-* [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools  
+* [Stanford CoreNLP Python](https://github.com/dasmith/stanford-corenlp-python) Python wrapper for Stanford CoreNLP tools
 * [sugali](https://github.com/alvations/sugali) This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
 * [SuGarLike](https://github.com/alvations/SuGarLike) Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
 * [TeraDict](https://github.com/longnow/TeraDict) Translate English words into hundreds of languages!
 * [TexNLP](https://github.com/utcompling/texnlp) TexNLP: Texas Natural Language Processing tools
 * [Toney](https://github.com/langtech/toney) Tone Classification Software
-* [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/ 
-* [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics 
+* [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
+* [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) A collection of scripts and recipes for linguistics
 * [translitit-engine](https://github.com/OpenSourceFieldlinguistics/translitit-engine) A transliteration engine written in JavaScript
 * [Tsammalex data](https://github.com/clld/tsammalex-data) [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
 * [tweet2learn](https://github.com/kscanne/tweet2learn) An app to make it easier to use your native language on Twitter
@@ -200,7 +200,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [UniversalDependencies tools](https://github.com/universaldependencies/tools) Various utilities for processing the data.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
 * [WeSay](https://github.com/sillsdev/wesay) Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
-* [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries 
+* [WordBoundary](https://github.com/eddersko/WordBoundary) An experiment in the detection and segmentation of word boundaries
 * [wordbyword](https://github.com/cidles/wordbyword) WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
 * [WSI4URLang](https://github.com/mohammadnasiruddin/WSI4URLang) Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
 * [XDXF_Makedict](https://github.com/soshial/xdxf_makedict) XDXF dictionary format and "makedict" dictionary converting software (official repository)
@@ -217,7 +217,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 * [arctic-prompts](https://github.com/psibre/arctic-prompts) Generate prompts PDF for CMU ARCTIC dataset
 * [AudioWebService](https://github.com/OpenSourceFieldlinguistics/AudioWebService) a simple nodejs server which accepts upload of audio and runs it through praat
-* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java. 
+* [AuToBI](https://github.com/AndrewRosenberg/AuToBI) Automatic prosodic annotation tool written in Java.
 * [BashScriptsForPhonetics](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)  (_Fork_ of a dormant project)
 * [esv-text-audio-aligner](https://github.com/westonruter/esv-text-audio-aligner) ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
 * [et-pocketsphinx-tutorial](https://github.com/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
@@ -225,13 +225,13 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ipa-chart](https://github.com/westonruter/ipa-chart) International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
 * [lex4all](https://github.com/OpenSourceFieldlinguistics/lex4all) pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
 * [opensauce](https://github.com/voicesauce/opensauce) GNU Octave-compatible version of VoiceSauce
-* [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript 
+* [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) Speech recognition in JavaScript
 * [praat-py](https://github.com/OpenSourceFieldlinguistics/praat-py) From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
-* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts  
+* [Praat-Scripts](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts) Mietta's Scripts
 * [PraatTextGridJS](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS) A small library which can parse TextGrid into json and json into TextGrid
 * [prosodicParsing](https://github.com/jpate/prosodicParsing) different kinds of HMMs to use for incorporating prosody into basic parsing
 * [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) Python interface for forced audio alignment using HTK and SoX
-* [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools) 
+* [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools)
 * [Recordmp3js](https://github.com/OpenSourceFieldlinguistics/Recordmp3js) Record MP3 files directly from the browser using JS and HTML
 
 # Text automation
@@ -243,9 +243,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Experimentation
 
-* [experigen](https://github.com/tlozoot/experigen) A framework for creating linguistic experiments 
+* [experigen](https://github.com/tlozoot/experigen) A framework for creating linguistic experiments
 * [GamifyPsycholinguisticsExperiments](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments) A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
-* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences 
+* [OpenSesame](https://github.com/smathot/OpenSesame) Graphical experiment builder for the social sciences
 * [OPrime](https://github.com/OpenSourceFieldlinguistics/OPrime) Open Source Experimentation Libraries - Online and Offline for Android and HTML5
 * [psychopyMegProsody](https://github.com/OpenSourceFieldlinguistics/psychopyMegProsody) Runs MegProsody using PsychoPy.
 * [PsychScript](https://github.com/EoinTravers/PsychScript) A HTML5/Javascript library for running behavioural experiments online.
@@ -262,10 +262,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Android Applications
 
 * [Aikuma](https://github.com/langtech/aikuma) Android software for recording and translation http://lp20.org/aikuma
-* [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers. 
+* [AndroidFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB) An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDBElicitationRecorder) A general purpose video recording tool
 * [AndroidLanguageLearningClientForFieldDB](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB) An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
-* [AndroidProductionExperiment](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment) Android App to run perception experiments 
+* [AndroidProductionExperiment](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment) Android App to run perception experiments
 * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 * [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
@@ -284,7 +284,7 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 ## FieldDB Webservices/Components/Plugins
 
-* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB 
+* [AndroidLanguageLearningClientForFieldDB-sikuli](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli) Sikuli tests for AndroidLanguageLearningClientForFieldDB
 * [AuthenticationWebService](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService) A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
 * [bower-fielddb-angular](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular) A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
 * [bower-fielddb](https://github.com/OpenSourceFieldlinguistics/bower-fielddb) A bower repository which hosts fielddb core components, bower install fielddb --save
@@ -305,22 +305,22 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 * [ldc-kiy](https://github.com/krismyu/ldc-kiy) Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation, _How to study a tone language_.
 * [Learning to map into a Univerisal POS tagset](http://groups.csail.mit.edu/rbg/code/unitag/)  Yuan Zhang, Roi Reichart, Regina Barzilay and Amir Globerson
 * [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2013) and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
-* [orthotree](https://github.com/kscanne/orthotree) Linguistic family tree based on orthographic distance 
+* [orthotree](https://github.com/kscanne/orthotree) Linguistic family tree based on orthographic distance
 * [type-supervised-tagging-2012emnlp](https://github.com/dhgarrette/type-supervised-tagging-2012emnlp) This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. _Dan Garrette and Jason Baldridge_. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit [nlp](https://github.com/dhgarrette/nlp)
-* [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases 
+* [visualizing-language](https://github.com/RichardLitt/visualizing-language) For visualizations of WALS and other typological databases
 * [WALS-APiCS](https://github.com/jcgood/complexity) Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics
 
-# Example Repositories 
+# Example Repositories
 
 _These are repositories that are generally only interesting for training purposes or seeing how something is done._
 
-* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb 
-* [CorporaForFieldLinguistics](https://github.com/OpenSourceFieldlinguistics/CorporaForFieldLinguistics) 
-* [startR](https://github.com/OpenSourceFieldlinguistics/startR) 
+* [CorpusWebService](https://github.com/OpenSourceFieldlinguistics/CorpusWebService) über-simple node.js-Proxy to enable CORS request for couchdb
+* [CorporaForFieldLinguistics](https://github.com/OpenSourceFieldlinguistics/CorporaForFieldLinguistics)
+* [startR](https://github.com/OpenSourceFieldlinguistics/startR)
 * [lucenerevolution-2013](https://github.com/OpenSourceFieldlinguistics/lucenerevolution-2013) Demo examples for linguistics in Lucene and Solr
 * [berlin-buzzwords-2013](https://github.com/OpenSourceFieldlinguistics/berlin-buzzwords-2013) Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
 
-# Language & Code Interfaces 
+# Language & Code Interfaces
 
 * [قلب](https://github.com/nasser/---)‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
 
@@ -395,7 +395,7 @@ _hin :: हिन्दी_
 
 _nno :: Høgnorsk_
 
-* [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.  
+* [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
 
 ###Irish
 
@@ -405,7 +405,7 @@ _gle :: Gaeilge_
 * [caighdean](https://github.com/kscanne/caighdean) Code for standardizing Irish language text
 * [fleiscin](https://github.com/kscanne/fleiscin) Irish hyphenation patterns for TeX http://borel.slu.edu/fleiscin/
 * [GaelSpell](https://github.com/kscanne/gaelspell) Sources for an Irish language spell checker
-* [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar. 
+* [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial](https://github.com/kscanne/tesseract-gle-uncial/) OCR for old Irish fonts
 
 ###Japanese
@@ -448,12 +448,12 @@ _mlg :: Malagasy_
 
 _mic :: Mi'kmaq_
 
-* [migmaqLessons](https://github.com/OpenSourceFieldlinguistics/migmaqLessons) 
+* [migmaqLessons](https://github.com/OpenSourceFieldlinguistics/migmaqLessons)
 
 ###Minderico
 
 * [fredericajordarzambarino](https://github.com/cidles/fredericajordarzambarino) A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
-* [mindericobot](https://github.com/cidles/mindericobot) 
+* [mindericobot](https://github.com/cidles/mindericobot)
 
 ###Oromo
 
@@ -474,8 +474,8 @@ _que :: Runa Simi_
 _sma :: Sámi/Saami_
 
 * [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
-* [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools. 
-- Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and 
+* [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools.
+- Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
 - [Gïelese](http://gielese.no) - A media learning application for South Saami, including images, sound and animation for learning basic phrases and core vocabulary. JavaScript application, playable on the web or via PhoneGap apps in Android or iOS.
 - [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
