@@ -157,9 +157,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [morfessor](https://github.com/aalto-speech/morfessor) Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
 * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) Creates a pseudo-locale to evaluate string prioritization for l10n
 * [Natural](https://github.com/NaturalNode/natural) *Javascript* general natural language facilities for node
-* [nishanimate](https://github.com/jpmontano/nishanimate) Facilitating Nishnaabe-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
-* [nlpanimate](https://github.com/jpmontano/nlpanimate) Facilitating indigenous-language acquisition via animation video produced by the natural language processing of audio-accompanied text.
 * [NLTK](https://github.com/nltk/nltk) *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
 * [node-panlex](https://github.com/longnow/node-panlex) node.js client for PanLex
 * [norma](https://github.com/fpetran/norma) A tool for automatic spelling normalization
@@ -454,6 +452,12 @@ _mic :: Mi'kmaq_
 
 * [fredericajordarzambarino](https://github.com/cidles/fredericajordarzambarino) A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
 * [mindericobot](https://github.com/cidles/mindericobot)
+
+###Nishnaabe
+
+_oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ
+
+* [nishanimate](https://github.com/jpmontano/nishanimate) A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.
 
 ###Oromo
 
