@@ -59,9 +59,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Kinyarwanda](#kinyarwanda)
     - [Korean](#korean)
     - [Lingala](#lingala)
+    - [Malay](#malay)
     - [Malagasy](#malagasy)
     - [Migmaq](#migmaq)
     - [Minderico](#minderico)
+    - [Nishnaabe](#nishnaabe)
     - [Oromo](#oromo)
     - [Quechua](#quechua)
     - [Sami](#sami)
@@ -70,7 +72,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Somali](#somali)
     - [Tigrinya](#tigrinya)
     - [Zulu](#zulu)
-- [Closed Source Resourcs](#closed-source-resourcs)
+- [Closed Source Resources](#closed-source-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -517,6 +519,6 @@ _zul :: zulu_
 
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 
-# Closed Source Resourcs
+# Closed Source Resources
 
 * [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
