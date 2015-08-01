@@ -29,6 +29,7 @@
 * Dublin Core Metadata Initiative: DCMI Metadata Term(http://purl.org/dc/elements/1.1/language) for language, via IETF's RFC 4646 (now superseded by RFC 5646)
 * MARC library codes.
 * MODS (Metadata Object Description Schema) [library codes](http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html): Incorporates IETF's RFC 3066 (now superseded by RFC 5646).
+* DOAP Metadata for application profile [See DCMI discussion](http://dublincore.org/groups/tools/map.shtml) [See GitHub](https://github.com/edumbill/doap) See Paper: Severiens, Thomas & Greenberg, Jane. 2007. The DCMI Tools application profile. 2007 Proc. Int’l Conf. on Dublin Core and Metadata Applications. http://dcpapers.dublincore.org/pubs/article/view/874
 
 ## i18n / Locale data
 * Unicode's CLDR (Common locale data repository): Uses several hundred codes from ISO 639-3 not included in ISO 639-2.
@@ -42,4 +43,3 @@
 ###Corpora
 ###Lexicons
 * Lexical Markup Framework: ISO specification for representation of machine-readable dictionaries.
-
