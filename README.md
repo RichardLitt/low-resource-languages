@@ -166,7 +166,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
 * [norma ![GitHub stars](https://img.shields.io/github/stars/fpetran/norma.svg)](https://github.com/fpetran/norma)  A tool for automatic spelling normalization
 * [octothorpe ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/octothorpe.svg)](https://github.com/OpenSourceFieldlinguistics/octothorpe)  CouchDB-powered wiki thing
-* [ogoki](http://www.ogokilearning.com/native-language-app-code/) iPhone & iPad template source code (as a .zip) for language learning
+* [ogoki](https://github.com/LowResourceLanguages/Ojibway-iphone-app) iPhone & iPad template source code (as a .zip) for language learning. The app built and open sourced by the ogokilearning.com company who also offers [developer training for first nations apps](http://www.ogokilearning.com/education-skills-development/).
 * [old-webapp ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/old-webapp.svg)](https://github.com/jrwdunham/old-webapp)  Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
 * [OpenDataKit](http://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools)  This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
@@ -460,6 +460,8 @@ _mic :: Mi'kmaq_
 
 _oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ
 
+* [Ojibway-iphone-app](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language. 
+* [OjibwayMap](https://github.com/LowResourceLanguages/OjibwayMap) An iPhone app with audio and images for learning Ojibway language and culture.
 * [nishanimate ![GitHub stars](https://img.shields.io/github/stars/jpmontano/nishanimate.svg)](https://github.com/jpmontano/nishanimate)  A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.
 
 ###Oromo
