@@ -56,6 +56,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Guarani](#guarani)
     - [Hindi](#hindi)
     - [Høgnorsk](#høgnorsk)
+    - [Inuktitut](#inuktitut)
     - [Irish](#irish)
     - [Japanese](#japanese)
     - [Kinyarwanda](#kinyarwanda)
@@ -397,6 +398,12 @@ _hin :: हिन्दी_
 _nno :: Høgnorsk_
 
 * [hunspell-hn_NO ![GitHub stars](https://img.shields.io/github/stars/rtxanson/hunspell-hn_NO.svg)](https://github.com/rtxanson/hunspell-hn_NO)  A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
+
+###Inuktitut
+
+_iku :: Inuktitut
+
+* [InuktitutComputing](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
 
 ###Irish
 
