@@ -54,6 +54,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Chichewa](#chichewa)
     - [Georgian](#georgian)
     - [Guarani](#guarani)
+    - [Hausa](#hausa)
     - [Hindi](#hindi)
     - [Høgnorsk](#høgnorsk)
     - [Inuktitut](#inuktitut)
@@ -386,6 +387,12 @@ _kat :: ქართული_
 _grn :: Guarani_
 
 * [ParaMorfo ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives. Used to be [here](http://www.cs.indiana.edu/~gasser/research/software.html).
+
+###Hausa
+
+_hau :: هَرْشَن هَوْسَ_
+
+* [Hausa ![GitHub stars](https://img.shields.io/github/stars/amir-zeldes/hausa.svg)](https://github.com/amir-zeldes/hausa) Repository for Hausa NLP tools
 
 ###Hindi
 
