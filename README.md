@@ -408,7 +408,7 @@ _nno :: Høgnorsk_
 
 ###Inuktitut
 
-_iku :: Inuktitut
+_iku :: Inuktitut_
 
 * [InuktitutComputing](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
 
@@ -472,7 +472,7 @@ _mic :: Mi'kmaq_
 
 ###Nishnaabe
 
-_oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ
+_oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ_
 
 * [Ojibway-iphone-app](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language. 
 * [OjibwayMap](https://github.com/LowResourceLanguages/OjibwayMap) An iPhone app with audio and images for learning Ojibway language and culture.
@@ -515,6 +515,8 @@ _gla :: Gàidhlig_
 * [hunspell-gd ![GitHub stars](https://img.shields.io/github/stars/kscanne/hunspell-gd.svg)](https://github.com/kscanne/hunspell-gd)  Files for building Scottish Gaelic spell checkers
 
 ###Secwepemctsín
+
+_shs :: Secwepemctsín_
 
 * [secwepemctsnem ![GitHub stars](https://img.shields.io/github/stars/neskie/secwepemctsnem.svg)](https://github.com/neskie/secwepemctsnem)  A project to help people learn Secwepemctsín.
 
