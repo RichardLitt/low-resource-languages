@@ -93,7 +93,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 ##Single language lexicography projects and utilities
 ###Utilities
-* [DictionaryChromeExtension ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/DictionaryChromeExtension.svg)](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension)  Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
+* [DictionaryChromeExtension ![GitHub stars](https://img.shields.io/github/stars/FieldDB/DictionaryChromeExtension.svg)](https://github.com/FieldDB/DictionaryChromeExtension)  Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries)
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
 * [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
 * [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
@@ -113,10 +113,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Anki ![GitHub stars](https://img.shields.io/github/stars/dae/anki.svg)](https://github.com/dae/anki)  Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
-* [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/ark-tweet-nlp.svg)](https://github.com/OpenSourceFieldlinguistics/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
+* [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
 * [bayesline ![GitHub stars](https://img.shields.io/github/stars/alvations/bayesline.svg)](https://github.com/alvations/bayesline)  A Multinomial Bayesian Classification for Language Identification
 * [BloomDesktop ![GitHub stars](https://img.shields.io/github/stars/BloomBooks/BloomDesktop.svg)](https://github.com/BloomBooks/BloomDesktop)  Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
-* [brain ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/brain.svg)](https://github.com/OpenSourceFieldlinguistics/brain)  Neural networks in JavaScript
+* [brain ![GitHub stars](https://img.shields.io/github/stars/FieldDB/brain.svg)](https://github.com/FieldDB/brain)  Neural networks in JavaScript
 * [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
@@ -125,10 +125,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [CorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg)](https://github.com/PhonologicalCorpusTools/CorpusTools)  Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
 * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible.
 * [CuPED](http://sweet.artsrn.ualberta.ca/cdcox/cuped/) CuPED ('Customizable Presentation of ELAN Documents') is a tool for transforming time-aligned transcripts, such as those produced by ELAN, into a variety of presentation formats.
-* [DataTags ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/DataTags.svg)](https://github.com/OpenSourceFieldlinguistics/DataTags)  A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (_Fork_)
+* [DataTags ![GitHub stars](https://img.shields.io/github/stars/FieldDB/DataTags.svg)](https://github.com/FieldDB/DataTags)  A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (_Fork_)
 * [dataverse ![GitHub stars](https://img.shields.io/github/stars/IQSS/dataverse.svg)](https://github.com/IQSS/dataverse)  A data repository framework to share and publish research data.
 * [dative ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/dative.svg)](https://github.com/jrwdunham/dative)  A single-page application that interacts with multiple linguistic fieldwork web service databases.
-* [DeepLearnToolbox ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/DeepLearnToolbox.svg)](https://github.com/OpenSourceFieldlinguistics/DeepLearnToolbox)  Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
+* [DeepLearnToolbox ![GitHub stars](https://img.shields.io/github/stars/FieldDB/DeepLearnToolbox.svg)](https://github.com/FieldDB/DeepLearnToolbox)  Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
 * [Desmeme ![GitHub stars](https://img.shields.io/github/stars/jcgood/desmeme.svg)](https://github.com/jcgood/desmeme)  Database and tools for exploring linguistic templates
 * [dictdb ![GitHub stars](https://img.shields.io/github/stars/substack/dictdb.svg)](https://github.com/substack/dictdb)  dictionary database for language translation
 * [discoursegraphs ![GitHub stars](https://img.shields.io/github/stars/arne-cl/discoursegraphs.svg)](https://github.com/arne-cl/discoursegraphs)  Python-based tool to convert and merge multilayer annotated linguistic data
@@ -146,7 +146,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [https://github.com/hyphenliu/cnminlangwebcollect ![GitHub stars](https://img.shields.io/github/stars/hyphenliu/cnminlangwebcollect.svg)](https://github.com/hyphenliu/cnminlangwebcollect)  Chinese minorities website languages detection and websites collection
 * [https://github.com/leebock/languages ![GitHub stars](https://img.shields.io/github/stars/leebock/languages.svg)](https://github.com/leebock/languages)  Application files for the Smithsonian endangered languages story map.
-* [iLanguageCloud ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/iLanguageCloud.svg)](https://github.com/OpenSourceFieldlinguistics/iLanguageCloud)  An HTML5/Android word cloud generation codebase
+* [iLanguageCloud ![GitHub stars](https://img.shields.io/github/stars/FieldDB/iLanguageCloud.svg)](https://github.com/FieldDB/iLanguageCloud)  An HTML5/Android word cloud generation codebase
 * [itweets-geodata ![GitHub stars](https://img.shields.io/github/stars/kscanne/itweets-geodata.svg)](https://github.com/kscanne/itweets-geodata)  Geodata from Indigenous Tweets
 * [koreksyon ![GitHub stars](https://img.shields.io/github/stars/reokatoa/koreksyon.svg)](https://github.com/reokatoa/koreksyon)  Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
 * [l20n.js ![GitHub stars](https://img.shields.io/github/stars/l20n/l20n.js.svg)](https://github.com/l20n/l20n.js)  L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
@@ -168,7 +168,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
 * [norma ![GitHub stars](https://img.shields.io/github/stars/fpetran/norma.svg)](https://github.com/fpetran/norma)  A tool for automatic spelling normalization
-* [octothorpe ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/octothorpe.svg)](https://github.com/OpenSourceFieldlinguistics/octothorpe)  CouchDB-powered wiki thing
+* [octothorpe ![GitHub stars](https://img.shields.io/github/stars/FieldDB/octothorpe.svg)](https://github.com/FieldDB/octothorpe)  CouchDB-powered wiki thing
 * [ogoki](https://github.com/LowResourceLanguages/Ojibway-iphone-app) iPhone & iPad template source code (as a .zip) for language learning. The app built and open sourced by the ogokilearning.com company who also offers [developer training for first nations apps](http://www.ogokilearning.com/education-skills-development/).
 * [old-webapp ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/old-webapp.svg)](https://github.com/jrwdunham/old-webapp)  Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
 * [OpenDataKit](http://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
@@ -197,7 +197,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Toney ![GitHub stars](https://img.shields.io/github/stars/langtech/toney.svg)](https://github.com/langtech/toney)  Tone Classification Software
 * [Toolbox Scripts for ELAN ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/toolbox-scripts.svg)](https://github.com/RichardLitt/toolbox-scripts)  Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
 * [ToolsForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/cesine/ToolsForFieldLinguistics.svg)](https://github.com/cesine/ToolsForFieldLinguistics)  A collection of scripts and recipes for linguistics
-* [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/translitit-engine.svg)](https://github.com/OpenSourceFieldlinguistics/translitit-engine)  A transliteration engine written in JavaScript
+* [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/FieldDB/translitit-engine.svg)](https://github.com/FieldDB/translitit-engine)  A transliteration engine written in JavaScript
 * [Tsammalex data ![GitHub stars](https://img.shields.io/github/stars/clld/tsammalex-data.svg)](https://github.com/clld/tsammalex-data)  [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
 * [tweet2learn ![GitHub stars](https://img.shields.io/github/stars/kscanne/tweet2learn.svg)](https://github.com/kscanne/tweet2learn)  An app to make it easier to use your native language on Twitter
 * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
@@ -220,44 +220,44 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Audio automation
 
 * [arctic-prompts ![GitHub stars](https://img.shields.io/github/stars/psibre/arctic-prompts.svg)](https://github.com/psibre/arctic-prompts)  Generate prompts PDF for CMU ARCTIC dataset
-* [AudioWebService ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AudioWebService.svg)](https://github.com/OpenSourceFieldlinguistics/AudioWebService)  a simple nodejs server which accepts upload of audio and runs it through praat
+* [AudioWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AudioWebService.svg)](https://github.com/FieldDB/AudioWebService)  a simple nodejs server which accepts upload of audio and runs it through praat
 * [AuToBI ![GitHub stars](https://img.shields.io/github/stars/AndrewRosenberg/AuToBI.svg)](https://github.com/AndrewRosenberg/AuToBI)  Automatic prosodic annotation tool written in Java.
-* [BashScriptsForPhonetics ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/BashScriptsForPhonetics.svg)](https://github.com/OpenSourceFieldlinguistics/BashScriptsForPhonetics)   (_Fork_ of a dormant project)
+* [BashScriptsForPhonetics ![GitHub stars](https://img.shields.io/github/stars/FieldDB/BashScriptsForPhonetics.svg)](https://github.com/FieldDB/BashScriptsForPhonetics)   (_Fork_ of a dormant project)
 * [esv-text-audio-aligner ![GitHub stars](https://img.shields.io/github/stars/westonruter/esv-text-audio-aligner.svg)](https://github.com/westonruter/esv-text-audio-aligner)  ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio
-* [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial.svg)](https://github.com/OpenSourceFieldlinguistics/et-pocketsphinx-tutorial)  Tutorial of Estonian speech recognition using PocketSphinx
+* [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/FieldDB/et-pocketsphinx-tutorial.svg)](https://github.com/FieldDB/et-pocketsphinx-tutorial)  Tutorial of Estonian speech recognition using PocketSphinx
 * [html5-audio-read-along ![GitHub stars](https://img.shields.io/github/stars/westonruter/html5-audio-read-along.svg)](https://github.com/westonruter/html5-audio-read-along)  HTML5 Audio Read-Along
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg)](https://github.com/westonruter/ipa-chart)  International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
-* [lex4all ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/lex4all.svg)](https://github.com/OpenSourceFieldlinguistics/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
+* [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx.js ![GitHub stars](https://img.shields.io/github/stars/syl22-00/pocketsphinx.js.svg)](https://github.com/syl22-00/pocketsphinx.js)  Speech recognition in JavaScript
-* [praat-py ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/praat-py.svg)](https://github.com/OpenSourceFieldlinguistics/praat-py)  From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
-* [Praat-Scripts ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/Praat-Scripts.svg)](https://github.com/OpenSourceFieldlinguistics/Praat-Scripts)  Mietta's Scripts
-* [PraatTextGridJS ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/PraatTextGridJS.svg)](https://github.com/OpenSourceFieldlinguistics/PraatTextGridJS)  A small library which can parse TextGrid into json and json into TextGrid
+* [praat-py ![GitHub stars](https://img.shields.io/github/stars/FieldDB/praat-py.svg)](https://github.com/FieldDB/praat-py)  From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
+* [Praat-Scripts ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Praat-Scripts.svg)](https://github.com/FieldDB/Praat-Scripts)  Mietta's Scripts
+* [PraatTextGridJS ![GitHub stars](https://img.shields.io/github/stars/FieldDB/PraatTextGridJS.svg)](https://github.com/FieldDB/PraatTextGridJS)  A small library which can parse TextGrid into json and json into TextGrid
 * [prosodicParsing ![GitHub stars](https://img.shields.io/github/stars/jpate/prosodicParsing.svg)](https://github.com/jpate/prosodicParsing)  different kinds of HMMs to use for incorporating prosody into basic parsing
 * [Prosodylab-Aligner ![GitHub stars](https://img.shields.io/github/stars/prosodylab/Prosodylab-Aligner.svg)](https://github.com/prosodylab/Prosodylab-Aligner)  Python interface for forced audio alignment using HTK and SoX
 * [prosodylab.alignertools ![GitHub stars](https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg)](https://github.com/prosodylab/prosodylab.alignertools) 
-* [Recordmp3js ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/Recordmp3js.svg)](https://github.com/OpenSourceFieldlinguistics/Recordmp3js)  Record MP3 files directly from the browser using JS and HTML
+* [Recordmp3js ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Recordmp3js.svg)](https://github.com/FieldDB/Recordmp3js)  Record MP3 files directly from the browser using JS and HTML
 
 # Text automation
 
 * [clld ![GitHub stars](https://img.shields.io/github/stars/clld/clld.svg)](https://github.com/clld/clld)  Cross Linguistic Linked Data python library
 * [LaTeX2HTML5 ![GitHub stars](https://img.shields.io/github/stars/pyramation/LaTeX2HTML5.svg)](https://github.com/pyramation/LaTeX2HTML5)  LaTeX web components
-* [MultilingualCorporaExtractor ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/MultilingualCorporaExtractor.svg)](https://github.com/OpenSourceFieldlinguistics/MultilingualCorporaExtractor)  Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
-* [SeedLing ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/SeedLing.svg)](https://github.com/OpenSourceFieldlinguistics/SeedLing)  Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
+* [MultilingualCorporaExtractor ![GitHub stars](https://img.shields.io/github/stars/FieldDB/MultilingualCorporaExtractor.svg)](https://github.com/FieldDB/MultilingualCorporaExtractor)  Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
+* [SeedLing ![GitHub stars](https://img.shields.io/github/stars/FieldDB/SeedLing.svg)](https://github.com/FieldDB/SeedLing)  Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
 
 # Experimentation
 
 * [experigen ![GitHub stars](https://img.shields.io/github/stars/tlozoot/experigen.svg)](https://github.com/tlozoot/experigen)  A framework for creating linguistic experiments
-* [GamifyPsycholinguisticsExperiments ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments.svg)](https://github.com/OpenSourceFieldlinguistics/GamifyPsycholinguisticsExperiments)  A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
+* [GamifyPsycholinguisticsExperiments ![GitHub stars](https://img.shields.io/github/stars/FieldDB/GamifyPsycholinguisticsExperiments.svg)](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments)  A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project)
 * [OpenSesame ![GitHub stars](https://img.shields.io/github/stars/smathot/OpenSesame.svg)](https://github.com/smathot/OpenSesame)  Graphical experiment builder for the social sciences
-* [OPrime ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/OPrime.svg)](https://github.com/OpenSourceFieldlinguistics/OPrime)  Open Source Experimentation Libraries - Online and Offline for Android and HTML5
-* [psychopyMegProsody ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/psychopyMegProsody.svg)](https://github.com/OpenSourceFieldlinguistics/psychopyMegProsody)  Runs MegProsody using PsychoPy.
+* [OPrime ![GitHub stars](https://img.shields.io/github/stars/FieldDB/OPrime.svg)](https://github.com/FieldDB/OPrime)  Open Source Experimentation Libraries - Online and Offline for Android and HTML5
+* [psychopyMegProsody ![GitHub stars](https://img.shields.io/github/stars/FieldDB/psychopyMegProsody.svg)](https://github.com/FieldDB/psychopyMegProsody)  Runs MegProsody using PsychoPy.
 * [PsychScript ![GitHub stars](https://img.shields.io/github/stars/EoinTravers/PsychScript.svg)](https://github.com/EoinTravers/PsychScript)  A HTML5/Javascript library for running behavioural experiments online.
 
 
 # Natural language generation
 
-* [hailo ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/hailo.svg)](https://github.com/OpenSourceFieldlinguistics/hailo)  A conversation bot using Markov chains
+* [hailo ![GitHub stars](https://img.shields.io/github/stars/FieldDB/hailo.svg)](https://github.com/FieldDB/hailo)  A conversation bot using Markov chains
 
 # Computing systems
 
@@ -266,10 +266,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Android Applications
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/langtech/aikuma)  Android software for recording and translation http://lp20.org/aikuma
-* [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AndroidFieldDB.svg)](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
-* [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AndroidFieldDBElicitationRecorder.svg)](https://github.com/OpenSourceFieldlinguistics/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
-* [AndroidLanguageLearningClientForFieldDB ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB.svg)](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB)  An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
-* [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AndroidProductionExperiment.svg)](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment)  Android App to run perception experiments
+* [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
+* [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
+* [AndroidLanguageLearningClientForFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB.svg)](https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB)  An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
+* [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg)](https://github.com/FieldDB/AndroidProductionExperiment)  Android App to run perception experiments
 * [Bevara ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/bevara.svg)](https://github.com/KentonMurray/bevara)  Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz ![GitHub stars](https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg)](https://github.com/ojovoz/ojoVoz_mobile)  A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 * [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
@@ -277,30 +277,30 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Chrome Extensions
 
 * [babelfrog ![GitHub stars](https://img.shields.io/github/stars/dergachev/babelfrog.svg)](https://github.com/dergachev/babelfrog)  Chrome extension to help learn languages as you browse.
-* [DictionaryChromeExtension ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/DictionaryChromeExtension.svg)](https://github.com/OpenSourceFieldlinguistics/DictionaryChromeExtension)  Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries) [use](https://chrome.google.com/webstore/detail/my-dictionary/jfmpeiicncingobdejgmmcamknndpbbi)
+* [DictionaryChromeExtension ![GitHub stars](https://img.shields.io/github/stars/FieldDB/DictionaryChromeExtension.svg)](https://github.com/FieldDB/DictionaryChromeExtension)  Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries) [use](https://chrome.google.com/webstore/detail/my-dictionary/jfmpeiicncingobdejgmmcamknndpbbi)
 * [KartuliChromeExtension ![GitHub stars](https://img.shields.io/github/stars/batumi/KartuliChromeExtension.svg)](https://github.com/batumi/KartuliChromeExtension)  Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. [use](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja) "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
 
 # FieldDB
 
-_FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlinguistics] group. These repos explicitly work with it but could be repurposed for other projects.
+_FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFieldlinguistics)](https://github.com/FieldDB) group. These repos explicitly work with it but could be repurposed for other projects.
 
-* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/FieldDB.svg)](https://github.com/OpenSourceFieldlinguistics/FieldDB)  An offline/online field database which adapts to its user's terminology and I-Language, has plugins for various data automation routines along the process of primary data collection to cleaning to publication and archival. [use](https://wwwdev.lingsync.org/)
+* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDB.svg)](https://github.com/FieldDB/FieldDB)  An offline/online field database which adapts to its user's terminology and I-Language, has plugins for various data automation routines along the process of primary data collection to cleaning to publication and archival. [use](https://wwwdev.lingsync.org/)
 
 ## FieldDB Webservices/Components/Plugins
 
-* [AndroidLanguageLearningClientForFieldDB-sikuli ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli.svg)](https://github.com/OpenSourceFieldlinguistics/AndroidLanguageLearningClientForFieldDB-sikuli)  Sikuli tests for AndroidLanguageLearningClientForFieldDB
-* [AuthenticationWebService ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/AuthenticationWebService.svg)](https://github.com/OpenSourceFieldlinguistics/AuthenticationWebService)  A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
-* [bower-fielddb-angular ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/bower-fielddb-angular.svg)](https://github.com/OpenSourceFieldlinguistics/bower-fielddb-angular)  A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
-* [bower-fielddb ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/bower-fielddb.svg)](https://github.com/OpenSourceFieldlinguistics/bower-fielddb)  A bower repository which hosts fielddb core components, bower install fielddb --save
-* [dative ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/dative.svg)](https://github.com/OpenSourceFieldlinguistics/dative)  A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
-* [fielddb-spreadsheet-sikuli ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli.svg)](https://github.com/OpenSourceFieldlinguistics/fielddb-spreadsheet-sikuli)  sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
-* [FieldDBActivityFeed ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/FieldDBActivityFeed.svg)](https://github.com/OpenSourceFieldlinguistics/FieldDBActivityFeed)  A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa)
-* [FieldDBGlosser ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/FieldDBGlosser.svg)](https://github.com/OpenSourceFieldlinguistics/FieldDBGlosser)  A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
-* [FieldDBLexicon ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/FieldDBLexicon.svg)](https://github.com/OpenSourceFieldlinguistics/FieldDBLexicon)  A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
-* [FieldDBWebServer ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/FieldDBWebServer.svg)](https://github.com/OpenSourceFieldlinguistics/FieldDBWebServer)  Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
-* [LanguageClassDashboard ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/LanguageClassDashboard.svg)](https://github.com/OpenSourceFieldlinguistics/LanguageClassDashboard)  App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
-* [LexiconWebService ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/LexiconWebService.svg)](https://github.com/OpenSourceFieldlinguistics/LexiconWebService)  A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
-* [LexiconWebServiceSample ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/LexiconWebServiceSample.svg)](https://github.com/OpenSourceFieldlinguistics/LexiconWebServiceSample)  A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
+* [AndroidLanguageLearningClientForFieldDB-sikuli ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli.svg)](https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB-sikuli)  Sikuli tests for AndroidLanguageLearningClientForFieldDB
+* [AuthenticationWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AuthenticationWebService.svg)](https://github.com/FieldDB/AuthenticationWebService)  A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
+* [bower-fielddb-angular ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb-angular.svg)](https://github.com/FieldDB/bower-fielddb-angular)  A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
+* [bower-fielddb ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb.svg)](https://github.com/FieldDB/bower-fielddb)  A bower repository which hosts fielddb core components, bower install fielddb --save
+* [dative ![GitHub stars](https://img.shields.io/github/stars/FieldDB/dative.svg)](https://github.com/FieldDB/dative)  A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
+* [fielddb-spreadsheet-sikuli ![GitHub stars](https://img.shields.io/github/stars/FieldDB/fielddb-spreadsheet-sikuli.svg)](https://github.com/FieldDB/fielddb-spreadsheet-sikuli)  sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
+* [FieldDBActivityFeed ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBActivityFeed.svg)](https://github.com/FieldDB/FieldDBActivityFeed)  A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa)
+* [FieldDBGlosser ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBGlosser.svg)](https://github.com/FieldDB/FieldDBGlosser)  A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
+* [FieldDBLexicon ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBLexicon.svg)](https://github.com/FieldDB/FieldDBLexicon)  A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
+* [FieldDBWebServer ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBWebServer.svg)](https://github.com/FieldDB/FieldDBWebServer)  Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LanguageClassDashboard ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LanguageClassDashboard.svg)](https://github.com/FieldDB/LanguageClassDashboard)  App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
+* [LexiconWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LexiconWebService.svg)](https://github.com/FieldDB/LexiconWebService)  A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora [use](https://wwwdev.lingsync.org/lingllama/communitycorpus/lingllama-communitycorpus)
+* [LexiconWebServiceSample ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LexiconWebServiceSample.svg)](https://github.com/FieldDB/LexiconWebServiceSample)  A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
 
 
 # Academic Research Paper-Specific Repositories
@@ -318,11 +318,11 @@ _FieldDB_ is actively worked on by the [https://github.com/OpenSourceFieldlingui
 
 _These are repositories that are generally only interesting for training purposes or seeing how something is done._
 
-* [CorpusWebService ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/CorpusWebService.svg)](https://github.com/OpenSourceFieldlinguistics/CorpusWebService)  über-simple node.js-Proxy to enable CORS request for couchdb
-* [CorporaForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/CorporaForFieldLinguistics.svg)](https://github.com/OpenSourceFieldlinguistics/CorporaForFieldLinguistics) 
-* [startR ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/startR.svg)](https://github.com/OpenSourceFieldlinguistics/startR) 
-* [lucenerevolution-2013 ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/lucenerevolution-2013.svg)](https://github.com/OpenSourceFieldlinguistics/lucenerevolution-2013)  Demo examples for linguistics in Lucene and Solr
-* [berlin-buzzwords-2013 ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/berlin-buzzwords-2013.svg)](https://github.com/OpenSourceFieldlinguistics/berlin-buzzwords-2013)  Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
+* [CorpusWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/CorpusWebService.svg)](https://github.com/FieldDB/CorpusWebService)  über-simple node.js-Proxy to enable CORS request for couchdb
+* [CorporaForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/FieldDB/CorporaForFieldLinguistics.svg)](https://github.com/FieldDB/CorporaForFieldLinguistics) 
+* [startR ![GitHub stars](https://img.shields.io/github/stars/FieldDB/startR.svg)](https://github.com/FieldDB/startR) 
+* [lucenerevolution-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lucenerevolution-2013.svg)](https://github.com/FieldDB/lucenerevolution-2013)  Demo examples for linguistics in Lucene and Solr
+* [berlin-buzzwords-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/berlin-buzzwords-2013.svg)](https://github.com/FieldDB/berlin-buzzwords-2013)  Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
 
 # Language & Code Interfaces
 
@@ -336,7 +336,7 @@ _These are repositories that are generally only interesting for training purpose
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all/lex4all.svg)](https://github.com/lex4all) 
 * [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow/longview.svg)](https://github.com/longnow) 
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  [http://nltk.github.com/](http://nltk.github.com/)
-* [OpenSourceFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/fielddb/fielddb.svg)](https://github.com/OpenSourceFieldlinguistics) 
+* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/fielddb/fielddb.svg)](https://github.com/FieldDB) 
 * [PhonologicalCorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg)](https://github.com/PhonologicalCorpusTools) 
 * [Projet de recherche sur l'écriture ![GitHub stars](https://img.shields.io/github/stars/projetDeRechercheSurLecriture/DyslexDisorthGame.svg)](https://github.com/projetDeRechercheSurLecriture/)  crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
 * [SIL International ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev)  [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
@@ -381,7 +381,7 @@ _nya :: chicheŵa_
 
 _kat :: ქართული_
 
-* [translitit-latin-to-mkhedruli-georgian ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/translitit-latin-to-mkhedruli-georgian.svg)](https://github.com/OpenSourceFieldlinguistics/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+* [translitit-latin-to-mkhedruli-georgian ![GitHub stars](https://img.shields.io/github/stars/FieldDB/translitit-latin-to-mkhedruli-georgian.svg)](https://github.com/FieldDB/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
 ###Guarani
 
@@ -399,7 +399,7 @@ _hau :: هَرْشَن هَوْسَ_
 
 _hin :: हिन्दी_
 
-* [hindi-morph ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/hindi-morph.svg)](https://github.com/OpenSourceFieldlinguistics/hindi-morph)  An open source morphological analyzer for Hindi
+* [hindi-morph ![GitHub stars](https://img.shields.io/github/stars/FieldDB/hindi-morph.svg)](https://github.com/FieldDB/hindi-morph)  An open source morphological analyzer for Hindi
 
 ###Høgnorsk
 
@@ -464,7 +464,7 @@ _mlg :: Malagasy_
 
 _mic :: Mi'kmaq_
 
-* [migmaqLessons ![GitHub stars](https://img.shields.io/github/stars/OpenSourceFieldlinguistics/migmaqLessons.svg)](https://github.com/OpenSourceFieldlinguistics/migmaqLessons) 
+* [migmaqLessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/migmaqLessons.svg)](https://github.com/FieldDB/migmaqLessons) 
 
 ###Minderico
 
