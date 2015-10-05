@@ -361,6 +361,7 @@ morphological analysis and generation of Amharic and Oromo verbs and nouns and T
 _ara :: العربية_
 
 * [Buckwalter ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/Buckwalter.svg)](https://github.com/KentonMurray/Buckwalter)  A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
+* [Dialects ![GitHub stars](https://img.shields.io/github/stars/amagidow/dialects.svg)](https://github.com/amagidow/dialects) Django project to allow for documentation (input and displaty) of linguistic forms in dialects or closely related languages.
 
 ###Bengali
 
