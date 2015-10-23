@@ -319,7 +319,7 @@ _FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFie
 _These are repositories that are generally only interesting for training purposes or seeing how something is done._
 
 * [CorpusWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/CorpusWebService.svg)](https://github.com/FieldDB/CorpusWebService)  über-simple node.js-Proxy to enable CORS request for couchdb
-* [CorporaForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/FieldDB/CorporaForFieldLinguistics.svg)](https://github.com/FieldDB/CorporaForFieldLinguistics) 
+* [CorporaForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/cesine/CorporaForFieldLinguistics.svg)](https://github.com/cesine/CorporaForFieldLinguistics) Small corpora from diverse language typologies, useful for testing scripts
 * [startR ![GitHub stars](https://img.shields.io/github/stars/FieldDB/startR.svg)](https://github.com/FieldDB/startR) 
 * [lucenerevolution-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lucenerevolution-2013.svg)](https://github.com/FieldDB/lucenerevolution-2013)  Demo examples for linguistics in Lucene and Solr
 * [berlin-buzzwords-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/berlin-buzzwords-2013.svg)](https://github.com/FieldDB/berlin-buzzwords-2013)  Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
