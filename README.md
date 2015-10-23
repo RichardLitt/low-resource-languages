@@ -429,6 +429,7 @@ _gle :: Gaeilge_
 
 _jpn :: 日本語_
 
+* [JapaneseCorpusAngoSakaguchi ![GitHub stars](https://img.shields.io/github/stars/iLanguage/JapaneseCorpusAngoSakaguchi.svg)](https://github.com/iLanguage/JapaneseCorpusAngoSakaguchi) Ango Sakaguchi's essays, with some code
 * [kuromoji ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji.svg)](https://github.com/atilika/kuromoji)  Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
 * [kuromoji-server ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji-server.svg)](https://github.com/atilika/kuromoji-server)  Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
