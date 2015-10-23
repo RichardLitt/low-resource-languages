@@ -412,6 +412,7 @@ _nno :: Høgnorsk_
 
 _iku :: Inuktitut_
 
+* [InuktitutAlignerData](https://github.com/cmesher/InuktitutAlignerData) Scripts for alignment of laboratory speech production data
 * [InuktitutComputing](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
 
 ###Irish
