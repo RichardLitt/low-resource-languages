@@ -344,6 +344,7 @@ _These are repositories that are generally only interesting for training purpose
 
 ## Other OSS Organisations
 
+* [LTRC: Language Technologies Research Center IIIT Hyderabad](http://ltrc.iiit.ac.in/) LTRC addresses the complex problem of understanding and processing natural languages in both speech and text mode. LTRC conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South Asia. LTRC carries out its work through four labs, which work in synergy with each other, as listed above.
 * [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
 # Language Specific Projects
