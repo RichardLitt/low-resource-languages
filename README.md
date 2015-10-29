@@ -334,15 +334,15 @@ _These are repositories that are generally only interesting for training purpose
 
 ## On GitHub
 
-* [batumi ![GitHub stars](https://img.shields.io/github/stars/batumi/AndroidSpeechRecognitionTrainer.svg)](https://github.com/batumi)  Speech recognition and natural language processing for low-resource languages
-* [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all/lex4all.svg)](https://github.com/lex4all) 
-* [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow/longview.svg)](https://github.com/longnow) 
-* [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  [http://nltk.github.com/](http://nltk.github.com/)
-* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/fielddb/fielddb.svg)](https://github.com/FieldDB) 
-* [PhonologicalCorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg)](https://github.com/PhonologicalCorpusTools) 
-* [Projet de recherche sur l'écriture ![GitHub stars](https://img.shields.io/github/stars/projetDeRechercheSurLecriture/DyslexDisorthGame.svg)](https://github.com/projetDeRechercheSurLecriture/)  crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
-* [SIL International ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev)  [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
-* [SIL NRSI ![GitHub stars](https://img.shields.io/github/stars/silnrsi/pysilfont.svg)](https://github.com/silnrsi)  SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+* [batumi](https://github.com/batumi)  Speech recognition and natural language processing for low-resource languages
+* [lex4all](https://github.com/lex4all) 
+* [longnow](https://github.com/longnow) 
+* [NLTK](https://github.com/nltk/nltk)  [http://nltk.github.com/](http://nltk.github.com/)
+* [FieldDB](https://github.com/FieldDB) 
+* [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools) 
+* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/)  crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
+* [SIL International](https://github.com/sillsdev)  [SIL International](http://www.sil.org/) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL NRSI](https://github.com/silnrsi)  SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 
 ## Other OSS Organisations
 
