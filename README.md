@@ -449,6 +449,7 @@ _kin :: Ikinyarwanda_
 _kor :: 한국어_
 
 * [komoran ![GitHub stars](https://img.shields.io/github/stars/shineware/komoran-2.0.svg)](https://github.com/shineware/komoran-2.0)  Korean morphological analyzer
+* [awesome-kr-foss ![GitHub stars](https://img.shields.io/github/stars/darjeeling/awesome-kr-foss.svg)](https://github.com/darjeeling/awesome-kr-foss) A curated list of awesome Korean open source projects
 
 ###Lingala
 
