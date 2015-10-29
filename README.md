@@ -52,6 +52,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Arabic](#arabic)
     - [Bengali](#bengali)
     - [Chichewa](#chichewa)
+    - [Estonian](#estonian)
     - [Georgian](#georgian)
     - [Guarani](#guarani)
     - [Hausa](#hausa)
