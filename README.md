@@ -161,6 +161,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [lrl ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/lrl.svg)](https://github.com/RichardLitt/lrl)  For work concerning low resource languages.
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine)  Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
 * [Make-extensions ![GitHub stars](https://img.shields.io/github/stars/kscanne/make-extensions.svg)](https://github.com/kscanne/make-extensions)  Scripts for generating hunspell spellchecking extensions
+* [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
 * [morfessor ![GitHub stars](https://img.shields.io/github/stars/aalto-speech/morfessor.svg)](https://github.com/aalto-speech/morfessor)  Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
@@ -198,7 +199,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Toney ![GitHub stars](https://img.shields.io/github/stars/langtech/toney.svg)](https://github.com/langtech/toney)  Tone Classification Software
 * [Toolbox Scripts for ELAN ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/toolbox-scripts.svg)](https://github.com/RichardLitt/toolbox-scripts)  Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
 * [ToolsForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/cesine/ToolsForFieldLinguistics.svg)](https://github.com/cesine/ToolsForFieldLinguistics)  A collection of scripts and recipes for linguistics
-* [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/FieldDB/translitit-engine.svg)](https://github.com/FieldDB/translitit-engine)  A transliteration engine written in JavaScript
+* [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/gausby/translitit-engine.svg)](https://github.com/gausby/translitit-engine)  A transliteration engine written in JavaScript
 * [Tsammalex data ![GitHub stars](https://img.shields.io/github/stars/clld/tsammalex-data.svg)](https://github.com/clld/tsammalex-data)  [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals. The data published on the Tsammalex website is curated collaboratively at https://github.com/clld/tsammalex-data
 * [tweet2learn ![GitHub stars](https://img.shields.io/github/stars/kscanne/tweet2learn.svg)](https://github.com/kscanne/tweet2learn)  An app to make it easier to use your native language on Twitter
 * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
@@ -231,6 +232,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg)](https://github.com/westonruter/ipa-chart)  International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
+* [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 * [pocketsphinx.js ![GitHub stars](https://img.shields.io/github/stars/syl22-00/pocketsphinx.js.svg)](https://github.com/syl22-00/pocketsphinx.js)  Speech recognition in JavaScript
 * [praat-py ![GitHub stars](https://img.shields.io/github/stars/FieldDB/praat-py.svg)](https://github.com/FieldDB/praat-py)  From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
 * [Praat-Scripts ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Praat-Scripts.svg)](https://github.com/FieldDB/Praat-Scripts)  Mietta's Scripts
@@ -272,6 +274,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
 * [AndroidLanguageLearningClientForFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB.svg)](https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB)  An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
 * [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg)](https://github.com/FieldDB/AndroidProductionExperiment)  Android App to run perception experiments
+* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [Bevara ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/bevara.svg)](https://github.com/KentonMurray/bevara)  Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz ![GitHub stars](https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg)](https://github.com/ojovoz/ojoVoz_mobile)  A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
 * [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
@@ -381,11 +384,26 @@ _nya :: chicheŵa_
 
 * [Chichewa ![GitHub stars](https://img.shields.io/github/stars/kscanne/chichewa.svg)](https://github.com/kscanne/chichewa)  NLP resources for Chichewa
 
+###Estonian
+
+_est :: eesti keel_
+
+* [et-pocketsphinx-tutorial](https://github.com/alumae/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
+* [Inimesed](https://github.com/Kaljurand/Inimesed) An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
+* [Kõnele](https://github.com/Kaljurand/K6nele) Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
+
 ###Georgian
 
 _kat :: ქართული_
 
-* [translitit-latin-to-mkhedruli-georgian ![GitHub stars](https://img.shields.io/github/stars/FieldDB/translitit-latin-to-mkhedruli-georgian.svg)](https://github.com/FieldDB/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+* [Gadatsqvetilebebi](https://github.com/batumi/Gadatsqvetilebebi) გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
+* [Kartuli Speech Recognition](https://github.com/batumi/KartuliSpeechRecognition) ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა
+* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
+* [QartuliDaBunebismetkveleba](https://github.com/aiSaba/QartuliDaBunebismetkveleba) მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
+* [SakartvelosUzenaesiSasamartloSarke](https://github.com/batumi/SakartvelosUzenaesiSasamartloSarke) საქართველოს უზენაესი სასამართლო სარკე
+* [SamartlosSakonstitutsioSasamartdoSarke](https://github.com/batumi/SamartlosSakonstitutsioSasamartdoSarke) სამართლოს საკონსტიტუციო სასამართდო სარკე
+* [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+* [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
 ###Guarani
 
