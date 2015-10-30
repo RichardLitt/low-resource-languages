@@ -35,6 +35,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 - [Audio automation](#audio-automation)
 - [Text automation](#text-automation)
 - [Experimentation](#experimentation)
+- [Flashcards](#flashcards)
 - [Natural language generation](#natural-language-generation)
 - [Computing systems](#computing-systems)
 - [Android Applications](#android-applications)
@@ -111,7 +112,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ##Software
 * [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
 * [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
-* [Anki ![GitHub stars](https://img.shields.io/github/stars/dae/anki.svg)](https://github.com/dae/anki)  Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
@@ -259,6 +259,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [psychopyMegProsody ![GitHub stars](https://img.shields.io/github/stars/FieldDB/psychopyMegProsody.svg)](https://github.com/FieldDB/psychopyMegProsody)  Runs MegProsody using PsychoPy.
 * [PsychScript ![GitHub stars](https://img.shields.io/github/stars/EoinTravers/PsychScript.svg)](https://github.com/EoinTravers/PsychScript)  A HTML5/Javascript library for running behavioural experiments online.
 
+# Flashcards
+
+* [Anki ![GitHub stars](https://img.shields.io/github/stars/dae/anki.svg)](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. http://ankisrs.net/
+* [flashgrid ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashgrid.svg](https://github.com/sillsdev/flashgrid) An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
+* [VocabLift ![GitHub stars](https://img.shields.io/github/stars/somelinguist/VocabLift.svg](https://github.com/somelinguist/VocabLift) Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
 # Natural language generation
 
