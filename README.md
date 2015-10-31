@@ -217,7 +217,8 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # i18n-related Repositories
 
-* [Polyglot.js](http://airbnb.github.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
+* [Express-Lingua ![GitHub stars](https://img.shields.io/github/stars/akoenig/express-lingua.svg)](https://github.com/akoenig/express-lingua) An i18n middleware for the Express.js framework.
+* [Polyglot.js](http://airbnb.github.io/polyglot.js) Give your JavaScript the ability to speak many languages.
 * [Transifex](http://transifex.com) - System for providing a nice, userfriendly/project oriented approach to translating `.po` files. Great for non-technical users, free for open-source projects, decent for minority languages; **however**, it can take a while to get a new language added to the Transifex system because the ticketing system Transifex uses results in them losing tickets sometimes. Provides translation memory, ability to appoint reviewers, etc. Transifex used to have an open source system that you could host on your own, but that seems to have disappeared.
 
 
