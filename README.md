@@ -148,6 +148,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks (The authoritative version of this repo is on https://gerrit.lsdev.sil.org/)
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development (The authoritative version of this repo is on https://gerrit.lsdev.sil.org/ - no direct pushes to this github repo!)
 * [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see https://wiki.mozilla.org/B2G. If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
+* [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models. 
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages. The data published in Glottolog is curated in https://github.com/clld/glottolog-data
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
@@ -178,14 +179,17 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine)  Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
 * [Make-extensions ![GitHub stars](https://img.shields.io/github/stars/kscanne/make-extensions.svg)](https://github.com/kscanne/make-extensions)  Scripts for generating hunspell spellchecking extensions
 * [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
+* [mgiza](https://github.com/moses-smt/mgiza) A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
 * [morfessor ![GitHub stars](https://img.shields.io/github/stars/aalto-speech/morfessor.svg)](https://github.com/aalto-speech/morfessor)  Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
+* [mosesdecoder](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
 * [Natural ![GitHub stars](https://img.shields.io/github/stars/NaturalNode/natural.svg)](https://github.com/NaturalNode/natural)  *Javascript* general natural language facilities for node
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
 * [norma ![GitHub stars](https://img.shields.io/github/stars/fpetran/norma.svg)](https://github.com/fpetran/norma)  A tool for automatic spelling normalization
+* [nplm](https://github.com/moses-smt/nplm) Fork of http://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
 * [octothorpe ![GitHub stars](https://img.shields.io/github/stars/FieldDB/octothorpe.svg)](https://github.com/FieldDB/octothorpe)  CouchDB-powered wiki thing
 * [OdtXslt](https://github.com/sillsdev/OdtXslt) Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
 * [ogoki](https://github.com/LowResourceLanguages/Ojibway-iphone-app) iPhone & iPad template source code (as a .zip) for language learning. The app built and open sourced by the ogokilearning.com company who also offers [developer training for first nations apps](http://www.ogokilearning.com/education-skills-development/).
@@ -208,6 +212,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [PyAnnotationGraph ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/PyAnnotationGraph.svg)](https://github.com/PhonologicalCorpusTools/PyAnnotationGraph)  Implement the formal model for linguistic annotations described in Bird and Liberman (2001) using Python and SQL
 * [pyDelphin ![GitHub stars](https://img.shields.io/github/stars/goodmami/pydelphin.svg)](https://github.com/goodmami/pydelphin)  Python libraries for DELPH-IN (Friendly Fork)
 * [Rosetta Pangloss ![GitHub stars](https://img.shields.io/github/stars/jcgood/rosetta-pangloss.svg)](https://github.com/jcgood/rosetta-pangloss)  The Rosetta Project's Pangloss system
+* [salm](https://github.com/moses-smt/salm) SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
 * [Salt ![GitHub stars](https://img.shields.io/github/stars/korpling/salt.svg)](https://github.com/korpling/salt)  A graph-based model to store and manipulate linguistic data.
 * [Secwepemc-Facebook ![GitHub stars](https://img.shields.io/github/stars/kscanne/secwepemc-facebook.svg)](https://github.com/kscanne/secwepemc-facebook)  Translate Facebook into unsupported languages
 * [SeedLing ![GitHub stars](https://img.shields.io/github/stars/alvations/SeedLing.svg)](https://github.com/alvations/SeedLing)  Building and Using A Seed Corpus for the Human Language Project
@@ -376,6 +381,7 @@ _These are repositories that are generally only interesting for training purpose
 * [FieldDB](https://github.com/FieldDB) 
 * [lex4all](https://github.com/lex4all) 
 * [longnow](https://github.com/longnow) 
+* [moses-smt](https://github.com/moses-smt) Statistical Machine Translation.
 * [NLTK](https://github.com/nltk/nltk)  [http://nltk.github.com/](http://nltk.github.com/)
 * [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools) 
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
