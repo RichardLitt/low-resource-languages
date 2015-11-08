@@ -262,9 +262,16 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/FieldDB/et-pocketsphinx-tutorial.svg)](https://github.com/FieldDB/et-pocketsphinx-tutorial)  Tutorial of Estonian speech recognition using PocketSphinx
 * [html5-audio-read-along ![GitHub stars](https://img.shields.io/github/stars/westonruter/html5-audio-read-along.svg)](https://github.com/westonruter/html5-audio-read-along)  HTML5 Audio Read-Along
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg)](https://github.com/westonruter/ipa-chart)  International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
+* [kaldi-svn-archive](https://github.com/kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
+* [kaldi](https://github.com/kaldi-asr/kaldi) This is now the official location of the Kaldi project.
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
+* [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx) 
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
+* [pocketsphinx-ios-demo](https://github.com/cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS
+* [pocketsphinx-python](https://github.com/cmusphinx/pocketsphinx-python) Python module installed with setup.py
+* [pocketsphinx-ruby](https://github.com/cmusphinx/pocketsphinx-ruby) Ruby speech recognition with Pocketsphinx
+* [pocketsphinx-wp-demo](https://github.com/cmusphinx/pocketsphinx-wp-demo) Demo to run pocketsphinx on WP8 platform
 * [pocketsphinx.js ![GitHub stars](https://img.shields.io/github/stars/syl22-00/pocketsphinx.js.svg)](https://github.com/syl22-00/pocketsphinx.js)  Speech recognition in JavaScript
 * [praat-py ![GitHub stars](https://img.shields.io/github/stars/FieldDB/praat-py.svg)](https://github.com/FieldDB/praat-py)  From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
 * [Praat-Scripts ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Praat-Scripts.svg)](https://github.com/FieldDB/Praat-Scripts)  Mietta's Scripts
@@ -273,6 +280,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Prosodylab-Aligner ![GitHub stars](https://img.shields.io/github/stars/prosodylab/Prosodylab-Aligner.svg)](https://github.com/prosodylab/Prosodylab-Aligner)  Python interface for forced audio alignment using HTK and SoX
 * [prosodylab.alignertools ![GitHub stars](https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg)](https://github.com/prosodylab/prosodylab.alignertools) 
 * [Recordmp3js ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Recordmp3js.svg)](https://github.com/FieldDB/Recordmp3js)  Record MP3 files directly from the browser using JS and HTML
+* [sphinx4](https://github.com/cmusphinx/sphinx4) Pure Java speech recognition library
+* [sphinxbase](https://github.com/cmusphinx/sphinxbase) 
+* [sphinxtrain](https://github.com/cmusphinx/sphinxtrain) 
+* [TLSphinx](https://github.com/cmusphinx/TLSphinx) Swift wrapper around Pocketsphinx
+
 
 # Text automation
 
@@ -309,13 +321,15 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Android Applications
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/langtech/aikuma)  Android software for recording and translation http://lp20.org/aikuma
+* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
 * [AndroidLanguageLearningClientForFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLearningClientForFieldDB.svg)](https://github.com/FieldDB/AndroidLanguageLearningClientForFieldDB)  An Android language learning app which plugs into a FieldDB corpus to create language learning apps.
 * [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg)](https://github.com/FieldDB/AndroidProductionExperiment)  Android App to run perception experiments
-* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [Bevara ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/bevara.svg)](https://github.com/KentonMurray/bevara)  Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz ![GitHub stars](https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg)](https://github.com/ojovoz/ojoVoz_mobile)  A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
+* [pocketsphinx-android-demo](https://github.com/cmusphinx/pocketsphinx-android-demo)
+* [pocketsphinx-android](https://github.com/cmusphinx/pocketsphinx-android) pocketsphinx build for Android
 * [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
 
 # Chrome Extensions
