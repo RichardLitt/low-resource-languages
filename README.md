@@ -124,6 +124,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [clld ![GitHub stars](https://img.shields.io/github/stars/clld/clld.svg)](https://github.com/clld/clld)  The `clld` python package is a toolkit to build cross-linguistic databases. A list of databases built with it is available at http://clld.org/datasets.html
+* [CMU Sphinx](http://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
 * [Cog ![GitHub stars](https://img.shields.io/github/stars/sillsdev/cog.svg)](https://github.com/sillsdev/cog)  Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
 * [CorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg)](https://github.com/PhonologicalCorpusTools/CorpusTools)  Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
 * [CTK](http://champollion.sourceforge.net/) Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible.
@@ -371,6 +372,7 @@ _These are repositories that are generally only interesting for training purpose
 ## On GitHub
 
 * [batumi](https://github.com/batumi)  Speech recognition and natural language processing for low-resource languages
+* [cmusphinx](https://github.com/cmusphinx) Mirror of the SourceForge repositories http://sourceforge.net/projects/cmusphinx/
 * [FieldDB](https://github.com/FieldDB) 
 * [lex4all](https://github.com/lex4all) 
 * [longnow](https://github.com/longnow) 
