@@ -41,5 +41,8 @@
 * Text Encoding Initiative [TEI](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-language.html) via IETF's BCP 47.
 
 ###Corpora
+* NAF http://www.newsreader-project.eu/files/2013/01/techreport.pdf, formerly KAF http://weblab.iit.cnr.it/kyoto/xmlgroup.iit.cnr.it/kyoto/indexdd46.html
+* NIF http://persistence.uni-leipzig.org/nlp2rdf/
+
 ###Lexicons
 * Lexical Markup Framework: ISO specification for representation of machine-readable dictionaries.
