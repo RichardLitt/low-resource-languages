@@ -457,6 +457,7 @@ _est :: eesti keel_
 
 _kat :: ქართული_
 
+* [awesome-georgia](https://github.com/Stichoza/awesome-georgia) A curated list of awesome libraries and packages specific/related to Georgia (country).
 * [Gadatsqvetilebebi](https://github.com/batumi/Gadatsqvetilebebi) გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
 * [GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) this Mysql database contains around 200 000 unique Georgian words http://geowords.ga/
 * [Kartuli Speech Recognition](https://github.com/batumi/KartuliSpeechRecognition) ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა
