@@ -101,7 +101,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
 
 ###Interactions and presentations of data
-* [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
+* [Dict.cc](http://www.dict.cc/) An exemplar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
