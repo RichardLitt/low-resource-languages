@@ -458,6 +458,7 @@ _est :: eesti keel_
 _kat :: ქართული_
 
 * [Gadatsqvetilebebi](https://github.com/batumi/Gadatsqvetilebebi) გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
+* [GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) this Mysql database contains around 200 000 unique Georgian words http://geowords.ga/
 * [Kartuli Speech Recognition](https://github.com/batumi/KartuliSpeechRecognition) ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა
 * [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
 * [QartuliDaBunebismetkveleba](https://github.com/aiSaba/QartuliDaBunebismetkveleba) მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
