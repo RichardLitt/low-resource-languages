@@ -315,6 +315,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 # Natural language generation
 
 * [hailo ![GitHub stars](https://img.shields.io/github/stars/FieldDB/hailo.svg)](https://github.com/FieldDB/hailo)  A conversation bot using Markov chains
+* [ngram-natural-language-generator ![GitHub stars](https://img.shields.io/github/stars/cesine/ngram-natural-language-generator.svg)](https://github.com/cesine/ngram-natural-language-generator)  Takes in a text file and generates random sentences that sound like they could have been in the file
 * [OpenCCG ![GitHub starts](https://img.shields.io/github/stars/OpenCCG/openccg.svg)](https://github.com/OpenCCG/openccg) OpenCCG library for parsing and realization with CCG. Includes mini-grammars for Inuit, Nezperce, Basque and others.
 * [SimpleNLG ![GitHub starts](https://img.shields.io/github/stars/simplenlg/simplenlg.svg)](https://github.com/simplenlg/simplenlg) SimpleNLG is a simple Java API designed to facilitate the generation of Natural Language. It was originally developed at the University of Aberdeen's Department of Computing Science. English at this moment but there exist forks in French and German.
 * See more at [Downloadable NLG systems](http://aclweb.org/aclwiki/index.php?title=Downloadable_NLG_systems) at the ACL Wiki. Of particular interest there might be the [List of resources by language](http://aclweb.org/aclwiki/index.php?title=List_of_resources_by_language) at the wiki.
