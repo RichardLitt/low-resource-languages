@@ -136,7 +136,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Desmeme ![GitHub stars](https://img.shields.io/github/stars/jcgood/desmeme.svg)](https://github.com/jcgood/desmeme)  Database and tools for exploring linguistic templates
 * [dictdb ![GitHub stars](https://img.shields.io/github/stars/substack/dictdb.svg)](https://github.com/substack/dictdb)  dictionary database for language translation
 * [discoursegraphs ![GitHub stars](https://img.shields.io/github/stars/arne-cl/discoursegraphs.svg)](https://github.com/arne-cl/discoursegraphs)  Python-based tool to convert and merge multilayer annotated linguistic data
-* [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit http://goo.gl/wdnz1W
+* [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html)
 * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [ELDER: Endangered Language Data Electronic Repository ![GitHub stars](https://img.shields.io/github/stars/elderonline/ELDER.svg)](https://github.com/elderonline/ELDER)  Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
@@ -147,7 +147,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts). 
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks 
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
-* [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [https://wiki.mozilla.org/B2G](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
+* [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard).
 * [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models. 
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
@@ -186,7 +186,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
 * [Natural ![GitHub stars](https://img.shields.io/github/stars/NaturalNode/natural.svg)](https://github.com/NaturalNode/natural)  *Javascript* general natural language facilities for node
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
-* [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://nltk.github.com/
+* [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://www.nltk.org/
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
 * [norma ![GitHub stars](https://img.shields.io/github/stars/fpetran/norma.svg)](https://github.com/fpetran/norma)  A tool for automatic spelling normalization
 * [nplm](https://github.com/moses-smt/nplm) Fork of http://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
@@ -392,12 +392,12 @@ _These are repositories that are generally only interesting for training purpose
 
 * [batumi](https://github.com/batumi)  Speech recognition and natural language processing for low-resource languages
 * [cmusphinx](https://github.com/cmusphinx) Mirror of the SourceForge repositories
-* [FieldDB](https://github.com/FieldDB) 
-* [lex4all](https://github.com/lex4all) 
-* [longnow](https://github.com/longnow) 
+* [FieldDB](https://github.com/FieldDB)
+* [lex4all](https://github.com/lex4all)
+* [longnow](https://github.com/longnow)
 * [moses-smt](https://github.com/moses-smt) Statistical Machine Translation.
 * [NLTK](https://github.com/nltk/nltk) Natural Language Toolkit
-* [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools) 
+* [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools)
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
 * [SIL International (Dev)](https://github.com/sillsdev) [SIL International](http://www.sil.org/) Another SIL organization, with many repositories.
 * [SIL International](https://github.com/silinternational) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
