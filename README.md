@@ -97,7 +97,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ###Utilities
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
 * [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
-* [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.org (by the SIL International)
+* [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
 
 ###Interactions and presentations of data
 * [Dict.cc](http://www.dict.cc/) An exemplar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
@@ -120,7 +120,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [brain ![GitHub stars](https://img.shields.io/github/stars/FieldDB/brain.svg)](https://github.com/FieldDB/brain)  Neural networks in JavaScript
 * [Bristol Uni MT Morphology tools](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
 * [CasualCon](https://sites.google.com/site/casualconc/Home) CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count.
-* [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms http://cdec-decoder.org/
+* [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [CMU Sphinx](http://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
@@ -154,7 +154,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
-* [hunspell.old](https://github.com/sillsdev/hunspell.old) Mirror of the Hunspell CVS repository at SourceForge (http://hunspell.cvs.sourceforge.net/hunspell)
+* [hunspell.old](https://github.com/sillsdev/hunspell.old) Mirror of the Hunspell CVS repository at SourceForge
 * [hunspell](https://github.com/sillsdev/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
 * [icu-dotnet](https://github.com/sillsdev/icu-dotnet) C# wrapper for ICU4C
 * [icu4c](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements. 
@@ -195,7 +195,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [old-webapp ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/old-webapp.svg)](https://github.com/jrwdunham/old-webapp)  Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
 * [OpenDataKit](https://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [ops-devbox](https://github.com/sillsdev/ops-devbox) Ansible playbook for a (linux) developer machine
-* [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools)  This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org/tools/
+* [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools)  This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at http://dev.panlex.org
 * [paradigm](https://github.com/sillsdev/paradigm)   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
 * [pathway](https://github.com/sillsdev/pathway) Preparing language data for publication
 * [pepper ![GitHub stars](https://img.shields.io/github/stars/korpling/pepper.svg)](https://github.com/korpling/pepper)  Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
@@ -222,7 +222,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [SuGarLike ![GitHub stars](https://img.shields.io/github/stars/alvations/SuGarLike.svg)](https://github.com/alvations/SuGarLike)  Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
 * [TeraDict ![GitHub stars](https://img.shields.io/github/stars/longnow/TeraDict.svg)](https://github.com/longnow/TeraDict)  Translate English words into hundreds of languages!
 * [TexNLP ![GitHub stars](https://img.shields.io/github/stars/utcompling/texnlp.svg)](https://github.com/utcompling/texnlp)  TexNLP: Texas Natural Language Processing tools
-* [TiMBL](http://ilk.uvt.nl/timbl/) TiMBL is an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG. All implemented algorithms have in common that they store some representation of the training set explicitly in memory. During testing, new cases are classified by extrapolation from the most similar stored cases.
+* [TiMBL](https://languagemachines.github.io/timbl/) TiMBL is an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG. All implemented algorithms have in common that they store some representation of the training set explicitly in memory. During testing, new cases are classified by extrapolation from the most similar stored cases.
 * [Toney ![GitHub stars](https://img.shields.io/github/stars/langtech/toney.svg)](https://github.com/langtech/toney)  Tone Classification Software
 * [Toolbox Scripts for ELAN ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/toolbox-scripts.svg)](https://github.com/RichardLitt/toolbox-scripts)  Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/
 * [ToolsForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/cesine/ToolsForFieldLinguistics.svg)](https://github.com/cesine/ToolsForFieldLinguistics)  A collection of scripts and recipes for linguistics
@@ -233,7 +233,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [UniversalDependencies docs ![GitHub stars](https://img.shields.io/github/stars/UniversalDependencies/docs.svg)](https://github.com/UniversalDependencies/docs)  Universal Dependencies online documentation http://universaldependencies.github.io/docs/
 * [UniversalDependencies tools ![GitHub stars](https://img.shields.io/github/stars/universaldependencies/tools.svg)](https://github.com/universaldependencies/tools)  Various utilities for processing the data.
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench/overview) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
-* [wavesurfer.js ![GitHub stars](https://img.shields.io/github/stars/katspaugh/wavesurfer.js.svg)](https://github.com/katspaugh/wavesurfer.js)  Navigable waveform built on Web Audio and Canvas http://www.wavesurfer.fm (Also has an ELAN plugin)
+* [wavesurfer.js ![GitHub stars](https://img.shields.io/github/stars/katspaugh/wavesurfer.js.svg)](https://github.com/katspaugh/wavesurfer.js)  Navigable waveform built on Web Audio and Canvas http://wavesurfer-js.org/ (Also has an ELAN plugin)
 * [web-scriptureforge](https://github.com/sillsdev/web-scriptureforge) platform for Scripture-related web apps
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary ![GitHub stars](https://img.shields.io/github/stars/eddersko/WordBoundary.svg)](https://github.com/eddersko/WordBoundary)  An experiment in the detection and segmentation of word boundaries
@@ -350,15 +350,14 @@ _FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFie
 * [AuthenticationWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AuthenticationWebService.svg)](https://github.com/FieldDB/AuthenticationWebService)  A node.js web service which mananges users and corpora creation and authentication [use](https://api.lingsync.org/)
 * [bower-fielddb-angular ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb-angular.svg)](https://github.com/FieldDB/bower-fielddb-angular)  A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save
 * [bower-fielddb ![GitHub stars](https://img.shields.io/github/stars/FieldDB/bower-fielddb.svg)](https://github.com/FieldDB/bower-fielddb)  A bower repository which hosts fielddb core components, bower install fielddb --save
-* [dative ![GitHub stars](https://img.shields.io/github/stars/FieldDB/dative.svg)](https://github.com/FieldDB/dative)  A single-page application that interacts with multiple linguistic fieldwork web service databases. [use](https://dative.lingsync.org/)
 * [fielddb-spreadsheet-sikuli ![GitHub stars](https://img.shields.io/github/stars/FieldDB/fielddb-spreadsheet-sikuli.svg)](https://github.com/FieldDB/fielddb-spreadsheet-sikuli)  sikuli tests for the spreadsheet module [use](https://www.youtube.com/watch?v=pPN8e1m6RBU&feature=youtu.be)
 * [FieldDBActivityFeed ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBActivityFeed.svg)](https://github.com/FieldDB/FieldDBActivityFeed)  A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa)
 * [FieldDBGlosser ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBGlosser.svg)](https://github.com/FieldDB/FieldDBGlosser)  A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save
-* [FieldDBLexicon ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBLexicon.svg)](https://github.com/FieldDB/FieldDBLexicon)  A lexicon browser/editor web widget for FieldDB databases [use](https://lexicondev.lingsync.org/)
+* [FieldDBLexicon ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBLexicon.svg)](https://github.com/FieldDB/FieldDBLexicon)  A lexicon browser/editor web widget for FieldDB databases
 * [FieldDBWebServer ![GitHub stars](https://img.shields.io/github/stars/FieldDB/FieldDBWebServer.svg)](https://github.com/FieldDB/FieldDBWebServer)  Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/lingllama-communitycorpus)
 * [LanguageClassDashboard ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LanguageClassDashboard.svg)](https://github.com/FieldDB/LanguageClassDashboard)  App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/)
 * [LexiconWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LexiconWebService.svg)](https://github.com/FieldDB/LexiconWebService)  A node.js ElasticSearch wrapper for indexing/training  lexicons from corpora
-* [LexiconWebServiceSample ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LexiconWebServiceSample.svg)](https://github.com/FieldDB/LexiconWebServiceSample)  A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project. [use](https://lexicondev.lingsync.org/analysisbytierbyword/inuktitut/nunaqjuaqli%20aaqkiksimalaunngilaq%20sunataqaranilu%20itijuqjuamik%20taaqtualuulluni%20guutiullu%20anirngninga%20ingirralauqpuq%20imaaluup%20qulaagut)
+* [LexiconWebServiceSample ![GitHub stars](https://img.shields.io/github/stars/FieldDB/LexiconWebServiceSample.svg)](https://github.com/FieldDB/LexiconWebServiceSample)  A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project.
 
 
 # Academic Research Paper-Specific Repositories
@@ -518,7 +517,7 @@ _jpn :: 日本語_
 _kin :: Ikinyarwanda_
 
 * [kin-morph-fst ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/kin-morph-fst.svg)](https://github.com/ldmt-muri/kin-morph-fst)  Kinyarwanda morphological analyzer
-* [TurboTagger & TurboParser for Kinyarwanda (download)](http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
+* [TurboTagger & TurboParser for Kinyarwanda (download)](https://web.archive.org/web/*/http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
 
 ###Korean
 
@@ -552,7 +551,6 @@ _mic :: Mi'kmaq_
 ###Minderico
 
 * [fredericajordarzambarino ![GitHub stars](https://img.shields.io/github/stars/cidles/fredericajordarzambarino.svg)](https://github.com/cidles/fredericajordarzambarino)  A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
-* [mindericobot ![GitHub stars](https://img.shields.io/github/stars/cidles/mindericobot.svg)](https://github.com/cidles/mindericobot) 
 
 ###Nishnaabe
 
@@ -584,7 +582,6 @@ _sma :: Sámi/Saami_
 * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools.
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
-- [Gïelese](http://gielese.no) - A media learning application for South Saami, including images, sound and animation for learning basic phrases and core vocabulary. JavaScript application, playable on the web or via PhoneGap apps in Android or iOS.
 - [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
 Giellatekno does a lot for other minority Uralic languages. Following are some keywords for CTRL+F friendliness:
 
@@ -609,7 +606,7 @@ _shs :: Secwepemctsín_
 _som :: Soomaaliga_
 
 * [somorph ![GitHub stars](https://img.shields.io/github/stars/rtxanson/somorph.svg)](https://github.com/rtxanson/somorph)  Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in [Giellatekno's](http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html) repository.
-* [qaamuus.so](http://qaamuus.so/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
+* [qaamuus.net](http://qaamuus.net/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
 
 ###Tigrinya
 
