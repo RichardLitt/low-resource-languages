@@ -96,7 +96,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ##Single language lexicography projects and utilities
 ###Utilities
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
-* [Webonary](http://www.Webonary.org) Site which hosts digital dictionaries for single languages.
+* [Webonary](http://www.webonary.org/) Site which hosts digital dictionaries for single languages.
 * [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
 
 ###Interactions and presentations of data
@@ -321,7 +321,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Android Applications
 
-* [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation http://lp20.org/aikuma/
+* [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation http://ww12.lp20.org
 * [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
