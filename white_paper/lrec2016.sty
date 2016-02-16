@@ -1,0 +1,404 @@
+%
+% lrec2014.sty
+%
+\typeout{}
+\typeout{LREC 2014 Proceedings style -- Februar 2014}
+\typeout{}
+%
+% ----------------------------------------------------------------------
+% INTRO
+%
+% This is the LaTeX style file for LREC 2014. It is a copy of 
+% the lrec2006.sty which is a modification of the lrec2000.sty which was based on
+% several similar files like colacl.sty for COLING-ACL, and
+% lrec98.cls, by A.Rubio-P.Garcia, for the Granada LREC.
+%
+% lrec2014.sty is designed for use as a package or option with the
+% standard LaTeX article class, and the BibTeX style lrec2014.bst. 
+%
+% Author/title and citation formatting differs slightly from standard
+% LaTeX; see AUTHOR FORMATS and CITATION FORMATS below for more
+% information.
+% 
+% This file is supplied as a hopefully convenient implementation of 
+% some of the "instructions for authors" repeated below. It is not
+% guaranteed to work in any given LaTeX installation or in conjunction
+% with any given class, package or style, and it is not intended as
+% a LaTeX tutorial.
+%
+% ----------------------------------------------------------------------
+% INSTRUCTIONS TO AUTHORS
+% 
+%   (i) Paper size: A4. Use 10pt should be the normal font size.  
+%	The .tex preamble should include the following line:
+%       \documentclass[10pt, a4paper]{article} 
+%
+%  (ii) Left, right, and bottom margins: 1.9 cm
+%       Top margin: 2.5 cm 
+%
+%  (iii) Body of text to be set in two columns.  Full-width figures
+%       (i.e. using \begin{figure*}) and tables may be used if
+%       necessary. 
+%
+%  (iv) Times Roman is the default font. 
+%
+%  (v) No page numbering (pages should be numbered in pencil, on the
+%       reverse side).
+% 
+% Items (ii), (iii), (iv) and (v) are handled by this file, and should
+% therefore not be overridden by resetting \textwidth, \textheight,
+% \pagestyle etc. in your document, or by using styles or packages
+% which have the same effect.
+%
+% -------------------------------------------------------------------
+% SAMPLE PAPER
+% A sample paper template can be downloaded from the LREC site
+%
+%
+% ----------------------------------------------------------------------
+% AUTHOR FORMATS
+% 
+% ------------
+% For several authors from the same institution:
+%
+% \name{Firstname1 Surname1, Firstname2 Surname2, ..., FirstnameN SurnameN}
+%
+% \address{Institution \\ Address \\ {mail1, mail2, ...,  mailN}@institution}
+%
+% If the names do not fit well on one line use
+%
+%         \name{Firstname1 Surname1 \\ {\bf \large Firstname2 Surname2} \\
+%         ... \\ {\bf \large FirstnameN SurnameN }}
+%
+% ------------
+%
+% For authors from different institutions:
+%
+% \name{Firstname1 Surname1$^{\ast}$, Firstname2 Surname2$^{\ast}$, Firstname3 Surname3$^{\dagger}$, Firstname4 Surname4$^{\ast}$}
+%
+% \address{$^{\ast}$Institution1 \\ Address1 \\ 
+%          {mail1, mail2, mail4}@Institution1} \\ \\
+%          $^{\dagger}$Institution2 \\ Address3 \\ 
+%          mail3@Institution2 }
+%
+% ------------
+%
+% If the title and author information does not fit in the area allocated,
+% place \setlength\titlebox{<new height>} after \usepackage{lrec2014},
+% where <new height> can be something larger than 2.0in
+%
+% ----------------------------------------------------------------------
+% CITATION FORMATS
+% 
+% Three possible citation formats:
+% "\cite{...}"      produces a citation like "(Author, 1999)"
+% "\shortcite{...}" produces a citation like "(1999)"
+% "\newcite{...}"   produces a citation like "Author (1999)"
+%
+% All three take an optional argument which can be used to add page
+% references, etc.:
+% "\newcite[1--6]{...}" produces a citation like "Author (1999, 1--6)"
+%
+% ----------------------------------------------------------------------
+% IF IT DOESN'T WORK
+%
+% The error message "File `lrec2014.sty' not found." indicates that this
+% file has not been installed in a location which is visible to your 
+% LaTeX.  Try putting it in the same directory as your paper, and
+% running LaTeX there.  Consult your `Local Guide' documentation or
+% your system administrator to find out how LaTeX searches for input
+% files.
+%
+% "\documentclass..." is a LaTeX2e declaration.  An error message
+% "Undefined control sequence." followed by a line ending in
+% "\documentclass" indicates that you have used this with an obsolete
+% LaTeX installation.
+
+% Some interactions with other packages may still occur.  In order to
+% remove the page number from the first page, you may have to place the
+% "\thispagestyle{empty}" command immediately after "\maketitle".
+%
+% ----------------------------------------------------------------------
+% NOTE:  Some laser printers have a serious problem printing TeX output.
+% These printing devices, commonly known as "write-white" laser
+% printers, tend to make characters too light.  To get around this
+% problem, a darker set of fonts must be created for these devices.
+%
+% ----------------------------------------------------------------------
+
+
+
+% ----------------------------------------------------------------------
+% Margins, columns, etc
+
+\setlength\topmargin{-0.1cm}
+\setlength\oddsidemargin{-0.7cm}
+\setlength\evensidemargin{-0.7cm}
+\setlength\textheight{25.4cm}
+\setlength\textwidth{17.2cm}
+\setlength\columnsep{0.63cm}
+\setlength\columnwidth{8.25cm}
+\newlength\titlebox
+\setlength\titlebox{2.0in}
+\setlength\headheight{0pt}
+\setlength\headsep{0pt}
+\setlength\footskip{0pt}                % irrelevant when no footers.
+\pagestyle{empty}			% no page numbers
+\thispagestyle{empty}			% no page numbers
+
+\setlength{\baselineskip}{11pt} %LREC 98 
+
+\flushbottom
+\twocolumn
+\sloppy
+
+% ----------------------------------------------------------------------
+% Times Roman will be the default font. 
+% The following is copied from times.sty
+\renewcommand{\sfdefault}{phv}
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\ttdefault}{pcr}
+
+% ----------------------------------------------------------------------
+% We're never going to need a table of contents, so just flush it to
+% save space --- from colacl.sty
+\def\addcontentsline#1#2#3{}
+
+% ----------------------------------------------------------------------
+% Title and abstract, from lrec98.cls
+
+\def\maketitleabstract{\par
+ \begingroup
+ \def\thefootnote{}
+ \def\@makefnmark{\hbox
+ to 0pt{$^{\@thefnmark}$\hss}}
+ \if@twocolumn
+ \twocolumn[\@maketitleabstract]
+ \else \newpage
+ \global\@topnum\z@ \@maketitleabstract \fi\@thanks
+ \endgroup
+ \setcounter{footnote}{0}
+ \let\maketitleabstract\relax
+ \let\@maketitleabstract\relax
+ \gdef\thefootnote{\arabic{footnote}}\gdef\@@savethanks{}%
+ \gdef\@thanks{}\gdef\@author{}\gdef\@title{}\let\thanks\relax}
+
+\def\@maketitleabstract{\newpage
+ \null
+ \vskip 2em \begin{center}
+ \vspace*{-.25cm}{\Large \bf \@title \par} \vskip 1.5em \lineskip .5em
+ \begin{tabular}[t]{c} \large\bf \@name\\ \normalsize \@address \end{tabular}\par 
+ \@abstract
+ \end{center}
+ \par
+ \vspace*{0.2cm}
+}
+
+
+\def\title#1{\gdef\@title{#1}}
+\def\name#1{\gdef\@name{#1}} %no space between author and affiliation
+\def\address#1{\gdef\@address{#1\\}}
+\def\abstract#1{\gdef\@abstract{
+  {\bf \normalsize \abstractname\vspace{-.5em}\vspace{0.2cm}}
+  \setlength{\baselineskip}{10pt}\parbox{17.2cm}{\small #1 \par}
+}}
+
+%\def\endabstract{\if@twocolumn\else\endquotation\fi}
+\gdef\@title{\uppercase{title of paper}}
+\gdef\@name{{\em Name of author}\\}
+\gdef\@address{Address - Line 1 \\
+               Address - Line 2 \\
+               Address - Line 3}
+\gdef\@abstract{{\em Abstract content}}
+
+\let\@@savethanks\thanks
+\def\thanks#1{\gdef\thefootnote{}\@@savethanks{#1}}
+\def\sthanks#1{\gdef\thefootnote{\fnsymbol{footnote}}\@@savethanks{#1}}
+
+
+% ----------------------------------------------------------------------
+% bibliography and citations
+% From colacl.sty
+
+% most of cite format is from aclsub.sty by SMS
+
+% don't box citations, separate with ; and a space
+% Replaced for multiple citations (pj) 
+% don't box citations and also add space, semicolon between multiple
+% citations
+%
+\def\@citex[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+  \def\@citea{}\@cite{\@for\@citeb:=#2\do
+     {\@citea\def\@citea{; }\@ifundefined
+       {b@\@citeb}{{\bf ?}\@warning
+        {Citation `\@citeb' on page \thepage \space undefined}}%
+ {\csname b@\@citeb\endcsname}}}{#1}}
+
+% Allow short (name-less) citations, when used in
+% conjunction with a bibliography style that creates labels like
+%	\citename{<names>, }<year>
+% 
+\let\@internalcite\cite
+\def\cite{\def\citename##1{##1, }\@internalcite}
+\def\shortcite{\def\citename##1{}\@internalcite}
+\def\newcite{\leavevmode\def\citename##1{{##1} (}\@internalciteb}
+
+% Macros for \newcite, which leaves name in running text, and is
+% otherwise like \shortcite.
+%
+\def\@citexb[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+  \def\@citea{}\@newcite{\@for\@citeb:=#2\do
+    {\@citea\def\@citea{;\penalty\@m\ }\@ifundefined
+       {b@\@citeb}{{\bf ?}\@warning
+       {Citation `\@citeb' on page \thepage \space undefined}}%
+% gjr: hbox causes too many bad linebreaks
+%\hbox{\csname b@\@citeb\endcsname}}}{#1}}
+     {\csname b@\@citeb\endcsname}}}{#1}}
+
+\def\@internalciteb{%
+  \@ifnextchar [{\@tempswatrue\@citexb}{\@tempswafalse\@citexb[]}}
+
+\def\@newcite#1#2{{#1\if@tempswa, #2\fi)}}
+
+% gjr: no labels in this bibliography style
+%\def\@biblabel#1{\def\citename##1{##1}[#1]\hfill}
+\def\@biblabel#1{}
+
+%%% More changes made by SMS (originals in latex.tex)
+% Use parentheses instead of square brackets in the text.
+\def\@cite#1#2{({#1\if@tempswa , #2\fi})}
+
+% Don't put a label in the bibliography at all.  Just use the unlabeled format
+% instead.
+% gjr: removed \@mkboth -- no headers here.
+% gjr: reduced vertical space between entries (plus was .33em)
+%
+\def\thebibliography#1{%
+  % \section{References}    % References section will be numbered in lrec2014.sty
+  \list{}{\setlength{\labelwidth}{0pt}
+          \setlength{\leftmargin}{0.35cm}
+          \setlength{\itemsep}{0.11ex plus 0.11ex}
+          \setlength{\parsep}{0ex}
+          \setlength{\itemindent}{-0.35cm}}
+  \def\newblock{\hskip .11em plus .11em minus -.07em}
+  \sloppy\clubpenalty4000\widowpenalty4000
+  \sfcode`\.=1000\relax}
+\let\endthebibliography=\endlist
+
+\def\@lbibitem[#1]#2{\item[]\if@filesw 
+      { \def\protect##1{\string ##1\space}\immediate
+        \write\@auxout{\string\bibcite{#2}{#1}}\fi\ignorespaces}}
+
+\def\@bibitem#1{\item\if@filesw \immediate\write\@auxout
+       {\string\bibcite{#1}{\the\c@enumi}}\fi\ignorespaces}
+
+% ----------------------------------------------------------------------
+% Section headings with less space
+
+% Instead of the default section headings, we have numbers
+% followed by dots
+% 1. Section
+% 1.1. Subsection
+% 1.1.1. Subsection
+
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand{\thesubsection}{\thesection\arabic{subsection}.}
+\renewcommand{\thesubsubsection}{\thesubsection\arabic{subsubsection}.}
+
+% fontsize 11 for subsections
+\newcommand*{\SmallTitleFont}{%
+      \usefont{\encodingdefault}{\rmdefault}{b}{n}%
+      \fontsize{11}{12}%
+      \selectfont}
+
+\def\Keywords{
+{\bf{Keywords}:\,\relax%
+}}
+
+
+\def\section{%
+    \@startsection{section}{1}{\z@}%
+                  {-2.0ex plus -0.5ex minus -0.3ex}%
+                  {0.8ex plus 0.3ex minus 0.2ex}%
+                  {\large\bf\center}}
+\def\subsection{%
+    \@startsection{subsection}{2}{\z@}%
+                  {-2.0ex plus -0.5ex minus -0.3ex}%
+                  %{-1.4ex plus -0.4ex minus -0.2ex}%
+                  {0.6ex plus 0.2ex minus 0.1ex}%
+                  {\SmallTitleFont\bf\raggedright}}
+\def\subsubsection{%
+    \@startsection{subsubsection}{3}{\z@}%
+                  {-2.0ex plus -0.5ex minus -0.3ex}%
+                  %{-0.8ex plus -0.3ex minus -0.1ex}%
+                  {0.001ex}%
+                  {\normalsize\bf\raggedright}}
+\def\paragraph{%
+    \@startsection{paragraph}{4}{\z@}%
+                  {-0.8ex plus -0.3ex minus -0.1ex}%
+                  {-1em}%
+                  {\normalsize\bf}}
+\def\subparagraph{%
+    \@startsection{subparagraph}{5}{\parindent}%
+                  {0.4ex plus 0.3ex minus 0.1ex}%
+                  {-1em}%
+                  {\normalsize\bf}}
+
+
+% ----------------------------------------------------------------------
+% Footnotes
+% From lrec98.cls
+
+\let\footnotesize=\small
+\def\footnoterule{
+   \vspace*{0.1cm}\noindent\rule{5cm}{0.001cm}\vspace*{0.1cm}
+}
+
+% ----------------------------------------------------------------------
+% Lists and paragraphs
+
+% From lrec98.cls
+
+\setlength{\parindent}{0cm}
+
+% The first paragraph is indented as well.
+% From package indentfirst.sty
+
+\let\@afterindentfalse\@afterindenttrue
+\@afterindenttrue
+
+
+\leftmargin 2em \leftmargini\leftmargin \leftmarginii 2em
+\leftmarginiii 1.5em \leftmarginiv 1.0em \leftmarginv .5em \leftmarginvi .5em
+\labelwidth\leftmargini\advance\labelwidth-\labelsep \labelsep 5pt
+
+% ----------------------------------------------------------------------
+% Floats (figures, tables etc.)
+% From colacl.sty
+%
+% Allow a larger proportion of the column/page to be taken up with
+% floats than the standard classes.  Also discourage the creation of
+% columns/pages containing only floats.
+
+% Maximum fraction of the page that can be occupied by floats:
+%
+\renewcommand\topfraction{.9}
+\renewcommand\bottomfraction{.5}
+\renewcommand\dbltopfraction{.9}	% 2-column floats
+
+% Minimum fraction of page that can be occupied by text:
+%
+\renewcommand\textfraction{.1}
+
+% Maximum fraction of a page that can be occupied by floats before a
+% separate float page is produced:
+%
+\renewcommand\floatpagefraction{0.9}
+\renewcommand\dblfloatpagefraction{.9}	% 2-column floats
+
+
+% ----------------------------------------------------------------------
+% End of lrec2014.sty
+% ----------------------------------------------------------------------
+
+
