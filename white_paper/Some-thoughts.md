@@ -8,7 +8,10 @@ The problem that occurs is that the more project managers there are (which might
 
 Problem we are trying to solve is the communication problem between the plethroa of coders which vary from cowboy soloists to dedicated shops working on language software targeted for use in Low-resourced communities, and the growing number of visionary project managers, who might have a background in linguistics, but often not have one in information technology or in information technology project management.
 
-The beneifits of collaboration, and reusability of code are obvious. However, there still stand a large gap between the project manager and the coding technolgist. We find that this gap can be characterized by two critical problems: 1. What are the things which have been codded - and for what purpose are they coded? 2. Assuming that this data can be gathered, how can this data be quicky made usable so that project managers can use the information intenegently in their evolving relationships with their technical teams? In summary we must create a pile of data, and then we need to make it usable.
+The beneifits of collaboration, and reusability of code are obvious. However, there still stand a large gap between the project manager and the coding technolgist. We find that this gap can be characterized by two critical problems: 
+1. What are the things which have been codded - and for what purpose are they coded? 
+2. Assuming that this data can be gathered, how can this data be quicky made usable so that project managers can use the information intenegently in their evolving relationships with their technical teams? In summary we must create a pile of data, and then we need to make it usable.
 
 In the sprit of taking baby steps, we have started to ammas a pile of data (asking the question - what do we know has been coded), we have started with a solution which is more native to coders than to project managers. We have used an element of Github culture - 'the Awesome list'. 
-While this does list does make a browseable list, it does not address the mryad of points of view which project managers come from. Synethsizing the data to match the various points of view is making the data relevant and usable.
+
+While this does list does make a browseable list, it does not address the mryad of points of view which project managers come from. Synethsizing the data to match the various points of view; making the data relevant and usable is still an open task.
