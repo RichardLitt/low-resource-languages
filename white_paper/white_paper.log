@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 FEB 2016 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 FEB 2016 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -130,22 +130,23 @@ Package: inputenc 2014/04/30 v1.2b Input encoding file
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2014/04/30 v1.2b Input encoding file
 ))
-No file white_paper.aux.
+(./white_paper.aux)
 \openout1 = `white_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -164,53 +165,92 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
+(Font)              <5> on input line 39.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
  []
 
 
-Underfull \vbox (badness 1253) has occurred while \output is active []
+LaTeX Warning: Citation `kornai2013digital' on page 1 undefined on input line 4
+4.
 
 
-No file white_paper.bbl.
-No file languageresource.bbl.
+Underfull \hbox (badness 2735) in paragraph at lines 58--61
+[]\OT1/ptm/m/n/10 Our so-lu-tion is open source, not just in the sense
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 58--61
+\OT1/ptm/m/n/10 of code and data avail-abil-ity (or dis-clo-sure) but in
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 58--61
+\OT1/ptm/m/n/10 the sense of col-lab-o-ra-tive in-volve-ment and in-clu-sive
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 58--61
+\OT1/ptm/m/n/10 dis-cus-sion. By us-ing a so-lu-tion like GitHub we
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 58--61
+\OT1/ptm/m/n/10 were able to reach out to both de-vel-op-ers and re-
+ []
+
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
-(./white_paper.aux)
+Underfull \hbox (badness 1221) in paragraph at lines 74--75
+\OT1/ptm/m/n/10 specific projects, which in-cludes sub-sec-tions for code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+\OT1/ptm/m/n/10 ](https://img.shields.io/github/stars/kscanne/chichewa.svg)
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
+[2]
+No file white_paper.bbl.
+No file languageresource.bbl.
+[3
+
+] (./white_paper.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1656 strings out of 493117
- 24238 string characters out of 6135433
- 86859 words of memory out of 5000000
- 5112 multiletter control sequences out of 15000+600000
- 14328 words of font info for 28 fonts, out of 8000000 for 9000
+ 1665 strings out of 493117
+ 24365 string characters out of 6135433
+ 90965 words of memory out of 5000000
+ 5118 multiletter control sequences out of 15000+600000
+ 16461 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,23p,334b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,23p,1148b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on white_paper.pdf (1 page, 33324 bytes).
+Output written on white_paper.pdf (3 pages, 48344 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
