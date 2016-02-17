@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Kornai}2013]{kornai2013digital}
+Kornai, A.
+\newblock (2013).
+\newblock Digital language death.
+\newblock {\em PloS one}, 8(10):e77056.
+
+\bibitem[\protect\citename{Storey \bgroup et al.\egroup }2014]{storey2014}
+Storey, M.-A., Singer, L., Cleary, B., Figueira~Filho, F., and Zagalsky, A.
+\newblock (2014).
+\newblock The (r) evolution of social media in software engineering.
+\newblock In {\em Proceedings of the on Future of Software Engineering}, FOSE
+  2014, pages 100--116, New York, NY, USA. ACM.
+
+\bibitem[\protect\citename{Zagalsky \bgroup et al.\egroup }2015]{zagalsky2015}
+Zagalsky, A., Feliciano, J., Storey, M.-A., Zhao, Y., and Wang, W.
+\newblock (2015).
+\newblock The emergence of github as a collaborative platform for education.
+\newblock In {\em Proceedings of the 18th ACM Conference on Computer Supported
+  Cooperative Work \& Social Computing}, pages 1906--1917. ACM.
+
+\end{thebibliography}
