@@ -116,6 +116,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
 * [ArtOfReading](https://github.com/sillsdev/ArtOfReading) Index and processing scripts related to the Art Of Reading illustration collection
 * [bayesline ![GitHub stars](https://img.shields.io/github/stars/alvations/bayesline.svg)](https://github.com/alvations/bayesline)  A Multinomial Bayesian Classification for Language Identification
+* [bible-corpus-tools](https://github.com/christos-c/bible-corpus-tools) A collection of tools for reading/processing the multilingual Bible corpus.
 * [BloomDesktop ![GitHub stars](https://img.shields.io/github/stars/BloomBooks/BloomDesktop.svg)](https://github.com/BloomBooks/BloomDesktop)  Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
 * [brain ![GitHub stars](https://img.shields.io/github/stars/FieldDB/brain.svg)](https://github.com/FieldDB/brain)  Neural networks in JavaScript
 * [Bristol Uni MT Morphology tools](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
@@ -206,7 +207,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [poio-analyzer ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-analyzer.svg)](https://github.com/cidles/poio-analyzer)  Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
 * [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://media.cidles.eu/poio/poio-api/
-* [poio-corpus ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-corpus.svg)](https://github.com/cidles/poio-corpus)  The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
 * [poio-doc ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-doc.svg)](https://github.com/cidles/poio-doc)  Documentation of the Poio project.http://www.poio.eu
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language. 
@@ -390,6 +390,13 @@ _These are repositories that are generally only interesting for training purpose
 # Language & Code Interfaces
 
 * [قلب ![GitHub stars](https://img.shields.io/github/stars/nasser/---.svg)](https://github.com/nasser/---) ‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
+
+# Corpora
+
+These corpora are useful for working with tools on endangered languages. Monolingual corpora that are more for archival efforts should most likely not be included here.
+
+* [bible-corpus ![GitHub stars](https://img.shields.io/github/stars/christos-c/bible-corpus.svg)](https://github.com/christos-c/bible-corpus) A multilingual parallel corpus created from translations of the Bible.
+* [poio-corpus ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-corpus.svg)](https://github.com/cidles/poio-corpus)  The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
 
 # Organisations
 
