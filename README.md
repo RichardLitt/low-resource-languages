@@ -109,10 +109,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
 ##Software
-* [accentuate.us](http://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
-* [AGTK](http://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
+* [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
+* [AGTK](https://sourceforge.net/projects/agtk/) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
-* [Apertium](http://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
+* [Apertium](https://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
 * [ArtOfReading](https://github.com/sillsdev/ArtOfReading) Index and processing scripts related to the Art Of Reading illustration collection
 * [bayesline ![GitHub stars](https://img.shields.io/github/stars/alvations/bayesline.svg)](https://github.com/alvations/bayesline)  A Multinomial Bayesian Classification for Language Identification
@@ -124,7 +124,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
-* [CMU Sphinx](http://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
+* [CMU Sphinx](https://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
 * [cnminlangwebcollect ![GitHub stars](https://img.shields.io/github/stars/hyphenliu/cnminlangwebcollect.svg)](https://github.com/hyphenliu/cnminlangwebcollect)  Chinese minorities website languages detection and websites collection
 * [Cog ![GitHub stars](https://img.shields.io/github/stars/sillsdev/cog.svg)](https://github.com/sillsdev/cog)  Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/
 * [CorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools/CorpusTools.svg)](https://github.com/PhonologicalCorpusTools/CorpusTools)  Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/
@@ -144,9 +144,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [eopas ![GitHub stars](https://img.shields.io/github/stars/eopas/eopas.svg)](https://github.com/eopas/eopas)  ETHNOER Online Presentation and Annotation System
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
-* [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
+* [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
 * [fontinline](https://github.com/sillsdev/fontinline) Make inline stroke paths from an outline font
-* [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.github.io/franc/
+* [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.com/franc/
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts). 
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks 
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
@@ -154,7 +154,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models. 
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
-* [Gramadóir](http://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
+* [Gramadóir](https://sourceforge.net/projects/gramadoir/) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
 * [hunspell.old](https://github.com/sillsdev/hunspell.old) Mirror of the Hunspell CVS repository at SourceForge
@@ -217,7 +217,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Salt ![GitHub stars](https://img.shields.io/github/stars/korpling/salt.svg)](https://github.com/korpling/salt)  A graph-based model to store and manipulate linguistic data.
 * [Secwepemc-Facebook ![GitHub stars](https://img.shields.io/github/stars/kscanne/secwepemc-facebook.svg)](https://github.com/kscanne/secwepemc-facebook)  Translate Facebook into unsupported languages
 * [SeedLing ![GitHub stars](https://img.shields.io/github/stars/alvations/SeedLing.svg)](https://github.com/alvations/SeedLing)  Building and Using A Seed Corpus for the Human Language Project
-* [Skype in your language](http://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
+* [Skype in your language](https://sourceforge.net/projects/skypeinyourlang/) Translate Skype into unsupported languages
 * [solid](https://github.com/sillsdev/solid) Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
 * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
 * [StandardFormatLib](https://github.com/sillsdev/StandardFormatLib) Standard Format Library
@@ -236,7 +236,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Tsammalex data ![GitHub stars](https://img.shields.io/github/stars/clld/tsammalex-data.svg)](https://github.com/clld/tsammalex-data)  [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
 * [tweet2learn ![GitHub stars](https://img.shields.io/github/stars/kscanne/tweet2learn.svg)](https://github.com/kscanne/tweet2learn)  An app to make it easier to use your native language on Twitter
 * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
-* [UniversalDependencies docs ![GitHub stars](https://img.shields.io/github/stars/UniversalDependencies/docs.svg)](https://github.com/UniversalDependencies/docs)  Universal Dependencies online documentation http://universaldependencies.github.io/docs/
+* [UniversalDependencies docs ![GitHub stars](https://img.shields.io/github/stars/UniversalDependencies/docs.svg)](https://github.com/UniversalDependencies/docs)  Universal Dependencies online documentation http://universaldependencies.org/docs/
 * [UniversalDependencies tools ![GitHub stars](https://img.shields.io/github/stars/universaldependencies/tools.svg)](https://github.com/universaldependencies/tools)  Various utilities for processing the data.
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench/overview) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
 * [wavesurfer.js ![GitHub stars](https://img.shields.io/github/stars/katspaugh/wavesurfer.js.svg)](https://github.com/katspaugh/wavesurfer.js)  Navigable waveform built on Web Audio and Canvas http://wavesurfer-js.org/ (Also has an ELAN plugin)
@@ -368,7 +368,7 @@ _FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFie
 
 # Academic Research Paper-Specific Repositories
 
-* [Gargantua](http://sourceforge.net/projects/gargantua/) Fast Unsupervised Sentence Aligner described in "Improved unsupervised sentence alignment for symmetrical and asymmetrical parallel corpora", COLING 2010.
+* [Gargantua](https://sourceforge.net/projects/gargantua/) Fast Unsupervised Sentence Aligner described in "Improved unsupervised sentence alignment for symmetrical and asymmetrical parallel corpora", COLING 2010.
 * [ldc-kiy ![GitHub stars](https://img.shields.io/github/stars/krismyu/ldc-kiy.svg)](https://github.com/krismyu/ldc-kiy)  Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation, _How to study a tone language_.
 * [Learning to map into a Univerisal POS tagset](http://groups.csail.mit.edu/rbg/code/unitag/)  Yuan Zhang, Roi Reichart, Regina Barzilay and Amir Globerson
 * [low-resource-pos-tagging-2013 ![GitHub stars](https://img.shields.io/github/stars/dhgarrette/low-resource-pos-tagging-2013.svg)](https://github.com/dhgarrette/low-resource-pos-tagging-2013)  and [low-resource-pos-tagging-2013](https://github.com/dhgarrette/low-resource-pos-tagging-2014) Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. _Dan Garrette and Jason Baldridge_. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. _Dan Garrette, Jason Mielens, and Jason Baldridge_. In Proceedings of ACL 2013.
@@ -435,10 +435,10 @@ _ara :: العربية_
 
 _ben :: বাংলা_
 
-* [Bangla-অঙ্কুর for Mac](http://sourceforge.net/projects/onkur/) This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
-* [Bengali Writer](http://sourceforge.net/projects/bengaliwriter/) `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more.
-* [Ekushey](http://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
-* [Lekho](http://sourceforge.net/projects/lekho/) A collection of tools and resources for using bangla on computers
+* [Bangla-অঙ্কুর for Mac](https://sourceforge.net/projects/onkur/) This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
+* [Bengali Writer](https://sourceforge.net/projects/bengaliwriter/) `Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more.
+* [Ekushey](https://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
+* [Lekho](https://sourceforge.net/projects/lekho/) A collection of tools and resources for using bangla on computers
 
 ###Chichewa
 
@@ -537,7 +537,7 @@ _kor :: 한국어_
 
 _lin :: Lingála_
 
-* [Lingala NLP](http://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
+* [Lingala NLP](https://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
 ###Malay
 
@@ -547,7 +547,7 @@ _lin :: Lingála_
 
 _mlg :: Malagasy_
 
-* [Global Voices Malagasy Project](http://www.ark.cs.cmu.edu/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
+* [Global Voices Malagasy Project](http://www.cs.cmu.edu/~ark/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
 
 ###Migmaq
 
