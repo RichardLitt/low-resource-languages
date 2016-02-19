@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,https://github.com/FieldDB,https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg,https://github.com/LowResourceLanguages/hltdi-morphology,https://github.com/nltk/nltk,https://github.com/RichardLitt/endangered-languages/edit/master/README.md,http://nlg.isi.edu/software/nplm/
+  - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,https://github.com/FieldDB,https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg,https://github.com/LowResourceLanguages/hltdi-morphology,https://github.com/nltk/nltk,https://github.com/RichardLitt/endangered-languages/edit/master/README.md,http://nlg.isi.edu/software/nplm/,https://victorio.uit.no/langtech/trunk/

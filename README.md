@@ -45,6 +45,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
 - [Example Repositories](#example-repositories)
 - [Language & Code Interfaces](#language-&-code-interfaces)
+- [Corpora](#corpora)
 - [Organisations](#organisations)
   - [On GitHub](#on-github)
   - [Other OSS Organisations](#other-oss-organisations)
@@ -244,7 +245,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary ![GitHub stars](https://img.shields.io/github/stars/eddersko/WordBoundary.svg)](https://github.com/eddersko/WordBoundary)  An experiment in the detection and segmentation of word boundaries
 * [wordbyword ![GitHub stars](https://img.shields.io/github/stars/cidles/wordbyword.svg)](https://github.com/cidles/wordbyword)  WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
-* [WSI4URLang ![GitHub stars](https://img.shields.io/github/stars/mohammadnasiruddin/WSI4URLang.svg)](https://github.com/mohammadnasiruddin/WSI4URLang)  Word Sense Induction (WSI) for Under-resourced Languages (URLang) http://www.mohammadnasiruddin.eu/under-resourced-language-urlang.html
+* [WSI4URLang ![GitHub stars](https://img.shields.io/github/stars/mohammadnasiruddin/WSI4URLang.svg)](https://github.com/mohammadnasiruddin/WSI4URLang)  Word Sense Induction (WSI) for Under-resourced Languages (URLang)
 * [XDXF_Makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict)  XDXF dictionary format and "makedict" dictionary converting software (official repository)
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
@@ -327,7 +328,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Android Applications
 
-* [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation http://lp20.org/aikuma/
+* [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation
 * [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
