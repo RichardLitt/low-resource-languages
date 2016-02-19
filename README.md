@@ -221,7 +221,9 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [solid](https://github.com/sillsdev/solid) Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
 * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
 * [StandardFormatLib](https://github.com/sillsdev/StandardFormatLib) Standard Format Library
+* [Stanford CoreNLP ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/CoreNLP.svg)](https://github.com/stanfordnlp/CoreNLP) Stanford CoreNLP: A Java suite of core NLP tools. http://stanfordnlp.github.io/CoreNLP/
 * [Stanford CoreNLP Python ![GitHub stars](https://img.shields.io/github/stars/dasmith/stanford-corenlp-python.svg)](https://github.com/dasmith/stanford-corenlp-python)  Python wrapper for Stanford CoreNLP tools
+* [stanza ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/stanza.svg)](https://github.com/stanfordnlp/stanza) Stanford NLP group's shared Python tools.
 * [sugali ![GitHub stars](https://img.shields.io/github/stars/alvations/sugali.svg)](https://github.com/alvations/sugali)  This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
 * [SuGarLike ![GitHub stars](https://img.shields.io/github/stars/alvations/SuGarLike.svg)](https://github.com/alvations/SuGarLike)  Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
 * [TeraDict ![GitHub stars](https://img.shields.io/github/stars/longnow/TeraDict.svg)](https://github.com/longnow/TeraDict)  Translate English words into hundreds of languages!
@@ -405,6 +407,7 @@ _These are repositories that are generally only interesting for training purpose
 * [SIL International (Dev)](https://github.com/sillsdev) [SIL International](http://www.sil.org/) Another SIL organization, with many repositories.
 * [SIL International](https://github.com/silinternational) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
 * [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+* [StanfordNLP](https://github.com/stanfordnlp) http://nlp.stanford.edu
 
 ## Other OSS Organisations
 
