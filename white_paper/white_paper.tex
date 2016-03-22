@@ -20,7 +20,7 @@
 
 \abstract{
 We present a database of open source code that can be used by low-resource language
-communities to build digital resources. Our database is also useful to software developers
+communities and developers to build digital resources. Our database is also useful to software developers
 working with those communities and to researchers looking to describe the state of the field
 when seeking funding for development projects.  \\ 
 \newline 
@@ -71,15 +71,25 @@ Finally, we also include a short list of closed source resources which can still
 
 Each entry is a single line, containing the name of the resource, a link to the resource, and a short description. If the resource is also a GitHub repository, we include a link to a badge that shows the amount of stars (similar to likes or favorites on other social media sites, and, generally, a good proxy for usage and developer uptake of the resource) for that repository.
 
-Here is one such entry, for Scannell's Chichewa code\footnote{https://github.com/kscanne/chichewa}: * [Chichewa ![GitHub stars ](https://img.shields.io/github/stars/kscanne/chichewa.svg) ](https://github.com/kscanne/chichewa)  NLP resources for Chichewa.
+Here is one such entry, for Scannell's Chichewa code\footnote{https://github.com/kscanne/chichewa}: 
+
+\begin{verbatim}
+* [Chichewa ![GitHub stars]
+(https://img.shields.io/github/stars
+/kscanne/chichewa.svg)]
+(https://github.com/kscanne/chichewa)
+ NLP resources for Chichewa.
+\end{verbatim}
+
+The ``GitHub stars'' link automatically includes an SVG image file of the amount of stars that particular repo has gotten, which allows readers to easily see how popular a repository is on GitHub. Note that this would normally be one line of code.
 
 \section{Personas and Stakeholders}
 
-The list that we are maintaining is not aimed at any one group in isolation. Instead, there are several key groups whom we think may derive value from this list. These are as follows: Project Managers, Software Developers, Community Developers, and  Linguists, 
+The list that we are maintaining is not aimed at any one group in isolation. Instead, there are several key groups whom we think may derive value from this list. These are as follows: Project Managers, Software Developers, Community Developers, and  Linguists.
 
 \subsection{Project Managers}
 
-Project managers are generally linguists or community members who have been tasked with developing language resources, but generally don't have the skill to understand the technical aspects on their own (and thus are different from software developers). Many project managers do not have strong information technology project management backgrounds. However, they are often skilled linguists who have access to grant funding. The finer details of carrying out a project in a manner which benefits more than one language community is simply out of scope for many first time managers, and projects. We hope that project managers should be able to look at our list to be able to determine two things: 1. Has the project task, goals, or relevant deliverables already been accomplished for another language (or indeed, for the same language), and 2. where can they find the code base for that project so that they can integrate it into their own workflow. We hope, as well, that some project managers might be able to have a project used case and that they can use our list to answer the question of how to get funding for their idea. 
+Project managers are generally linguists or community members who have been tasked with developing language resources, but generally don't have the background to understand the technical aspects on their own (and thus are different from software developers). Many project managers do not have strong information technology project management backgrounds. However, they are often skilled linguists who have access to grant funding. The finer details of carrying out a project in a manner which benefits more than one language community is simply out of scope for many first time managers, and projects. We hope that project managers should be able to look at our list to be able to determine two things: 1. Has the project task, goals, or relevant deliverables already been accomplished for another language (or indeed, for the same language), and 2. where can they find the code base for that project so that they can integrate it into their own workflow. We hope, as well, that some project managers might be able to have a project used case and that they can use our list to answer the question of how to get funding for their idea. 
 
 \subsection{Software Developers}
 
@@ -87,23 +97,23 @@ Software developers are often looking to find pre-existing solutions, and to fin
 
 One developer, at least, has said that this was the case: \begin{quote}Thanks a lot for pointing me to the list. It is awesome! It has some really good tools and resources which would be very useful in a lot of things that I am doing. I shall definitely add some of my resources and tools to this list....I have also come across a very useful library - Poio-api\footnote{https://github.com/cidles/poio-api} - on your list which is a parser for most of these XML files that I work with.\end{quote} (Personal communication, 2015)
 
-\subsection{Community Developers doing Language Development}
+\subsection{Community Developers Doing Language Development}
 
-This may include language development organizations, or individuals who are "community members" looking to deploy their own solutions. They want to know "does it work with my language?" by which they often, but not always mean written language. An additional complexity, is that there are different perspectives on what "does it work" really mean. The degree of technological uptake in the majority culture affects the expectation of the kinds of real world tasks desired to be accomplished in the low-resourced language. Tasks might be sending SMS messages in a particular script. But sometimes, users of low-resource languages have a very different expectation and interaction with technology. For instance, members of deaf communities require video integration in their digital solutions more than many other kinds of Low-resource languages, but deaf communities may still need other tools commonly shared with written languages - like dictionary tools.
+This may include language development organizations, or individuals who are ``community members" looking to deploy their own solutions. They want to know ``does it work with my language?" by which they often, but not always, mean written language. An additional complexity is that there are different perspectives on what ``does it work" really mean. The degree of technological uptake in the majority culture may affect the expectation about what kind of tasks can be easily accomplished in the low-resourced language. Tasks might be, for example, sending SMS messages in a particular script. But sometimes, users of low-resource languages have a very different expectation and interaction with technology. For instance, members of deaf communities require video integration in their digital solutions more than many other kinds of low-resource languages, but deaf communities may still need other tools commonly shared with written languages - like dictionary tools.
 
 \subsection{Linguists}
 
-We define linguists here as researchers who are not tech savvy, but who are working in academia or directly with language communities from an academic perspective. Linguists, as such, are generally looking for patterns in language data. They want tools which are going to be easy to use to find the patterns they are looking for and present the data in ways which help others to understand the purpose and meaning of those patterns. As end users, they are more likely to be looking for tools which are useful out of the box, and so may not be able to appreciate all of the items in the list, but still may benefit from a quick search through it. 
+We define linguists here as researchers who are not tech savvy, but who are working in academia or directly with language communities from an academic perspective. Linguists, as such, are generally looking for patterns in language data. They want tools which are going to be easy to use to find the patterns they are looking for and to present the data in ways which help others to understand the purpose and meaning of those patterns. As end users, they are more likely to be looking for tools which are useful out of the box, and so may not be able to appreciate all of the items in the list, but still may benefit from a quick search through it. 
 
 As well, we provide many links to tools that can be used with ELAN\footnote{http://www.mpi.nl/corpus/html/elan/}, Praat\footnote{http://www.fon.hum.uva.nl/praat/}, and other audio software which are used on a day-to-day basis by many linguists themselves. 
 
 \section{Commitments}
 
-Unlike most projects, which must depend upon institutions, private or public funding, or volunteers, this project has no single point of failure. The list itself is currently hosted by Richard Littauer's GitHub account\footnote{https://github.com/RichardLitt}, but due to the nature of a Git repository and of collaborative work on GitHub, any replication of the list can be edited, stand alone, and be used if the original project goes down for any reason. The decentralized quality of git repositories makes this list a much less brittle solution than database or institutional repositories. 
+Unlike most projects, which must depend upon institutions, private or public funding, this project has no single point of failure. The list itself is currently hosted by Littauer's GitHub account\footnote{https://github.com/RichardLitt}, but due to the nature of a git\footnote{https://git-scm.com/} repository and of collaborative work on GitHub, any replication of the list can be edited, stand alone, and be used if the original project goes down for any reason. The decentralized quality of git repositories makes this list a much less brittle solution than individually hosted database or institutional repositories. 
 
-As well, there is a very low possibility of misuse; if any one person using the program decides to enforce their own viewpoint, perspective, or rules at the cost of any other user group or of the community, it is entirely possible for anyone else to make a copy of the list and to then use that as the source of truth going forward. 
+As well, there is a very low possibility of misuse; if any one person using the program decides to enforce their own viewpoint, perspective, or rules at the cost of any other user group or of the community, it is entirely possible for anyone else to make a copy of the list and to then use that as the main source of truth going forward. 
 
-One possible issue with the list is that if a malicious user takes over the main list. Then, it would take some time for any other list to have the same clout in the community. This is, however, true of all existing databases. A good example, although not open data, is the Ethnologue\footnote{http://ethnologue.com/}, which recently added a paywall to their database about languages (but not to the ISO 639-3 standard which SIL International\footnote{http://www.sil.org/} also stewards). The loss of a previously free accessible resource became a major source of contention for many linguists, although SIL International had legitimate reasons for doing so (namely, the financial cost of hosting the database)\footnote{http://www.ethnologue.com/ethnoblog/m-paul-lewis/ethnologue-launches-subscription-service}. 
+One possible issue with the list is that if a malicious user takes over the main list. Then, it would take some time for any other list to have the same clout in the community. This is, however, true of all existing databases. A good example, although not open data, is the Ethnologue\footnote{http://ethnologue.com/}, which recently added a paywall to their database about languages (but not to the ISO 639-3 standard which SIL International\footnote{http://www.sil.org/} also stewards). The loss of a previously free accessible resource became a major source of contention for many linguists, although SIL International had legitimate financial reasons for doing so.\footnote{http://www.ethnologue.com/ethnoblog/m-paul-lewis/ethnologue-launches-subscription-service}. 
 
 One of the future goals of the project is to develop a community where anyone can ask questions about the list and its resources, and other users can help out and give advice easily. While this is possible with GitHub issues, it depends upon a higher amount of usage of the list itself than currently exists. Marketing the list in tech conferences is one possible solution. 
 
