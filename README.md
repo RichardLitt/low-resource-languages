@@ -480,6 +480,28 @@ _kat :: ქართული_
 * [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 * [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
+#### Fonts
+
+ - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+ - [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
+ - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+
+#### Internationalization and Localization (i18n/l10n)
+
+ - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
+ - [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) - Convert numbers to localized strings (JavaScript).
+ - [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) - Convert numbers to localized strings (PHP).
+ - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
+ - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
+ - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
+ - [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](https://laravel.com/) Georgian Language Pack.
+
+ - **Other localized packages**
+   - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+   - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+ - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
+
 ###Guarani
 
 _grn :: Guarani_
