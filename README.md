@@ -577,6 +577,12 @@ _lin :: Lingála_
 
 * [Lingala NLP](https://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
+###Lushootseed
+
+_lut :: Lushootseed_
+
+* [Lushootseed](https://github.com/LowResourceLanguages/lushootseed) Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
+
 ###Malay
 
 * [MorfoMalayu ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis of Malay words
