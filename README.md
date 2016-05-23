@@ -252,6 +252,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [XDXF_Makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict)  XDXF dictionary format and "makedict" dictionary converting software (official repository)
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
+# Format Specifications
+
+* [dlx-spec ![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/dlx-spec.svg)](https://github.com/digitallinguistics/dlx-spec) The official specification for the DLx linguistic data format. https://digitallinguistics.github.io/dlx-spec/
+* [FoLiA ![GitHub stars](https://img.shields.io/github/stars/proycon/folio.svg)](https://github.com/proycon/folia/) FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/
+
 # i18n-related Repositories
 
 * [Express-Lingua ![GitHub stars](https://img.shields.io/github/stars/akoenig/express-lingua.svg)](https://github.com/akoenig/express-lingua) An i18n middleware for the Express.js framework.
