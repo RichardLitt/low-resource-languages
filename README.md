@@ -432,6 +432,12 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 # Language Specific Projects
 
+###Albanian
+
+_sqi :: shqip_
+
+* [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors)](https://github.com/substack/out-of-copyright-albanian-authors) authors scraped from the albanian language wikipedia who are out of copyright
+
 ###Amharic
 
 _amh :: አማርኛ_
