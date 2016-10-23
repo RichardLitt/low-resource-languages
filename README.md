@@ -600,6 +600,13 @@ _mlg :: Malagasy_
 
 * [Global Voices Malagasy Project](http://www.cs.cmu.edu/~ark/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
 
+###Manx
+
+_glv :: Gaelg_
+
+* [aspell-gv](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
+* [gaelg](https://github.com/kscanne/gaelg) NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine
+
 ###Migmaq
 
 _mic :: Mi'kmaq_
@@ -651,6 +658,11 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 _gla :: Gàidhlig_
 
+* [aspell-gd](https://github.com/pld-linux/aspell-gd) Scottish Gaelic dictionary for aspell
+* [briathrachan](https://github.com/tobiasbayer/briathrachan) This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.
+* [gaidhlig](https://github.com/kscanne/gaidhlig) NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines
+* [gd-fcfg](https://github.com/wojtekdz/gd-fcfg) Context-free feature-based grammar of Scottish Gaelic in the NLTK format
+* [gdbank](https://github.com/colinbatchelor/gdbank) Some tools and resources for natural language processing of Scottish Gaelic. http://www.tantallon.org.uk/cggblog/
 * [hunspell-gd ![GitHub stars](https://img.shields.io/github/stars/kscanne/hunspell-gd.svg)](https://github.com/kscanne/hunspell-gd)  Files for building Scottish Gaelic spell checkers
 
 ###Secwepemctsín
