@@ -30,11 +30,10 @@ Looking for resources for code languages? Take a look at [the awesome collection
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Generic Repositories](#generic-repositories)
-  - [Massive Dictionary and Lexicography projects](#massive-dictionary-and-lexicography-projects)
   - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
     - [Utilities](#utilities)
     - [Interactions and presentations of data](#interactions-and-presentations-of-data)
-  - [Software](#software)
+- [Format Specifications](#format-specifications)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
 - [Text automation](#text-automation)
@@ -48,42 +47,47 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [FieldDB Webservices/Components/Plugins](#fielddb-webservicescomponentsplugins)
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
 - [Example Repositories](#example-repositories)
-- [Language & Code Interfaces](#language-&-code-interfaces)
+- [Language & Code Interfaces](#language--code-interfaces)
+- [Fonts](#fonts)
 - [Corpora](#corpora)
 - [Organisations](#organisations)
   - [On GitHub](#on-github)
   - [Other OSS Organisations](#other-oss-organisations)
 - [Language Specific Projects](#language-specific-projects)
-    - [Amharic](#amharic)
-    - [Arabic](#arabic)
-    - [Bengali](#bengali)
-    - [Chichewa](#chichewa)
-    - [Estonian](#estonian)
-    - [Georgian](#georgian)
-    - [Guarani](#guarani)
-    - [Hausa](#hausa)
-    - [Hindi](#hindi)
-    - [Høgnorsk](#høgnorsk)
-    - [Inuktitut](#inuktitut)
-    - [Irish](#irish)
-    - [Japanese](#japanese)
-    - [Kinyarwanda](#kinyarwanda)
-    - [Korean](#korean)
-    - [Lingala](#lingala)
-    - [Malay](#malay)
-    - [Malagasy](#malagasy)
-    - [Migmaq](#migmaq)
-    - [Minderico](#minderico)
-    - [Nishnaabe](#nishnaabe)
-    - [Oromo](#oromo)
-    - [Quechua](#quechua)
-    - [Sami](#sami)
-    - [Scottish Gaelic](#scottish-gaelic)
-    - [Secwepemctsín](#secwepemctsín)
-    - [Somali](#somali)
-    - [Tigrinya](#tigrinya)
-    - [Zulu](#zulu)
-- [Closed Source Resources](#closed-source-resources)
+  - [Albanian](#albanian)
+  - [Amharic](#amharic)
+  - [Arabic](#arabic)
+  - [Bengali](#bengali)
+  - [Chichewa](#chichewa)
+  - [Estonian](#estonian)
+  - [Georgian](#georgian)
+    - [Fonts](#fonts-1)
+    - [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
+  - [Guarani](#guarani)
+  - [Hausa](#hausa)
+  - [Hindi](#hindi)
+  - [Høgnorsk](#h%C3%B8gnorsk)
+  - [Inuktitut](#inuktitut)
+  - [Irish](#irish)
+  - [Japanese](#japanese)
+  - [Kinyarwanda](#kinyarwanda)
+  - [Korean](#korean)
+  - [Lingala](#lingala)
+  - [Lushootseed](#lushootseed)
+  - [Malay](#malay)
+  - [Malagasy](#malagasy)
+  - [Manx](#manx)
+  - [Migmaq](#migmaq)
+  - [Minderico](#minderico)
+  - [Nishnaabe](#nishnaabe)
+  - [Oromo](#oromo)
+  - [Quechua](#quechua)
+  - [Sami](#sami)
+  - [Scottish Gaelic](#scottish-gaelic)
+  - [Secwepemctsín](#secwepemcts%C3%ADn)
+  - [Somali](#somali)
+  - [Tigrinya](#tigrinya)
+  - [Zulu](#zulu)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -98,13 +102,14 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [STEDT](http://stedt.berkeley.edu/database) Tibeto-burman focused project  where dictionaries from several languages are comparable.
 * [Tibeto-burman lexicography](http://www.himalayanlanguages.org/cdtd)
 
-##Single language lexicography projects and utilities
-###Utilities
+## Single language lexicography projects and utilities
+
+### Utilities
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
 * [Webonary](http://www.webonary.org/) Site which hosts digital dictionaries for single languages.
 * [WeSay ![GitHub stars](https://img.shields.io/github/stars/sillsdev/wesay.svg)](https://github.com/sillsdev/wesay)  Allows language communities to build their own dictionaries. http://wesay.palaso.org/ (by the SIL International)
 
-###Interactions and presentations of data
+### Interactions and presentations of data
 * [Dict.cc](http://www.dict.cc/) An exemplar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
@@ -152,13 +157,12 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
 * [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
-* [fontinline](https://github.com/sillsdev/fontinline) Make inline stroke paths from an outline font
 * [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.com/franc/
-* [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts). 
-* [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks 
+* [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
+* [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
 * [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Mozilla/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
-* [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models. 
+* [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [Gramadóir ![GitHub stars](https://img.shields.io/github/stars/kscanne/gramadoir.svg)](https://github.com/kscanne/gramadoir) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
@@ -166,7 +170,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell/hunspell.svg)](https://github.com/hunspell/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
 * [icu-dotnet](https://github.com/sillsdev/icu-dotnet) C# wrapper for ICU4C
-* [icu4c](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements. 
+* [icu4c](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
 * [iLanguage ![GitHub stars](https://img.shields.io/github/stars/iLanguage/iLanguage.svg)](https://github.com/iLanguage/iLanguage) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.
 * [ipa-help](https://github.com/sillsdev/ipa-help) IPA Helps
 * [itweets-geodata ![GitHub stars](https://img.shields.io/github/stars/kscanne/itweets-geodata.svg)](https://github.com/kscanne/itweets-geodata)  Geodata from Indigenous Tweets
@@ -214,7 +218,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://www.poio.eu/
 * [poio-doc ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-doc.svg)](https://github.com/cidles/poio-doc)  Documentation of the Poio project.http://www.poio.eu
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
-* [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language. 
+* [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
 * [pyannotation ![GitHub stars](https://img.shields.io/github/stars/cidles/pyannotation.svg)](https://github.com/cidles/pyannotation)  PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [pyDelphin ![GitHub stars](https://img.shields.io/github/stars/goodmami/pydelphin.svg)](https://github.com/delph-in/pydelphin)  Python libraries for DELPH-IN (Friendly Fork)
 * [Rosetta Pangloss ![GitHub stars](https://img.shields.io/github/stars/jcgood/rosetta-pangloss.svg)](https://github.com/jcgood/rosetta-pangloss)  The Rosetta Project's Pangloss system
@@ -241,7 +245,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/gausby/translitit-engine.svg)](https://github.com/gausby/translitit-engine)  A transliteration engine written in JavaScript
 * [Tsammalex data ![GitHub stars](https://img.shields.io/github/stars/clld/tsammalex-data.svg)](https://github.com/clld/tsammalex-data)  [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
 * [tweet2learn ![GitHub stars](https://img.shields.io/github/stars/kscanne/tweet2learn.svg)](https://github.com/kscanne/tweet2learn)  An app to make it easier to use your native language on Twitter
-* [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
 * [UniversalDependencies docs ![GitHub stars](https://img.shields.io/github/stars/UniversalDependencies/docs.svg)](https://github.com/UniversalDependencies/docs)  Universal Dependencies online documentation http://universaldependencies.org/docs/
 * [UniversalDependencies tools ![GitHub stars](https://img.shields.io/github/stars/universaldependencies/tools.svg)](https://github.com/universaldependencies/tools)  Various utilities for processing the data.
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench/overview) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
@@ -279,7 +282,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [kaldi-svn-archive](https://github.com/kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
 * [kaldi](https://github.com/kaldi-asr/kaldi) This is now the official location of the Kaldi project.
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
-* [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx) 
+* [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 * [pocketsphinx-ios-demo](https://github.com/cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS
@@ -292,11 +295,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [PraatTextGridJS ![GitHub stars](https://img.shields.io/github/stars/FieldDB/PraatTextGridJS.svg)](https://github.com/FieldDB/PraatTextGridJS)  A small library which can parse TextGrid into json and json into TextGrid
 * [prosodicParsing ![GitHub stars](https://img.shields.io/github/stars/jpate/prosodicParsing.svg)](https://github.com/jpate/prosodicParsing)  different kinds of HMMs to use for incorporating prosody into basic parsing
 * [Prosodylab-Aligner ![GitHub stars](https://img.shields.io/github/stars/prosodylab/Prosodylab-Aligner.svg)](https://github.com/prosodylab/Prosodylab-Aligner)  Python interface for forced audio alignment using HTK and SoX
-* [prosodylab.alignertools ![GitHub stars](https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg)](https://github.com/prosodylab/prosodylab.alignertools) 
+* [prosodylab.alignertools ![GitHub stars](https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg)](https://github.com/prosodylab/prosodylab.alignertools)
 * [Recordmp3js ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Recordmp3js.svg)](https://github.com/FieldDB/Recordmp3js)  Record MP3 files directly from the browser using JS and HTML
 * [sphinx4](https://github.com/cmusphinx/sphinx4) Pure Java speech recognition library
-* [sphinxbase](https://github.com/cmusphinx/sphinxbase) 
-* [sphinxtrain](https://github.com/cmusphinx/sphinxtrain) 
+* [sphinxbase](https://github.com/cmusphinx/sphinxbase)
+* [sphinxtrain](https://github.com/cmusphinx/sphinxtrain)
 * [TLSphinx](https://github.com/cmusphinx/TLSphinx) Swift wrapper around Pocketsphinx
 
 
@@ -394,13 +397,19 @@ _These are repositories that are generally only interesting for training purpose
 
 * [CorpusWebService ![GitHub stars](https://img.shields.io/github/stars/FieldDB/CorpusWebService.svg)](https://github.com/FieldDB/CorpusWebService)  über-simple node.js-Proxy to enable CORS request for couchdb
 * [CorporaForFieldLinguistics ![GitHub stars](https://img.shields.io/github/stars/cesine/CorporaForFieldLinguistics.svg)](https://github.com/cesine/CorporaForFieldLinguistics) Small corpora from diverse language typologies, useful for testing scripts
-* [startR ![GitHub stars](https://img.shields.io/github/stars/FieldDB/startR.svg)](https://github.com/FieldDB/startR) 
+* [startR ![GitHub stars](https://img.shields.io/github/stars/FieldDB/startR.svg)](https://github.com/FieldDB/startR)
 * [lucenerevolution-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lucenerevolution-2013.svg)](https://github.com/FieldDB/lucenerevolution-2013)  Demo examples for linguistics in Lucene and Solr
 * [berlin-buzzwords-2013 ![GitHub stars](https://img.shields.io/github/stars/FieldDB/berlin-buzzwords-2013.svg)](https://github.com/FieldDB/berlin-buzzwords-2013)  Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk
 
 # Language & Code Interfaces
 
 * [قلب ![GitHub stars](https://img.shields.io/github/stars/nasser/---.svg)](https://github.com/nasser/---) ‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
+
+# Fonts
+
+* [fontinline](https://github.com/sillsdev/fontinline) Make inline stroke paths from an outline font
+* [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
+* [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
 
 # Corpora
 
@@ -434,13 +443,13 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 # Language Specific Projects
 
-###Albanian
+## Albanian
 
 _sqi :: shqip_
 
 * [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg)](https://github.com/substack/out-of-copyright-albanian-authors) authors scraped from the albanian language wikipedia who are out of copyright
 
-###Amharic
+## Amharic
 
 _amh :: አማርኛ_
 
@@ -448,14 +457,14 @@ _amh :: አማርኛ_
 morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 
-###Arabic
+## Arabic
 
 _ara :: العربية_
 
 * [Buckwalter ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/Buckwalter.svg)](https://github.com/KentonMurray/Buckwalter)  A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 * [Dialects ![GitHub stars](https://img.shields.io/github/stars/amagidow/dialects.svg)](https://github.com/amagidow/dialects) Django project to allow for documentation (input and displaty) of linguistic forms in dialects or closely related languages.
 
-###Bengali
+## Bengali
 
 _ben :: বাংলা_
 
@@ -464,13 +473,13 @@ _ben :: বাংলা_
 * [Ekushey](https://sourceforge.net/projects/ekushey/) Bangla Computing and Localization Project for the Bangla speaking people.
 * [Lekho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/lekho.svg)](https://github.com/LowResourceLanguages/lekho) A collection of tools and resources for using bangla on computers (Original project is on SourceForge: https://sourceforge.net/projects/lekho/)
 
-###Chichewa
+## Chichewa
 
 _nya :: chicheŵa_
 
 * [Chichewa ![GitHub stars](https://img.shields.io/github/stars/kscanne/chichewa.svg)](https://github.com/kscanne/chichewa)  NLP resources for Chichewa
 
-###Estonian
+## Estonian
 
 _est :: eesti keel_
 
@@ -478,7 +487,7 @@ _est :: eesti keel_
 * [Inimesed](https://github.com/Kaljurand/Inimesed) An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
 * [Kõnele](https://github.com/Kaljurand/K6nele) Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
 
-###Georgian
+## Georgian
 
 _kat :: ქართული_
 
@@ -493,60 +502,58 @@ _kat :: ქართული_
 * [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 * [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
-#### Fonts
+### Fonts
 
- - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
- - [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
- - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+- [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+- [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
+- [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
 
-#### Internationalization and Localization (i18n/l10n)
+### Internationalization and Localization (i18n/l10n)
 
- - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
- - [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) - Convert numbers to localized strings (JavaScript).
- - [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) - Convert numbers to localized strings (PHP).
- - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
- - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
- - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
- - [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](https://laravel.com/) Georgian Language Pack.
+* [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) Convert a number/money to localized string (PHP, JavaScript).
+* [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) Convert numbers to localized strings (JavaScript).
+* [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) Convert numbers to localized strings (PHP).
+* [dimakura/ka](https://github.com/dimakura/ka) Common functionality for georgian projects (Ruby).
+* [dimakura/ka.js](https://github.com/dimakura/ka.js) Georgian language support for node and browser (JavaScript).
+* [akalongman/kautilities](https://github.com/akalongman/kautilities) Convert Georgian letters to Latin and vice-versa (PHP).
+* [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) [Laravel](https://laravel.com/) Georgian Language Pack.
+* [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+* [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+* [moment/moment](https://github.com/moment/moment) A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+* [ioseb/geokbd](https://github.com/ioseb/geokbd) Georgian keyboard library (JavaScript).
 
- - **Other localized packages**
-   - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
-   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-   - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
- - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
-
-###Guarani
+## Guarani
 
 _grn :: Guarani_
 
 * [ParaMorfo ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives. Used to be [here](http://www.cs.indiana.edu/~gasser/research/software.html).
 
-###Hausa
+## Hausa
 
 _hau :: هَرْشَن هَوْسَ_
 
 * [Hausa ![GitHub stars](https://img.shields.io/github/stars/amir-zeldes/hausa.svg)](https://github.com/amir-zeldes/hausa) Repository for Hausa NLP tools
 
-###Hindi
+## Hindi
 
 _hin :: हिन्दी_
 
 * [hindi-morph ![GitHub stars](https://img.shields.io/github/stars/FieldDB/hindi-morph.svg)](https://github.com/FieldDB/hindi-morph)  An open source morphological analyzer for Hindi
 
-###Høgnorsk
+## Høgnorsk
 
 _nno :: Høgnorsk_
 
 * [hunspell-hn_NO ![GitHub stars](https://img.shields.io/github/stars/rtxanson/hunspell-hn_NO.svg)](https://github.com/rtxanson/hunspell-hn_NO)  A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
 
-###Inuktitut
+## Inuktitut
 
 _iku :: Inuktitut_
 
 * [InuktitutAlignerData](https://github.com/cmesher/InuktitutAlignerData) Scripts for alignment of laboratory speech production data
 * [InuktitutComputing](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
 
-###Irish
+## Irish
 
 _gle :: Gaeilge_
 
@@ -557,7 +564,7 @@ _gle :: Gaeilge_
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial ![GitHub stars](https://img.shields.io/github/stars/kscanne/tesseract-gle-uncial.svg)](https://github.com/kscanne/tesseract-gle-uncial)  OCR for old Irish fonts
 
-###Japanese
+## Japanese
 
 _jpn :: 日本語_
 
@@ -565,82 +572,82 @@ _jpn :: 日本語_
 * [kuromoji ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji.svg)](https://github.com/atilika/kuromoji)  Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search
 * [kuromoji-server ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji-server.svg)](https://github.com/atilika/kuromoji-server)  Kuromoji server and demo that shows Japanese morphological analyzer capabilities
 
-###Kinyarwanda
+## Kinyarwanda
 
 _kin :: Ikinyarwanda_
 
 * [kin-morph-fst ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/kin-morph-fst.svg)](https://github.com/ldmt-muri/kin-morph-fst)  Kinyarwanda morphological analyzer
 * [TurboTagger & TurboParser for Kinyarwanda (download)](https://web.archive.org/web/*/http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
 
-###Korean
+## Korean
 
 _kor :: 한국어_
 
 * [komoran ![GitHub stars](https://img.shields.io/github/stars/shineware/komoran-2.0.svg)](https://github.com/shineware/komoran-2.0)  Korean morphological analyzer
 * [awesome-kr-foss ![GitHub stars](https://img.shields.io/github/stars/darjeeling/awesome-kr-foss.svg)](https://github.com/darjeeling/awesome-kr-foss) A curated list of awesome Korean open source projects
 
-###Lingala
+## Lingala
 
 _lin :: Lingála_
 
 * [Lingala NLP](https://sourceforge.net/projects/lingala/) NLP tools and resources for Lingala
 
-###Lushootseed
+## Lushootseed
 
 _lut :: Lushootseed_
 
 * [Lushootseed](https://github.com/LowResourceLanguages/lushootseed) Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
 
-###Malay
+## Malay
 
 * [MorfoMalayu ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis of Malay words
 
-###Malagasy
+## Malagasy
 
 _mlg :: Malagasy_
 
 * [Global Voices Malagasy Project](http://www.cs.cmu.edu/~ark/global-voices/) This page provides a link to a corpus of parallel news articles in Malagasy and English from the Global Voices project. This corpus was collected and aligned at the sentence level by Victor Chahuneau.
 
-###Manx
+## Manx
 
 _glv :: Gaelg_
 
 * [aspell-gv](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
 * [gaelg](https://github.com/kscanne/gaelg) NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine
 
-###Migmaq
+## Migmaq
 
 _mic :: Mi'kmaq_
 
 * [migmaq-lessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/migmaq-lessons.svg)](https://github.com/FieldDB/migmaq-lessons) Repository for website building Mi'gmaq language lessons.
 
-###Minderico
+## Minderico
 
 * [fredericajordarzambarino ![GitHub stars](https://img.shields.io/github/stars/cidles/fredericajordarzambarino.svg)](https://github.com/cidles/fredericajordarzambarino)  A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
 
-###Nishnaabe
+## Nishnaabe
 
 _oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ_
 
-* [Ojibway-iphone-app](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language. 
+* [Ojibway-iphone-app](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language.
 * [OjibwayMap](https://github.com/LowResourceLanguages/OjibwayMap) An iPhone app with audio and images for learning Ojibway language and culture.
 * [nishanimate ![GitHub stars](https://img.shields.io/github/stars/jpmontano/nishanimate.svg)](https://github.com/jpmontano/nishanimate)  A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.
 
-###Oromo
+## Oromo
 
 _orm :: Oromo_
 
 * [hornmorpho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
 
-###Quechua
+## Quechua
 
 _que :: Runa Simi_
 
 * [AntiMorfo ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs
 * [Morphology, spellchecker](http://kitt.ifi.uzh.ch/kitt/squoia/quechua.html) - XFST and FOMA, plus OpenOffice plugin.
 
-###Sami
+## Sami
 
 _sma :: Sámi/Saami_
 
@@ -655,7 +662,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 * Other Uralic languages: Erzya, Finnish, Hill Mari, Ingrian, Khanty, Kven, Komi, Livonian, Meadow Mari, Moksha, Nenets, Nganasan, Olonetsian, Udmurt, Veps.
 * Other languages: Buriat, Cornish, Faroese, Greenlandic, Iñupiaq, Northern Haida, Ojibwe, Plains Cree, Russian.
 
-###Scottish Gaelic
+## Scottish Gaelic
 
 _gla :: Gàidhlig_
 
@@ -666,31 +673,27 @@ _gla :: Gàidhlig_
 * [gdbank](https://github.com/colinbatchelor/gdbank) Some tools and resources for natural language processing of Scottish Gaelic. http://www.tantallon.org.uk/cggblog/
 * [hunspell-gd ![GitHub stars](https://img.shields.io/github/stars/kscanne/hunspell-gd.svg)](https://github.com/kscanne/hunspell-gd)  Files for building Scottish Gaelic spell checkers
 
-###Secwepemctsín
+## Secwepemctsín
 
 _shs :: Secwepemctsín_
 
 * [secwepemctsnem ![GitHub stars](https://img.shields.io/github/stars/neskie/secwepemctsnem.svg)](https://github.com/neskie/secwepemctsnem)  A project to help people learn Secwepemctsín.
 
-###Somali
+## Somali
 
 _som :: Soomaaliga_
 
 * [somorph ![GitHub stars](https://img.shields.io/github/stars/rtxanson/somorph.svg)](https://github.com/rtxanson/somorph)  Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in [Giellatekno's](http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html) repository.
 * [qaamuus.net](http://qaamuus.net/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
 
-###Tigrinya
+## Tigrinya
 
 _tir :: ትግርኛ_
 
 * [HornMorpho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
-###Zulu
+## Zulu
 
 _zul :: zulu_
 
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
-
-# Closed Source Resources
-
-* [Noto Fonts](http://www.google.com/get/noto/#/) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
