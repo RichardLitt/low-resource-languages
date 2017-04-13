@@ -93,7 +93,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 # Generic Repositories
 
-##Massive Dictionary and Lexicography projects
+## Massive Dictionary and Lexicography projects
 * [ABVD](http://language.psy.auckland.ac.nz/austronesian/) Austronesian Basic Vocabulary Database
 * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
 * [IE](http://ielex.mpi.nl./) Indo-european comparative lexical resource
@@ -118,7 +118,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
-##Software
+## Software
 * [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
 * [AGTK ![GitHub stars](https://img.shields.io/github/stars/lowresourcelanguages/agtk.svg)](https://github.com/lowresourcelanguages/agtk) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/)
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
