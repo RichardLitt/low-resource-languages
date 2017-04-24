@@ -155,6 +155,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
 * [eopas ![GitHub stars](https://img.shields.io/github/stars/eopas/eopas.svg)](https://github.com/eopas/eopas)  ETHNOER Online Presentation and Annotation System
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
+* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
 * [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
 * [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.com/franc/
@@ -268,8 +269,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Express-Lingua ![GitHub stars](https://img.shields.io/github/stars/akoenig/express-lingua.svg)](https://github.com/akoenig/express-lingua) An i18n middleware for the Express.js framework.
 * [Polyglot.js](http://airbnb.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
 * [Transifex](https://www.transifex.com/) - System for providing a nice, userfriendly/project oriented approach to translating `.po` files. Great for non-technical users, free for open-source projects, decent for minority languages; **however**, it can take a while to get a new language added to the Transifex system because the ticketing system Transifex uses results in them losing tickets sometimes. Provides translation memory, ability to appoint reviewers, etc. Transifex used to have an open source system that you could host on your own, but that seems to have disappeared.
-* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-
 
 # Audio automation
 
