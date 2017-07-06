@@ -30,9 +30,12 @@ Looking for resources for code languages? Take a look at [the awesome collection
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Generic Repositories](#generic-repositories)
+  - [Massive Dictionary and Lexicography projects](#massive-dictionary-and-lexicography-projects)
   - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
     - [Utilities](#utilities)
     - [Interactions and presentations of data](#interactions-and-presentations-of-data)
+  - [Software](#software)
+- [Annotation](#annotation)
 - [Format Specifications](#format-specifications)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
@@ -47,7 +50,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [FieldDB Webservices/Components/Plugins](#fielddb-webservicescomponentsplugins)
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
 - [Example Repositories](#example-repositories)
-- [Language & Code Interfaces](#language--code-interfaces)
+- [Language & Code Interfaces](#language-&-code-interfaces)
 - [Fonts](#fonts)
 - [Corpora](#corpora)
 - [Organisations](#organisations)
@@ -66,7 +69,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [Guarani](#guarani)
   - [Hausa](#hausa)
   - [Hindi](#hindi)
-  - [Høgnorsk](#h%C3%B8gnorsk)
+  - [Høgnorsk](#høgnorsk)
   - [Inuktitut](#inuktitut)
   - [Irish](#irish)
   - [Japanese](#japanese)
@@ -84,7 +87,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [Quechua](#quechua)
   - [Sami](#sami)
   - [Scottish Gaelic](#scottish-gaelic)
-  - [Secwepemctsín](#secwepemcts%C3%ADn)
+  - [Secwepemctsín](#secwepemctsín)
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
   - [Zulu](#zulu)
@@ -120,7 +123,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 
 ## Software
 * [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
-* [AGTK ![GitHub stars](https://img.shields.io/github/stars/lowresourcelanguages/agtk.svg)](https://github.com/lowresourcelanguages/agtk) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/)
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](https://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
@@ -150,14 +152,11 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [dictdb ![GitHub stars](https://img.shields.io/github/stars/substack/dictdb.svg)](https://github.com/substack/dictdb)  dictionary database for language translation
 * [discoursegraphs ![GitHub stars](https://img.shields.io/github/stars/arne-cl/discoursegraphs.svg)](https://github.com/arne-cl/discoursegraphs)  Python-based tool to convert and merge multilayer annotated linguistic data
 * [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html)
-* [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [ELDER: Endangered Language Data Electronic Repository ![GitHub stars](https://img.shields.io/github/stars/elderonline/ELDER.svg)](https://github.com/elderonline/ELDER)  Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
-* [eopas ![GitHub stars](https://img.shields.io/github/stars/eopas/eopas.svg)](https://github.com/eopas/eopas)  ETHNOER Online Presentation and Annotation System
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
 * [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://fieldworks.sil.org/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
-* [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
 * [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.com/franc/
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks
@@ -165,7 +164,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Mozilla/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
 * [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
-* [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [Gramadóir ![GitHub stars](https://img.shields.io/github/stars/kscanne/gramadoir.svg)](https://github.com/kscanne/gramadoir) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
@@ -180,7 +178,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [koreksyon ![GitHub stars](https://img.shields.io/github/stars/reokatoa/koreksyon.svg)](https://github.com/reokatoa/koreksyon)  Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
 * [l20n.js ![GitHub stars](https://img.shields.io/github/stars/l20n/l20n.js.svg)](https://github.com/l20n/l20n.js)  L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
 * [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html).
-* [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
 * [leebock/languages ![GitHub stars](https://img.shields.io/github/stars/leebock/languages.svg)](https://github.com/leebock/languages)  Application files for the Smithsonian endangered languages story map.
 * [LEGO Unified Concepticon ![GitHub stars](https://img.shields.io/github/stars/jcgood/concepticon.svg)](https://github.com/jcgood/concepticon)  Material relating to the LEGO Unified Concepticon
 * [Lex4All ![GitHub stars](https://img.shields.io/github/stars/lex4all/lex4all.svg)](https://github.com/lex4all/lex4all)  pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
@@ -216,12 +213,8 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [pathway](https://github.com/sillsdev/pathway) Preparing language data for publication
 * [pepper ![GitHub stars](https://img.shields.io/github/stars/korpling/pepper.svg)](https://github.com/korpling/pepper)  Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
-* [poio-analyzer ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-analyzer.svg)](https://github.com/cidles/poio-analyzer)  Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
-* [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://www.poio.eu/
-* [poio-doc ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-doc.svg)](https://github.com/cidles/poio-doc)  Documentation of the Poio project.http://www.poio.eu
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
-* [pyannotation ![GitHub stars](https://img.shields.io/github/stars/cidles/pyannotation.svg)](https://github.com/cidles/pyannotation)  PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [pyDelphin ![GitHub stars](https://img.shields.io/github/stars/goodmami/pydelphin.svg)](https://github.com/delph-in/pydelphin)  Python libraries for DELPH-IN (Friendly Fork)
 * [Rosetta Pangloss ![GitHub stars](https://img.shields.io/github/stars/jcgood/rosetta-pangloss.svg)](https://github.com/jcgood/rosetta-pangloss)  The Rosetta Project's Pangloss system
 * [salm](https://github.com/moses-smt/salm) SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
@@ -257,6 +250,19 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [wordbyword ![GitHub stars](https://img.shields.io/github/stars/cidles/wordbyword.svg)](https://github.com/cidles/wordbyword)  WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
 * [WSI4URLang ![GitHub stars](https://img.shields.io/github/stars/mohammadnasiruddin/WSI4URLang.svg)](https://github.com/mohammadnasiruddin/WSI4URLang)  Word Sense Induction (WSI) for Under-resourced Languages (URLang)
 * [XDXF_Makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict)  XDXF dictionary format and "makedict" dictionary converting software (official repository)
+
+# Annotation
+
+* [AGTK ![GitHub stars](https://img.shields.io/github/stars/lowresourcelanguages/agtk.svg)](https://github.com/lowresourcelanguages/agtk) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/)
+* [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
+* [eopas ![GitHub stars](https://img.shields.io/github/stars/eopas/eopas.svg)](https://github.com/eopas/eopas)  ETHNOER Online Presentation and Annotation System
+* [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
+* [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
+* [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
+* [poio-analyzer ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-analyzer.svg)](https://github.com/cidles/poio-analyzer)  Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
+* [poio-api ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-api.svg)](https://github.com/cidles/poio-api)  Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F… http://www.poio.eu/
+* [poio-doc ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-doc.svg)](https://github.com/cidles/poio-doc)  Documentation of the Poio project.http://www.poio.eu
+* [pyannotation ![GitHub stars](https://img.shields.io/github/stars/cidles/pyannotation.svg)](https://github.com/cidles/pyannotation)  PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
 # Format Specifications
