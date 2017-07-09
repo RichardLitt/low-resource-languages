@@ -1,4 +1,5 @@
-#Content Template
+# Content Template
+
 *This template represents the targeted types of information which would be helpful to review software.*
 
 * Software name
@@ -41,7 +42,7 @@
  * Name of institution
 * Project development status
   * Closed
-  * Abandond
+  * Abandoned
   * Ongoing
   * Contact the developer
 * Funding source
@@ -52,18 +53,18 @@
   * GPL
   * Appache 2.0
   * BSD
-* General lingusitics Task classification
+* General linguistics Task classification
 * Online - Offline technology connectivity expectations
 * Collaboration expectations
-* Projcet open status
- * Code base is created from opensouce, but itself (customizations) is not open
+* Project open status
+ * Code base is created from opensource, but itself (customizations) is not open
  * Code base is open
  * Code and data is open
  * Only data is open
  * Code is open but service is pay
  * Code is open but service is sign-in
  * Code is closed but content is Open Access
-* Technical senario
+* Technical scenario
  * Sever <-> Desktop - LAN
  * Server <-> Desktop - Net
  * Server
@@ -83,9 +84,7 @@
 * Application style
  * Commandline application
  * Browser based
- * Application Based 
-
-
+ * Application Based
 
 _These are just some thoughts which have not been fully baked. For instance the order of items is not yet established. Taxonomies are not yet established for various segments like OS._
 _Further consideration of a entry content should consult the [DCMI Tools Metadata Application Profile](http://dublincore.org/groups/tools/map.shtml) and an associated PDF/Paper: [DCMI-Tools: Ontologies for Digital Application Description](http://elpub.scix.net/data/works/att/123_elpub2007.content.pdf). Both of these resources make mention of a ontology called DOAP. https://github.com/edumbill/doap/wiki_
