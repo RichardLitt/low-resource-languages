@@ -91,6 +91,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
   - [Zulu](#zulu)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -709,3 +710,7 @@ _tir :: ትግርኛ_
 _zul :: zulu_
 
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
+
+# License
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
