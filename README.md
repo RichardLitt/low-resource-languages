@@ -1,5 +1,7 @@
 # Endangered Languages
 
+> Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
+
 There is no centralized list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
 
 **Publication**
@@ -8,9 +10,7 @@ A white paper describing this repository was published at the LREC 2016 CCURL Wo
 
 ## Contribute
 
-To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link before or by submitting pull requests, if you know of any resource available that is not on this list.
-
-For further examples please consider looking at examples in the example template file.
+To edit this list, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). Please edit the list, either using the link above or by submitting pull requests, if you know of any resource available that is not on this list.
 
 In general, please link directly to the resource or to the page describing the resource. The blurb after the link should be something short - the GitHub description generally works well, although the blurb may have to be written manually for non-GitHub links or for GitHub links which lack descriptions. Please make sure each link is on one line, to help with automatic alphabetization.
 
