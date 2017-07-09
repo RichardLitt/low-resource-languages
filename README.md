@@ -1,5 +1,4 @@
-Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-====================
+# Endangered Languages
 
 There is no centralized list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
 
