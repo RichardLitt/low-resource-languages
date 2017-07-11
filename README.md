@@ -20,7 +20,9 @@ In general, please link directly to the resource or to the page describing the r
 
 **Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](https://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
 
-Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).
+Regarding the name, _Endangered Languages_ may not be the best term, as many low resource languages are not necessarily endangered. But this term is the most accessible to the widest amount of people. _Low Resource Languages_ would also suit this list.
+
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
 
 # Table of Contents
 
