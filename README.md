@@ -133,12 +133,14 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [bayesline ![GitHub stars](https://img.shields.io/github/stars/alvations/bayesline.svg)](https://github.com/alvations/bayesline)  A Multinomial Bayesian Classification for Language Identification
 * [bible-corpus-tools](https://github.com/christos-c/bible-corpus-tools) A collection of tools for reading/processing the multilingual Bible corpus.
 * [BloomDesktop ![GitHub stars](https://img.shields.io/github/stars/BloomBooks/BloomDesktop.svg)](https://github.com/BloomBooks/BloomDesktop)  Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
+* [BloomLibrary](https://github.com/BloomBooks/BloomLibrary) - Bloom Library Single Page App, using AngularJS & Bootstrap, Parse.com backend. http://www.bloomlibrary.org
 * [brain ![GitHub stars](https://img.shields.io/github/stars/FieldDB/brain.svg)](https://github.com/FieldDB/brain)  Neural networks in JavaScript
 * [Bristol Uni MT Morphology tools](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
 * [brown-cluster ![GitHub stars](https://img.shields.io/github/stars/percyliang/brown-cluster.svg)](https://github.com/percyliang/brown-cluster) C++ implementation of the Brown word clustering algorithm.
 * [CasualCon](https://sites.google.com/site/casualconc/Home) CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count.
 * [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
+* [chorus](https://github.com/sillsdev/chorus) A version control system designed to enable workflows appropriate for typical language development teams who are geographically distributed.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [CMU Sphinx](https://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
 * [cnminlangwebcollect ![GitHub stars](https://img.shields.io/github/stars/hyphenliu/cnminlangwebcollect.svg)](https://github.com/hyphenliu/cnminlangwebcollect)  Chinese minorities website languages detection and websites collection
@@ -157,6 +159,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html)
 * [ELDER: Endangered Language Data Electronic Repository ![GitHub stars](https://img.shields.io/github/stars/elderonline/ELDER.svg)](https://github.com/elderonline/ELDER)  Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
+* [enchant](https://github.com/AbiWord/enchant) enchant spellchecking library https://abiword.github.io/enchant
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
 * [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://software.sil.org/fieldworks/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
@@ -190,6 +193,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [LinGO Grammar Matrix](http://www.delph-in.net/matrix/) The LinGO Grammar Matrix is a framework for the development of broad-coverage, precision, implemented grammars for diverse languages.
 * [Lingpy ![GitHub stars](https://img.shields.io/github/stars/lingpy/lingpy.svg)](https://github.com/lingpy/lingpy)  LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
 * [Linguistica](http://people.cs.uchicago.edu/~jagoldsm/linguistica-site/) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
+* [long-press](https://github.com/quentint/long-press) jQuery plugin to ease the writing of accented or rare characters. http://toki-woki.net/lab/long-press
 * [low-resource-pos-tagging-2014 ![GitHub stars](https://img.shields.io/github/stars/dhgarrette/low-resource-pos-tagging-2014.svg)](https://github.com/dhgarrette/low-resource-pos-tagging-2014/) Low-Resource POS-Tagging: 2014
 * [lrl ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/lrl.svg)](https://github.com/RichardLitt/lrl)  For work concerning low resource languages.
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine)  Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
@@ -202,6 +206,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [morpholm](https://github.com/ldmt-muri/morpholm) - Morphology-aware language models.
 * [mosesdecoder](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
+* [myWorkSafe](https://github.com/sillsdev/myWorkSafe) Smart & Simple Backup for Language Development Workers http://myWorkSafe.palaso.org
 * [Natural ![GitHub stars](https://img.shields.io/github/stars/NaturalNode/natural.svg)](https://github.com/NaturalNode/natural)  *Javascript* general natural language facilities for node
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://www.nltk.org/
@@ -217,6 +222,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools)  This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org
 * [paradigm](https://github.com/sillsdev/paradigm)   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
 * [pathway](https://github.com/sillsdev/pathway) Preparing language data for publication
+* [pdfdroplet](https://github.com/sillsdev/pdfdroplet) Library and GUI for imposition of PDF pages (e.g. 2-up) http://pdfdroplet.palaso.org
 * [pepper ![GitHub stars](https://img.shields.io/github/stars/korpling/pepper.svg)](https://github.com/korpling/pepper)  Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
@@ -225,6 +231,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Rosetta Pangloss ![GitHub stars](https://img.shields.io/github/stars/jcgood/rosetta-pangloss.svg)](https://github.com/jcgood/rosetta-pangloss)  The Rosetta Project's Pangloss system
 * [salm](https://github.com/moses-smt/salm) SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
 * [Salt ![GitHub stars](https://img.shields.io/github/stars/korpling/salt.svg)](https://github.com/korpling/salt)  A graph-based model to store and manipulate linguistic data.
+* [saymore](https://github.com/sillsdev/saymore) - A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription.
 * [Secwepemc-Facebook ![GitHub stars](https://img.shields.io/github/stars/kscanne/secwepemc-facebook.svg)](https://github.com/kscanne/secwepemc-facebook)  Translate Facebook into unsupported languages
 * [SeedLing ![GitHub stars](https://img.shields.io/github/stars/alvations/SeedLing.svg)](https://github.com/alvations/SeedLing)  Building and Using A Seed Corpus for the Human Language Project
 * [Skype in your language ![GitHub stars](https://img.shields.io/github/stars/akerbeltz/skypeinyourlanguage.svg)](https://github.com/akerbeltz/skypeinyourlanguage) Translate Skype into unsupported languages
@@ -316,7 +323,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [sphinxbase](https://github.com/cmusphinx/sphinxbase)
 * [sphinxtrain](https://github.com/cmusphinx/sphinxtrain)
 * [TLSphinx](https://github.com/cmusphinx/TLSphinx) Swift wrapper around Pocketsphinx
-
 
 # Text automation
 
@@ -437,19 +443,20 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 ## On GitHub
 
-* [batumi](https://github.com/batumi)  Speech recognition and natural language processing for low-resource languages
-* [cmusphinx](https://github.com/cmusphinx) Mirror of the SourceForge repositories
+* [batumi](https://github.com/batumi) - Speech recognition and natural language processing for low-resource languages
+* [BloomBooks](https://github.com/BloomBooks) 
+* [cmusphinx](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
 * [dativebase](https://github.com/dativebase) - Tools for working with OLD.
 * [FieldDB](https://github.com/FieldDB)
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
-* [moses-smt](https://github.com/moses-smt) Statistical Machine Translation.
-* [NLTK](https://github.com/nltk/nltk) Natural Language Toolkit
+* [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
+* [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit
 * [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools)
-* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
-* [SIL International (Dev)](https://github.com/sillsdev) [SIL International](https://www.sil.org/) Another SIL organization, with many repositories.
-* [SIL International](https://github.com/silinternational) SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
-* [SIL NRSI](https://github.com/silnrsi) SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
+* [SIL International (Dev)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
+* [SIL International](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL NRSI](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
 * [StanfordNLP](https://github.com/stanfordnlp) https://nlp.stanford.edu
 
 ## Other OSS Organisations
