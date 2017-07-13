@@ -54,7 +54,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 - [Language & Code Interfaces](#language-&-code-interfaces)
 - [Fonts](#fonts)
 - [Corpora](#corpora)
-- [Organisations](#organisations)
+- [Organizations](#organizations)
   - [On GitHub](#on-github)
   - [Other OSS Organisations](#other-oss-organisations)
 - [Language Specific Projects](#language-specific-projects)
@@ -439,7 +439,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [bible-corpus ![GitHub stars](https://img.shields.io/github/stars/christos-c/bible-corpus.svg)](https://github.com/christos-c/bible-corpus) A multilingual parallel corpus created from translations of the Bible.
 * [poio-corpus ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-corpus.svg)](https://github.com/cidles/poio-corpus)  The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.
 
-# Organisations
+# Organizations
 
 ## On GitHub
 
