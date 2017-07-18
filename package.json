@@ -1,0 +1,29 @@
+{
+  "name": "endangered-languages",
+  "version": "1.0.0",
+  "description": "Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "star": "./tooling/add_stars.sh README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/endangered-languages.git"
+  },
+  "keywords": [
+    "endangered",
+    "languages",
+    "languages",
+    "linguistics",
+    "low-resource",
+    "resources",
+    "list"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/endangered-languages/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/endangered-languages#readme"
+}
