@@ -190,6 +190,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [LEGO Unified Concepticon ![GitHub stars](https://img.shields.io/github/stars/jcgood/concepticon.svg)](https://github.com/jcgood/concepticon)  Material relating to the LEGO Unified Concepticon
 * [Lex4All ![GitHub stars](https://img.shields.io/github/stars/lex4all/lex4all.svg)](https://github.com/lex4all/lex4all)  pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
 * [LfMerge ![GitHub stars](https://img.shields.io/github/stars/sillsdev/LfMerge.svg)](https://github.com/sillsdev/LfMerge) Send/Receive for languageforge.org
+* [liblevenshtein ![GitHub stars](https://img.shields.io/github/stars/universal-automata/liblevenshtein.svg)](https://github.com/universal-automata/liblevenshtein) - A library for generating Finite State Transducers based on Levenshtein Automata.
 * [libpalaso ![GitHub stars](https://img.shields.io/github/stars/sillsdev/libpalaso.svg)](https://github.com/sillsdev/libpalaso) Palaso Library: A set of .Net libraries useful for developers of Language Software.
 * [LinGO Grammar Matrix](http://www.delph-in.net/matrix/) The LinGO Grammar Matrix is a framework for the development of broad-coverage, precision, implemented grammars for diverse languages.
 * [Lingpy ![GitHub stars](https://img.shields.io/github/stars/lingpy/lingpy.svg)](https://github.com/lingpy/lingpy)  LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
