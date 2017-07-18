@@ -125,22 +125,22 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Software
 * [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
-* [alignment-with-openfst](https://github.com/ldmt-muri/alignment-with-openfst) - This is an implementation of the CRF autoencoder framework for four tasks: bitext word alignment, part-of-speech tagging, code switching, dependency parsing.
+* [alignment-with-openfst ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/alignment-with-openfst.svg)](https://github.com/ldmt-muri/alignment-with-openfst) - This is an implementation of the CRF autoencoder framework for four tasks: bitext word alignment, part-of-speech tagging, code switching, dependency parsing.
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
 * [Apertium](https://sourceforge.net/projects/apertium/) Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.
 * [ark-tweet-nlp ![GitHub stars](https://img.shields.io/github/stars/FieldDB/ark-tweet-nlp.svg)](https://github.com/FieldDB/ark-tweet-nlp)  CMU ARK Twitter Part-of-Speech Tagger (_Fork_)
-* [ArtOfReading](https://github.com/sillsdev/ArtOfReading) Index and processing scripts related to the Art Of Reading illustration collection
+* [ArtOfReading ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ArtOfReading.svg)](https://github.com/sillsdev/ArtOfReading) Index and processing scripts related to the Art Of Reading illustration collection
 * [bayesline ![GitHub stars](https://img.shields.io/github/stars/alvations/bayesline.svg)](https://github.com/alvations/bayesline)  A Multinomial Bayesian Classification for Language Identification
-* [bible-corpus-tools](https://github.com/christos-c/bible-corpus-tools) A collection of tools for reading/processing the multilingual Bible corpus.
+* [bible-corpus-tools ![GitHub stars](https://img.shields.io/github/stars/christos-c/bible-corpus-tools.svg)](https://github.com/christos-c/bible-corpus-tools) A collection of tools for reading/processing the multilingual Bible corpus.
 * [BloomDesktop ![GitHub stars](https://img.shields.io/github/stars/BloomBooks/BloomDesktop.svg)](https://github.com/BloomBooks/BloomDesktop)  Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… http://bloomlibrary.org/
-* [BloomLibrary](https://github.com/BloomBooks/BloomLibrary) - Bloom Library Single Page App, using AngularJS & Bootstrap, Parse.com backend. http://www.bloomlibrary.org
+* [BloomLibrary ![GitHub stars](https://img.shields.io/github/stars/BloomBooks/BloomLibrary.svg)](https://github.com/BloomBooks/BloomLibrary) - Bloom Library Single Page App, using AngularJS & Bootstrap, Parse.com backend. http://www.bloomlibrary.org
 * [brain ![GitHub stars](https://img.shields.io/github/stars/FieldDB/brain.svg)](https://github.com/FieldDB/brain)  Neural networks in JavaScript
-* [Bristol Uni MT Morphology tools](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
+* [Bristol Uni MT Morphology tools ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/bristol-mt-morphology.svg)](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
 * [brown-cluster ![GitHub stars](https://img.shields.io/github/stars/percyliang/brown-cluster.svg)](https://github.com/percyliang/brown-cluster) C++ implementation of the Brown word clustering algorithm.
 * [CasualCon](https://sites.google.com/site/casualconc/Home) CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count.
 * [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg)](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
-* [chorus](https://github.com/sillsdev/chorus) A version control system designed to enable workflows appropriate for typical language development teams who are geographically distributed.
+* [chorus ![GitHub stars](https://img.shields.io/github/stars/sillsdev/chorus.svg)](https://github.com/sillsdev/chorus) A version control system designed to enable workflows appropriate for typical language development teams who are geographically distributed.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg)](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [CMU Sphinx](https://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
 * [cnminlangwebcollect ![GitHub stars](https://img.shields.io/github/stars/hyphenliu/cnminlangwebcollect.svg)](https://github.com/hyphenliu/cnminlangwebcollect)  Chinese minorities website languages detection and websites collection
@@ -159,98 +159,98 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html)
 * [ELDER: Endangered Language Data Electronic Repository ![GitHub stars](https://img.shields.io/github/stars/elderonline/ELDER.svg)](https://github.com/elderonline/ELDER)  Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
-* [enchant](https://github.com/AbiWord/enchant) enchant spellchecking library https://abiword.github.io/enchant
+* [enchant ![GitHub stars](https://img.shields.io/github/stars/AbiWord/enchant.svg)](https://github.com/AbiWord/enchant) enchant spellchecking library https://abiword.github.io/enchant
 * [fast_align ![GitHub stars](https://img.shields.io/github/stars/clab/fast_align.svg)](https://github.com/clab/fast_align) Simple, fast unsupervised word aligner.
-* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+* [fastText ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/fastText.svg)](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [FieldWorks ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FieldWorks.svg)](https://github.com/sillsdev/FieldWorks)  FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. http://software.sil.org/fieldworks/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology
 * [Franc ![GitHub stars](https://img.shields.io/github/stars/wooorm/franc.svg)](https://github.com/wooorm/franc) Natural language detection http://wooorm.com/franc/
-* [FwDocumentation](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
-* [FwLocalizations](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks
-* [FwSupportTools](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
+* [FwDocumentation ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FwDocumentation.svg)](https://github.com/sillsdev/FwDocumentation) Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
+* [FwLocalizations ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FwLocalizations.svg)](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks
+* [FwSupportTools ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FwSupportTools.svg)](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
 * [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
-* [giza-pp](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
-* [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
+* [giza-pp ![GitHub stars](https://img.shields.io/github/stars/moses-smt/giza-pp.svg)](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
+* [gv-crawl ![GitHub stars](https://img.shields.io/github/stars/vchahun/gv-crawl.svg)](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
 * [Gramadóir ![GitHub stars](https://img.shields.io/github/stars/kscanne/gramadoir.svg)](https://github.com/kscanne/gramadoir) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
-* [grind](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
-* [hermitcrab](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
-* [Hfst](https://github.com/hfst/) Helsinki Finite-State Technology - a set of command-line tools to work with finite state transducers. Is heavily used by the Giella infrastructure (see Divvun and Giellatekno under Sami further down)
+* [grind ![GitHub stars](https://img.shields.io/github/stars/sillsdev/grind.svg)](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
+* [hermitcrab ![GitHub stars](https://img.shields.io/github/stars/sillsdev/hermitcrab.svg)](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
+* [Hfst ![GitHub stars](https://img.shields.io/github/stars/hfst/.svg)](https://github.com/hfst/) Helsinki Finite-State Technology - a set of command-line tools to work with finite state transducers. Is heavily used by the Giella infrastructure (see Divvun and Giellatekno under Sami further down)
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell/hunspell.svg)](https://github.com/hunspell/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
-* [icu-dotnet](https://github.com/sillsdev/icu-dotnet) C# wrapper for ICU4C
-* [icu4c](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
+* [icu-dotnet ![GitHub stars](https://img.shields.io/github/stars/sillsdev/icu-dotnet.svg)](https://github.com/sillsdev/icu-dotnet) C# wrapper for ICU4C
+* [icu4c ![GitHub stars](https://img.shields.io/github/stars/sillsdev/icu4c.svg)](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
 * [iLanguage ![GitHub stars](https://img.shields.io/github/stars/iLanguage/iLanguage.svg)](https://github.com/iLanguage/iLanguage) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.
-* [ipa-help](https://github.com/sillsdev/ipa-help) IPA Helps
+* [ipa-help ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ipa-help.svg)](https://github.com/sillsdev/ipa-help) IPA Helps
 * [itweets-geodata ![GitHub stars](https://img.shields.io/github/stars/kscanne/itweets-geodata.svg)](https://github.com/kscanne/itweets-geodata)  Geodata from Indigenous Tweets
 * [jQuery.ime  ![GitHub stars](https://img.shields.io/github/stars/wikimedia/jquery.ime.svg)](https://github.com/wikimedia/jquery.ime) jQuery based input methods library
 * [koreksyon ![GitHub stars](https://img.shields.io/github/stars/reokatoa/koreksyon.svg)](https://github.com/reokatoa/koreksyon)  Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
 * [l20n.js ![GitHub stars](https://img.shields.io/github/stars/l20n/l20n.js.svg)](https://github.com/l20n/l20n.js)  L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
-* [langid.py](https://github.com/saffsd/langid.py) Stand-alone language identification system.
+* [langid.py ![GitHub stars](https://img.shields.io/github/stars/saffsd/langid.py.svg)](https://github.com/saffsd/langid.py) Stand-alone language identification system.
 * [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html).
 * [leebock/languages ![GitHub stars](https://img.shields.io/github/stars/leebock/languages.svg)](https://github.com/leebock/languages)  Application files for the Smithsonian endangered languages story map.
 * [LEGO Unified Concepticon ![GitHub stars](https://img.shields.io/github/stars/jcgood/concepticon.svg)](https://github.com/jcgood/concepticon)  Material relating to the LEGO Unified Concepticon
 * [Lex4All ![GitHub stars](https://img.shields.io/github/stars/lex4all/lex4all.svg)](https://github.com/lex4all/lex4all)  pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/
-* [LfMerge](https://github.com/sillsdev/LfMerge) Send/Receive for languageforge.org
-* [libpalaso](https://github.com/sillsdev/libpalaso) Palaso Library: A set of .Net libraries useful for developers of Language Software.
+* [LfMerge ![GitHub stars](https://img.shields.io/github/stars/sillsdev/LfMerge.svg)](https://github.com/sillsdev/LfMerge) Send/Receive for languageforge.org
+* [libpalaso ![GitHub stars](https://img.shields.io/github/stars/sillsdev/libpalaso.svg)](https://github.com/sillsdev/libpalaso) Palaso Library: A set of .Net libraries useful for developers of Language Software.
 * [LinGO Grammar Matrix](http://www.delph-in.net/matrix/) The LinGO Grammar Matrix is a framework for the development of broad-coverage, precision, implemented grammars for diverse languages.
 * [Lingpy ![GitHub stars](https://img.shields.io/github/stars/lingpy/lingpy.svg)](https://github.com/lingpy/lingpy)  LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org
 * [Linguistica](http://people.cs.uchicago.edu/~jagoldsm/linguistica-site/) Linguistica is a program designed to explore the unsupervised learning of natural language, with primary focus on morphology (word-structure). It runs under Windows, Mac OS X and Linux, and is written in C++ within the Qt development framework. Its demands on memory depend on the size of the corpus analyzed.
-* [long-press](https://github.com/quentint/long-press) jQuery plugin to ease the writing of accented or rare characters. http://toki-woki.net/lab/long-press
+* [long-press ![GitHub stars](https://img.shields.io/github/stars/quentint/long-press.svg)](https://github.com/quentint/long-press) jQuery plugin to ease the writing of accented or rare characters. http://toki-woki.net/lab/long-press
 * [low-resource-pos-tagging-2014 ![GitHub stars](https://img.shields.io/github/stars/dhgarrette/low-resource-pos-tagging-2014.svg)](https://github.com/dhgarrette/low-resource-pos-tagging-2014/) Low-Resource POS-Tagging: 2014
 * [lrl ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/lrl.svg)](https://github.com/RichardLitt/lrl)  For work concerning low resource languages.
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine)  Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
 * [Make-extensions ![GitHub stars](https://img.shields.io/github/stars/kscanne/make-extensions.svg)](https://github.com/kscanne/make-extensions)  Scripts for generating hunspell spellchecking extensions
 * [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
-* [maxent](https://github.com/lzhang10/maxent) Maximum Entropy Modeling Toolkit for Python and C++ http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html
-* [mgiza](https://github.com/moses-smt/mgiza) A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
+* [maxent ![GitHub stars](https://img.shields.io/github/stars/lzhang10/maxent.svg)](https://github.com/lzhang10/maxent) Maximum Entropy Modeling Toolkit for Python and C++ http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html
+* [mgiza ![GitHub stars](https://img.shields.io/github/stars/moses-smt/mgiza.svg)](https://github.com/moses-smt/mgiza) A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
 * [morfessor ![GitHub stars](https://img.shields.io/github/stars/aalto-speech/morfessor.svg)](https://github.com/aalto-speech/morfessor)  Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
-* [morpholm](https://github.com/ldmt-muri/morpholm) Morphology-aware language models.
-* [mosesdecoder](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
+* [morpholm ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/morpholm.svg)](https://github.com/ldmt-muri/morpholm) Morphology-aware language models.
+* [mosesdecoder ![GitHub stars](https://img.shields.io/github/stars/moses-smt/mosesdecoder.svg)](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
-* [myWorkSafe](https://github.com/sillsdev/myWorkSafe) Smart & Simple Backup for Language Development Workers http://myWorkSafe.palaso.org
+* [myWorkSafe ![GitHub stars](https://img.shields.io/github/stars/sillsdev/myWorkSafe.svg)](https://github.com/sillsdev/myWorkSafe) Smart & Simple Backup for Language Development Workers http://myWorkSafe.palaso.org
 * [Natural ![GitHub stars](https://img.shields.io/github/stars/NaturalNode/natural.svg)](https://github.com/NaturalNode/natural)  *Javascript* general natural language facilities for node
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
 * [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk)  *Python* Natural Language Tool Kit. NLTK Source http://www.nltk.org/
 * [node-panlex ![GitHub stars](https://img.shields.io/github/stars/longnow/node-panlex.svg)](https://github.com/longnow/node-panlex)  node.js client for PanLex
 * [norma ![GitHub stars](https://img.shields.io/github/stars/comphist/norma.svg)](https://github.com/comphist/norma)  A tool for automatic spelling normalization
-* [nplm](https://github.com/moses-smt/nplm) Fork of https://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
+* [nplm ![GitHub stars](https://img.shields.io/github/stars/moses-smt/nplm.svg)](https://github.com/moses-smt/nplm) Fork of https://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
 * [octothorpe ![GitHub stars](https://img.shields.io/github/stars/FieldDB/octothorpe.svg)](https://github.com/FieldDB/octothorpe)  CouchDB-powered wiki thing
-* [OdtXslt](https://github.com/sillsdev/OdtXslt) Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
+* [OdtXslt ![GitHub stars](https://img.shields.io/github/stars/sillsdev/OdtXslt.svg)](https://github.com/sillsdev/OdtXslt) Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
 * [old-webapp ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/old-webapp.svg)](https://github.com/jrwdunham/old-webapp)  Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
-* [old-pyramid](https://github.com/dativebase/old-pyramid) Online Linguistic Database migrated to the Pyramid framework.
+* [old-pyramid ![GitHub stars](https://img.shields.io/github/stars/dativebase/old-pyramid.svg)](https://github.com/dativebase/old-pyramid) Online Linguistic Database migrated to the Pyramid framework.
 * [OpenDataKit](https://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
-* [OpenNLP](https://github.com/apache/opennlp) The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
-* [ops-devbox](https://github.com/sillsdev/ops-devbox) Ansible playbook for a (linux) developer machine
+* [OpenNLP ![GitHub stars](https://img.shields.io/github/stars/apache/opennlp.svg)](https://github.com/apache/opennlp) The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
+* [ops-devbox ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ops-devbox.svg)](https://github.com/sillsdev/ops-devbox) Ansible playbook for a (linux) developer machine
 * [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools)  This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org
-* [paradigm](https://github.com/sillsdev/paradigm)   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
-* [pathway](https://github.com/sillsdev/pathway) Preparing language data for publication
-* [pdfdroplet](https://github.com/sillsdev/pdfdroplet) Library and GUI for imposition of PDF pages (e.g. 2-up) http://pdfdroplet.palaso.org
+* [paradigm ![GitHub stars](https://img.shields.io/github/stars/sillsdev/paradigm.svg)](https://github.com/sillsdev/paradigm)   PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
+* [pathway ![GitHub stars](https://img.shields.io/github/stars/sillsdev/pathway.svg)](https://github.com/sillsdev/pathway) Preparing language data for publication
+* [pdfdroplet ![GitHub stars](https://img.shields.io/github/stars/sillsdev/pdfdroplet.svg)](https://github.com/sillsdev/pdfdroplet) Library and GUI for imposition of PDF pages (e.g. 2-up) http://pdfdroplet.palaso.org
 * [pepper ![GitHub stars](https://img.shields.io/github/stars/korpling/pepper.svg)](https://github.com/korpling/pepper)  Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
-* [phonology-assistant](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
+* [phonology-assistant ![GitHub stars](https://img.shields.io/github/stars/sillsdev/phonology-assistant.svg)](https://github.com/sillsdev/phonology-assistant) Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [pressagio ![GitHub stars](https://img.shields.io/github/stars/cidles/pressagio.svg)](https://github.com/cidles/pressagio)  Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
-* [PrimerPro](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
+* [PrimerPro ![GitHub stars](https://img.shields.io/github/stars/sillsdev/PrimerPro.svg)](https://github.com/sillsdev/PrimerPro) The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
 * [pyDelphin ![GitHub stars](https://img.shields.io/github/stars/goodmami/pydelphin.svg)](https://github.com/delph-in/pydelphin)  Python libraries for DELPH-IN (Friendly Fork)
-* [RBGParser](https://github.com/taolei87/RBGParser) Graph-based Dependency Parser.
+* [RBGParser ![GitHub stars](https://img.shields.io/github/stars/taolei87/RBGParser.svg)](https://github.com/taolei87/RBGParser) Graph-based Dependency Parser.
 * [Rosetta Pangloss ![GitHub stars](https://img.shields.io/github/stars/jcgood/rosetta-pangloss.svg)](https://github.com/jcgood/rosetta-pangloss)  The Rosetta Project's Pangloss system
-* [salm](https://github.com/moses-smt/salm) SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
+* [salm ![GitHub stars](https://img.shields.io/github/stars/moses-smt/salm.svg)](https://github.com/moses-smt/salm) SALM: Suffix Array and its Applications in Empirical Language Processing by Joy
 * [Salt ![GitHub stars](https://img.shields.io/github/stars/korpling/salt.svg)](https://github.com/korpling/salt)  A graph-based model to store and manipulate linguistic data.
-* [saymore](https://github.com/sillsdev/saymore) - A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription.
+* [saymore ![GitHub stars](https://img.shields.io/github/stars/sillsdev/saymore.svg)](https://github.com/sillsdev/saymore) - A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription.
 * [Secwepemc-Facebook ![GitHub stars](https://img.shields.io/github/stars/kscanne/secwepemc-facebook.svg)](https://github.com/kscanne/secwepemc-facebook)  Translate Facebook into unsupported languages
-* [SegParser](https://github.com/yuanzh/SegParser) Randomized Greedy algorithm for joint segmentation, POS tagging and dependency parsing
+* [SegParser ![GitHub stars](https://img.shields.io/github/stars/yuanzh/SegParser.svg)](https://github.com/yuanzh/SegParser) Randomized Greedy algorithm for joint segmentation, POS tagging and dependency parsing
 * [SeedLing ![GitHub stars](https://img.shields.io/github/stars/alvations/SeedLing.svg)](https://github.com/alvations/SeedLing)  Building and Using A Seed Corpus for the Human Language Project
 * [Skype in your language ![GitHub stars](https://img.shields.io/github/stars/akerbeltz/skypeinyourlanguage.svg)](https://github.com/akerbeltz/skypeinyourlanguage) Translate Skype into unsupported languages
-* [solid](https://github.com/sillsdev/solid) Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
+* [solid ![GitHub stars](https://img.shields.io/github/stars/sillsdev/solid.svg)](https://github.com/sillsdev/solid) Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.
 * [SPHERE Conversion Tools](https://www.ldc.upenn.edu/language-resources/tools/sphere-conversion-tools) Many LDC corpora contain speech files in NIST SPHERE format. The programs below convert SPHERE files to other formats.
-* [StandardFormatLib](https://github.com/sillsdev/StandardFormatLib) Standard Format Library
+* [StandardFormatLib ![GitHub stars](https://img.shields.io/github/stars/sillsdev/StandardFormatLib.svg)](https://github.com/sillsdev/StandardFormatLib) Standard Format Library
 * [Stanford CoreNLP ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/CoreNLP.svg)](https://github.com/stanfordnlp/CoreNLP) Stanford CoreNLP: A Java suite of core NLP tools. https://stanfordnlp.github.io/CoreNLP/
 * [Stanford CoreNLP Python ![GitHub stars](https://img.shields.io/github/stars/dasmith/stanford-corenlp-python.svg)](https://github.com/dasmith/stanford-corenlp-python)  Python wrapper for Stanford CoreNLP tools
 * [stanza ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/stanza.svg)](https://github.com/stanfordnlp/stanza) Stanford NLP group's shared Python tools.
-* [str2ipa](https://github.com/ytsvetko/str2ipa) Pronunciation dictionaries for languages with close-to-phonetic writing systems
+* [str2ipa ![GitHub stars](https://img.shields.io/github/stars/ytsvetko/str2ipa.svg)](https://github.com/ytsvetko/str2ipa) Pronunciation dictionaries for languages with close-to-phonetic writing systems
 * [sugali ![GitHub stars](https://img.shields.io/github/stars/alvations/sugali.svg)](https://github.com/alvations/sugali)  This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
 * [SuGarLike ![GitHub stars](https://img.shields.io/github/stars/alvations/SuGarLike.svg)](https://github.com/alvations/SuGarLike)  Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
-* [teny](https://github.com/vchahun/teny) Tools for low-resource machine translation.
+* [teny ![GitHub stars](https://img.shields.io/github/stars/vchahun/teny.svg)](https://github.com/vchahun/teny) Tools for low-resource machine translation.
 * [TeraDict ![GitHub stars](https://img.shields.io/github/stars/longnow/TeraDict.svg)](https://github.com/longnow/TeraDict)  Translate English words into hundreds of languages!
-* [Tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages 📖🎉🖥 http://tesseract.projectnaptha.com/
+* [Tesseract.js ![GitHub stars](https://img.shields.io/github/stars/naptha/tesseract.js.svg)](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages 📖🎉🖥 http://tesseract.projectnaptha.com/
 * [TexNLP ![GitHub stars](https://img.shields.io/github/stars/utcompling/texnlp.svg)](https://github.com/utcompling/texnlp)  TexNLP: Texas Natural Language Processing tools
 * [TiMBL](https://languagemachines.github.io/timbl/) TiMBL is an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG. All implemented algorithms have in common that they store some representation of the training set explicitly in memory. During testing, new cases are classified by extrapolation from the most similar stored cases.
 * [Toney ![GitHub stars](https://img.shields.io/github/stars/langtech/toney.svg)](https://github.com/langtech/toney)  Tone Classification Software
@@ -259,12 +259,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [translitit-engine ![GitHub stars](https://img.shields.io/github/stars/gausby/translitit-engine.svg)](https://github.com/gausby/translitit-engine)  A transliteration engine written in JavaScript
 * [Tsammalex data ![GitHub stars](https://img.shields.io/github/stars/clld/tsammalex-data.svg)](https://github.com/clld/tsammalex-data)  [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
 * [tweet2learn ![GitHub stars](https://img.shields.io/github/stars/kscanne/tweet2learn.svg)](https://github.com/kscanne/tweet2learn)  An app to make it easier to use your native language on Twitter
-* [twitter_langid](https://github.com/ajaech/twitter_langid) A hierarchical character-word neural network for language identification
+* [twitter_langid ![GitHub stars](https://img.shields.io/github/stars/ajaech/twitter_langid.svg)](https://github.com/ajaech/twitter_langid) A hierarchical character-word neural network for language identification
 * [UniversalDependencies docs ![GitHub stars](https://img.shields.io/github/stars/UniversalDependencies/docs.svg)](https://github.com/UniversalDependencies/docs)  Universal Dependencies online documentation http://universaldependencies.org/docs/
 * [UniversalDependencies tools ![GitHub stars](https://img.shields.io/github/stars/universaldependencies/tools.svg)](https://github.com/universaldependencies/tools)  Various utilities for processing the data.
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench3) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
 * [wavesurfer.js ![GitHub stars](https://img.shields.io/github/stars/katspaugh/wavesurfer.js.svg)](https://github.com/katspaugh/wavesurfer.js)  Navigable waveform built on Web Audio and Canvas https://wavesurfer-js.org/ (Also has an ELAN plugin)
-* [web-scriptureforge](https://github.com/sillsdev/web-scriptureforge) platform for Scripture-related web apps
+* [web-scriptureforge ![GitHub stars](https://img.shields.io/github/stars/sillsdev/web-scriptureforge.svg)](https://github.com/sillsdev/web-scriptureforge) platform for Scripture-related web apps
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary ![GitHub stars](https://img.shields.io/github/stars/eddersko/WordBoundary.svg)](https://github.com/eddersko/WordBoundary)  An experiment in the detection and segmentation of word boundaries
 * [wordbyword ![GitHub stars](https://img.shields.io/github/stars/cidles/wordbyword.svg)](https://github.com/cidles/wordbyword)  WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
@@ -274,11 +274,11 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Annotation
 
 * [AGTK ![GitHub stars](https://img.shields.io/github/stars/lowresourcelanguages/agtk.svg)](https://github.com/lowresourcelanguages/agtk) AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/)
-* [brendano](https://github.com/brendano/gfl_syntax) - Graph Fragment Language for Easy Syntactic Annotation https://www.cs.cmu.edu/~ark/FUDG/
+* [brendano ![GitHub stars](https://img.shields.io/github/stars/brendano/gfl_syntax.svg)](https://github.com/brendano/gfl_syntax) - Graph Fragment Language for Easy Syntactic Annotation https://www.cs.cmu.edu/~ark/FUDG/
 * [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources.
 * [eopas ![GitHub stars](https://img.shields.io/github/stars/eopas/eopas.svg)](https://github.com/eopas/eopas)  ETHNOER Online Presentation and Annotation System
-* [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
-* [gfl_syntax](https://github.com/brendano/gfl_syntax) Graph Fragment Language for Easy Syntactic Annotation http://www.ark.cs.cmu.edu/FUDG
+* [FLAT - FoLia Linguistic Annotation Tool ![GitHub stars](https://img.shields.io/github/stars/proycon/flat.svg)](https://github.com/proycon/flat) FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
+* [gfl_syntax ![GitHub stars](https://img.shields.io/github/stars/brendano/gfl_syntax.svg)](https://github.com/brendano/gfl_syntax) Graph Fragment Language for Easy Syntactic Annotation http://www.ark.cs.cmu.edu/FUDG
 * [graf-python ![GitHub stars](https://img.shields.io/github/stars/cidles/graf-python.svg)](https://github.com/cidles/graf-python)  The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [LDC Word Aligner](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources.
 * [poio-analyzer ![GitHub stars](https://img.shields.io/github/stars/cidles/poio-analyzer.svg)](https://github.com/cidles/poio-analyzer)  Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
@@ -308,16 +308,16 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/FieldDB/et-pocketsphinx-tutorial.svg)](https://github.com/FieldDB/et-pocketsphinx-tutorial)  Tutorial of Estonian speech recognition using PocketSphinx
 * [html5-audio-read-along ![GitHub stars](https://img.shields.io/github/stars/westonruter/html5-audio-read-along.svg)](https://github.com/westonruter/html5-audio-read-along)  HTML5 Audio Read-Along
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg)](https://github.com/westonruter/ipa-chart)  International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
-* [kaldi-svn-archive](https://github.com/kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
-* [kaldi](https://github.com/kaldi-asr/kaldi) This is now the official location of the Kaldi project.
+* [kaldi-svn-archive ![GitHub stars](https://img.shields.io/github/stars/kaldi-asr/kaldi-svn-archive.svg)](https://github.com/kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
+* [kaldi ![GitHub stars](https://img.shields.io/github/stars/kaldi-asr/kaldi.svg)](https://github.com/kaldi-asr/kaldi) This is now the official location of the Kaldi project.
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
-* [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx)
+* [node-pocketsphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/node-pocketsphinx.svg)](https://github.com/cmusphinx/node-pocketsphinx)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
-* [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
-* [pocketsphinx-ios-demo](https://github.com/cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS
-* [pocketsphinx-python](https://github.com/cmusphinx/pocketsphinx-python) Python module installed with setup.py
-* [pocketsphinx-ruby](https://github.com/cmusphinx/pocketsphinx-ruby) Ruby speech recognition with Pocketsphinx
-* [pocketsphinx-wp-demo](https://github.com/cmusphinx/pocketsphinx-wp-demo) Demo to run pocketsphinx on WP8 platform
+* [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg) ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
+* [pocketsphinx-ios-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-ios-demo.svg)](https://github.com/cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS
+* [pocketsphinx-python ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-python.svg)](https://github.com/cmusphinx/pocketsphinx-python) Python module installed with setup.py
+* [pocketsphinx-ruby ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-ruby.svg)](https://github.com/cmusphinx/pocketsphinx-ruby) Ruby speech recognition with Pocketsphinx
+* [pocketsphinx-wp-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-wp-demo.svg)](https://github.com/cmusphinx/pocketsphinx-wp-demo) Demo to run pocketsphinx on WP8 platform
 * [pocketsphinx.js ![GitHub stars](https://img.shields.io/github/stars/syl22-00/pocketsphinx.js.svg)](https://github.com/syl22-00/pocketsphinx.js)  Speech recognition in JavaScript
 * [praat-py ![GitHub stars](https://img.shields.io/github/stars/FieldDB/praat-py.svg)](https://github.com/FieldDB/praat-py)  From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project)
 * [Praat-Scripts ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Praat-Scripts.svg)](https://github.com/FieldDB/Praat-Scripts)  Mietta's Scripts
@@ -327,10 +327,10 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Prosodylab-Aligner ![GitHub stars](https://img.shields.io/github/stars/prosodylab/Prosodylab-Aligner.svg)](https://github.com/prosodylab/Prosodylab-Aligner)  Python interface for forced audio alignment using HTK and SoX
 * [prosodylab.alignertools ![GitHub stars](https://img.shields.io/github/stars/prosodylab/prosodylab.alignertools.svg)](https://github.com/prosodylab/prosodylab.alignertools)
 * [Recordmp3js ![GitHub stars](https://img.shields.io/github/stars/FieldDB/Recordmp3js.svg)](https://github.com/FieldDB/Recordmp3js)  Record MP3 files directly from the browser using JS and HTML
-* [sphinx4](https://github.com/cmusphinx/sphinx4) Pure Java speech recognition library
-* [sphinxbase](https://github.com/cmusphinx/sphinxbase)
-* [sphinxtrain](https://github.com/cmusphinx/sphinxtrain)
-* [TLSphinx](https://github.com/cmusphinx/TLSphinx) Swift wrapper around Pocketsphinx
+* [sphinx4 ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/sphinx4.svg)](https://github.com/cmusphinx/sphinx4) Pure Java speech recognition library
+* [sphinxbase ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/sphinxbase.svg)](https://github.com/cmusphinx/sphinxbase)
+* [sphinxtrain ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/sphinxtrain.svg)](https://github.com/cmusphinx/sphinxtrain)
+* [TLSphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/TLSphinx.svg)](https://github.com/cmusphinx/TLSphinx) Swift wrapper around Pocketsphinx
 
 # Text automation
 
@@ -351,8 +351,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Flashcards
 
 * [Anki ![GitHub stars](https://img.shields.io/github/stars/dae/anki.svg)](https://github.com/dae/anki) Anki is a program to make and share flaschard decks (including audio) for any language or writing system. https://apps.ankiweb.net/
-* [flashfork](https://github.com/sillsdev/flashfork) An Anki addon for copying decks of flashcards, with or without also copying their note types.
-* [flashgrab](https://github.com/sillsdev/flashgrab) An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]
+* [flashfork ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashfork.svg)](https://github.com/sillsdev/flashfork) An Anki addon for copying decks of flashcards, with or without also copying their note types.
+* [flashgrab ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashgrab.svg)](https://github.com/sillsdev/flashgrab) An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]
 * [flashgrid ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashgrid.svg](https://github.com/sillsdev/flashgrid) An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
 * [VocabLift ![GitHub stars](https://img.shields.io/github/stars/somelinguist/VocabLift.svg](https://github.com/somelinguist/VocabLift) Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
@@ -360,8 +360,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [hailo ![GitHub stars](https://img.shields.io/github/stars/FieldDB/hailo.svg)](https://github.com/FieldDB/hailo)  A conversation bot using Markov chains
 * [ngram-natural-language-generator ![GitHub stars](https://img.shields.io/github/stars/cesine/ngram-natural-language-generator.svg)](https://github.com/cesine/ngram-natural-language-generator)  Takes in a text file and generates random sentences that sound like they could have been in the file
-* [OpenCCG ![GitHub starts](https://img.shields.io/github/stars/OpenCCG/openccg.svg)](https://github.com/OpenCCG/openccg) OpenCCG library for parsing and realization with CCG. Includes mini-grammars for Inuit, Nezperce, Basque and others.
-* [SimpleNLG ![GitHub starts](https://img.shields.io/github/stars/simplenlg/simplenlg.svg)](https://github.com/simplenlg/simplenlg) SimpleNLG is a simple Java API designed to facilitate the generation of Natural Language. It was originally developed at the University of Aberdeen's Department of Computing Science. English at this moment but there exist forks in French and German.
+* [OpenCCG ![GitHub starts](https://img.shields.io/github/stars/OpenCCG/openccg.svg) ![GitHub stars](https://img.shields.io/github/stars/OpenCCG/openccg.svg)](https://github.com/OpenCCG/openccg) OpenCCG library for parsing and realization with CCG. Includes mini-grammars for Inuit, Nezperce, Basque and others.
+* [SimpleNLG ![GitHub starts](https://img.shields.io/github/stars/simplenlg/simplenlg.svg) ![GitHub stars](https://img.shields.io/github/stars/simplenlg/simplenlg.svg)](https://github.com/simplenlg/simplenlg) SimpleNLG is a simple Java API designed to facilitate the generation of Natural Language. It was originally developed at the University of Aberdeen's Department of Computing Science. English at this moment but there exist forks in French and German.
 * See more at [Downloadable NLG systems](http://aclweb.org/aclwiki/index.php?title=Downloadable_NLG_systems) at the ACL Wiki. Of particular interest there might be the [List of resources by language](http://aclweb.org/aclwiki/index.php?title=List_of_resources_by_language) at the wiki.
 
 # Computing systems
@@ -371,15 +371,15 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Android Applications
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation
-* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
+* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg) ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
 * [AndroidLanguageLessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLessons.svg)](https://github.com/FieldDB/AndroidLanguageLessons)  Lets heritage speakers create self designed language lessons. https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
 * [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg)](https://github.com/FieldDB/AndroidProductionExperiment)  Android App to run perception experiments
 * [Bevara ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/bevara.svg)](https://github.com/KentonMurray/bevara)  Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz ![GitHub stars](https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg)](https://github.com/ojovoz/ojoVoz_mobile)  A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/
-* [pocketsphinx-android-demo](https://github.com/cmusphinx/pocketsphinx-android-demo)
-* [pocketsphinx-android](https://github.com/cmusphinx/pocketsphinx-android) pocketsphinx build for Android
+* [pocketsphinx-android-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-android-demo.svg)](https://github.com/cmusphinx/pocketsphinx-android-demo)
+* [pocketsphinx-android ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-android.svg)](https://github.com/cmusphinx/pocketsphinx-android) pocketsphinx build for Android
 * [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
 
 # Chrome Extensions
@@ -436,8 +436,8 @@ _These are repositories that are generally only interesting for training purpose
 
 # Fonts
 
-* [fontinline](https://github.com/sillsdev/fontinline) Make inline stroke paths from an outline font
-* [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
+* [fontinline ![GitHub stars](https://img.shields.io/github/stars/sillsdev/fontinline.svg)](https://github.com/sillsdev/fontinline) Make inline stroke paths from an outline font
+* [Noto Fonts ![GitHub stars](https://img.shields.io/github/stars/googlei18n/noto-fonts.svg)](https://github.com/googlei18n/noto-fonts) Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
 * [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
 
 # Corpora
@@ -451,22 +451,22 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 ## On GitHub
 
-* [batumi](https://github.com/batumi) - Speech recognition and natural language processing for low-resource languages
-* [BloomBooks](https://github.com/BloomBooks) 
-* [cmusphinx](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
-* [dativebase](https://github.com/dativebase) - Tools for working with OLD.
-* [FieldDB](https://github.com/FieldDB)
-* [lex4all](https://github.com/lex4all)
-* [longnow](https://github.com/longnow)
-* [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
-* [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit
-* [PhonologicalCorpusTools](https://github.com/PhonologicalCorpusTools)
-* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
-* [SIL International (Dev)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
-* [SIL International](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
-* [SIL NRSI](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
-* [StanfordNLP](https://github.com/stanfordnlp) https://nlp.stanford.edu
-* [utcompling](https://github.com/utcompling) - The University of Texas at Austin's Computational Linguistics Lab. [Website](http://www.utcompling.com).
+* [batumi ![GitHub stars](https://img.shields.io/github/stars/batumi.svg)](https://github.com/batumi) - Speech recognition and natural language processing for low-resource languages
+* [BloomBooks ![GitHub stars](https://img.shields.io/github/stars/BloomBooks.svg)](https://github.com/BloomBooks) 
+* [cmusphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx.svg)](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
+* [dativebase ![GitHub stars](https://img.shields.io/github/stars/dativebase.svg)](https://github.com/dativebase) - Tools for working with OLD.
+* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB.svg)](https://github.com/FieldDB)
+* [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all.svg)](https://github.com/lex4all)
+* [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow.svg)](https://github.com/longnow)
+* [moses-smt ![GitHub stars](https://img.shields.io/github/stars/moses-smt.svg)](https://github.com/moses-smt) - Statistical Machine Translation.
+* [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk) - Natural Language Toolkit
+* [PhonologicalCorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools.svg)](https://github.com/PhonologicalCorpusTools)
+* [Projet de recherche sur l'écriture ![GitHub stars](https://img.shields.io/github/stars/projetDeRechercheSurLecriture/.svg)](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics)
+* [SIL International (Dev) ![GitHub stars](https://img.shields.io/github/stars/sillsdev.svg)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
+* [SIL International ![GitHub stars](https://img.shields.io/github/stars/silinternational.svg)](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL NRSI ![GitHub stars](https://img.shields.io/github/stars/silnrsi.svg)](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+* [StanfordNLP ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp.svg)](https://github.com/stanfordnlp) https://nlp.stanford.edu
+* [utcompling ![GitHub stars](https://img.shields.io/github/stars/utcompling.svg)](https://github.com/utcompling) - The University of Texas at Austin's Computational Linguistics Lab. [Website](http://www.utcompling.com).
 
 ## Other OSS Organisations
 
@@ -515,24 +515,24 @@ _nya :: chicheŵa_
 
 _est :: eesti keel_
 
-* [et-pocketsphinx-tutorial](https://github.com/alumae/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
-* [Inimesed](https://github.com/Kaljurand/Inimesed) An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
-* [Kõnele](https://github.com/Kaljurand/K6nele) Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
+* [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/alumae/et-pocketsphinx-tutorial.svg)](https://github.com/alumae/et-pocketsphinx-tutorial) Tutorial of Estonian speech recognition using PocketSphinx
+* [Inimesed ![GitHub stars](https://img.shields.io/github/stars/Kaljurand/Inimesed.svg)](https://github.com/Kaljurand/Inimesed) An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/
+* [Kõnele ![GitHub stars](https://img.shields.io/github/stars/Kaljurand/K6nele.svg)](https://github.com/Kaljurand/K6nele) Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/
 
 ## Georgian
 
 _kat :: ქართული_
 
-* [awesome-georgia](https://github.com/Stichoza/awesome-georgia) A curated list of awesome libraries and packages specific/related to Georgia (country).
-* [Gadatsqvetilebebi](https://github.com/batumi/Gadatsqvetilebebi) გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
-* [GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) Around 310 000 unique Georgian words https://bumbeishvili.github.io/GeoWordsDatabase/
-* [Kartuli Speech Recognition](https://github.com/batumi/KartuliSpeechRecognition) ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა. Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. [use](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja) "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
-* [KartuliChromeExtension](https://github.com/batumi/KartuliChromeExtension) Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
-* [QartuliDaBunebismetkveleba](https://github.com/aiSaba/QartuliDaBunebismetkveleba) მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
-* [SakartvelosUzenaesiSasamartloSarke](https://github.com/batumi/SakartvelosUzenaesiSasamartloSarke) საქართველოს უზენაესი სასამართლო სარკე
-* [SamartlosSakonstitutsioSasamartdoSarke](https://github.com/batumi/SamartlosSakonstitutsioSasamartdoSarke) სამართლოს საკონსტიტუციო სასამართდო სარკე
-* [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
-* [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+* [awesome-georgia ![GitHub stars](https://img.shields.io/github/stars/Stichoza/awesome-georgia.svg)](https://github.com/Stichoza/awesome-georgia) A curated list of awesome libraries and packages specific/related to Georgia (country).
+* [Gadatsqvetilebebi ![GitHub stars](https://img.shields.io/github/stars/batumi/Gadatsqvetilebebi.svg)](https://github.com/batumi/Gadatsqvetilebebi) გადაწყვეტილებები; Web spider and corpora importer for public legal decisions
+* [GeoWordsDatabase ![GitHub stars](https://img.shields.io/github/stars/bumbeishvili/GeoWordsDatabase.svg)](https://github.com/bumbeishvili/GeoWordsDatabase) Around 310 000 unique Georgian words https://bumbeishvili.github.io/GeoWordsDatabase/
+* [Kartuli Speech Recognition ![GitHub stars](https://img.shields.io/github/stars/batumi/KartuliSpeechRecognition.svg)](https://github.com/batumi/KartuliSpeechRecognition) ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა. Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. [use](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja) "Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes."
+* [KartuliChromeExtension ![GitHub stars](https://img.shields.io/github/stars/batumi/KartuliChromeExtension.svg)](https://github.com/batumi/KartuliChromeExtension) Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად
+* [QartuliDaBunebismetkveleba ![GitHub stars](https://img.shields.io/github/stars/aiSaba/QartuliDaBunebismetkveleba.svg)](https://github.com/aiSaba/QartuliDaBunebismetkveleba) მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.
+* [SakartvelosUzenaesiSasamartloSarke ![GitHub stars](https://img.shields.io/github/stars/batumi/SakartvelosUzenaesiSasamartloSarke.svg)](https://github.com/batumi/SakartvelosUzenaesiSasamartloSarke) საქართველოს უზენაესი სასამართლო სარკე
+* [SamartlosSakonstitutsioSasamartdoSarke ![GitHub stars](https://img.shields.io/github/stars/batumi/SamartlosSakonstitutsioSasamartdoSarke.svg)](https://github.com/batumi/SamartlosSakonstitutsioSasamartdoSarke) სამართლოს საკონსტიტუციო სასამართდო სარკე
+* [translitit-latin-to-mkhedruli-georgian ![GitHub stars](https://img.shields.io/github/stars/batumi/translitit-latin-to-mkhedruli-georgian.svg)](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian)  A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
+* [translitit-mkhedruli-georgian-to-ipa ![GitHub stars](https://img.shields.io/github/stars/batumi/translitit-mkhedruli-georgian-to-ipa.svg)](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript
 
 ### Fonts
 
@@ -542,17 +542,17 @@ _kat :: ქართული_
 
 ### Internationalization and Localization (i18n/l10n)
 
-* [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) Convert a number/money to localized string (PHP, JavaScript).
-* [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) Convert numbers to localized strings (JavaScript).
-* [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) Convert numbers to localized strings (PHP).
-* [dimakura/ka](https://github.com/dimakura/ka) Common functionality for georgian projects (Ruby).
-* [dimakura/ka.js](https://github.com/dimakura/ka.js) Georgian language support for node and browser (JavaScript).
-* [akalongman/kautilities](https://github.com/akalongman/kautilities) Convert Georgian letters to Latin and vice-versa (PHP).
-* [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) [Laravel](https://laravel.com/) Georgian Language Pack.
-* [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
-* [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-* [moment/moment](https://github.com/moment/moment) A lightweight date library (JavaScript).
-* [ioseb/geokbd](https://github.com/ioseb/geokbd) Georgian keyboard library (JavaScript).
+* [Stichoza/money-num-to-string ![GitHub stars](https://img.shields.io/github/stars/Stichoza/money-num-to-string.svg)](https://github.com/Stichoza/money-num-to-string) Convert a number/money to localized string (PHP, JavaScript).
+* [natchkebiailia/NumberToWord ![GitHub stars](https://img.shields.io/github/stars/natchkebiailia/NumberToWord.svg)](https://github.com/natchkebiailia/NumberToWord) Convert numbers to localized strings (JavaScript).
+* [d0ragon/number-to-words-ka ![GitHub stars](https://img.shields.io/github/stars/d0ragon/number-to-words-ka.svg)](https://github.com/d0ragon/number-to-words-ka) Convert numbers to localized strings (PHP).
+* [dimakura/ka ![GitHub stars](https://img.shields.io/github/stars/dimakura/ka.svg)](https://github.com/dimakura/ka) Common functionality for georgian projects (Ruby).
+* [dimakura/ka.js ![GitHub stars](https://img.shields.io/github/stars/dimakura/ka.js.svg)](https://github.com/dimakura/ka.js) Georgian language support for node and browser (JavaScript).
+* [akalongman/kautilities ![GitHub stars](https://img.shields.io/github/stars/akalongman/kautilities.svg)](https://github.com/akalongman/kautilities) Convert Georgian letters to Latin and vice-versa (PHP).
+* [Landish/Laravel-Ka ![GitHub stars](https://img.shields.io/github/stars/Landish/Laravel-KA.svg)](https://github.com/Landish/Laravel-KA) [Laravel](https://laravel.com/) Georgian Language Pack.
+* [Landish/RedactorJS-GE ![GitHub stars](https://img.shields.io/github/stars/Landish/RedactorJS-GE.svg)](https://github.com/Landish/RedactorJS-GE) Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+* [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza ![GitHub stars](https://img.shields.io/github/stars/Stichoza.svg)](https://github.com/Stichoza).
+* [moment/moment ![GitHub stars](https://img.shields.io/github/stars/moment/moment.svg)](https://github.com/moment/moment) A lightweight date library (JavaScript).
+* [ioseb/geokbd ![GitHub stars](https://img.shields.io/github/stars/ioseb/geokbd.svg)](https://github.com/ioseb/geokbd) Georgian keyboard library (JavaScript).
 
 ## Guarani
 
@@ -582,8 +582,8 @@ _nno :: Høgnorsk_
 
 _iku :: Inuktitut_
 
-* [InuktitutAlignerData](https://github.com/cmesher/InuktitutAlignerData) Scripts for alignment of laboratory speech production data
-* [InuktitutComputing](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
+* [InuktitutAlignerData ![GitHub stars](https://img.shields.io/github/stars/cmesher/InuktitutAlignerData.svg)](https://github.com/cmesher/InuktitutAlignerData) Scripts for alignment of laboratory speech production data
+* [InuktitutComputing ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/InuktitutComputing.svg)](https://github.com/LowResourceLanguages/InuktitutComputing) Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php
 
 ## Irish
 
@@ -628,7 +628,7 @@ _lin :: Lingála_
 
 _lut :: Lushootseed_
 
-* [Lushootseed](https://github.com/LowResourceLanguages/lushootseed) Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
+* [Lushootseed ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/lushootseed.svg)](https://github.com/LowResourceLanguages/lushootseed) Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/
 
 ## Malay
 
@@ -644,8 +644,8 @@ _mlg :: Malagasy_
 
 _glv :: Gaelg_
 
-* [aspell-gv](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
-* [gaelg](https://github.com/kscanne/gaelg) NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine
+* [aspell-gv ![GitHub stars](https://img.shields.io/github/stars/pld-linux/aspell-gv.svg)](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
+* [gaelg ![GitHub stars](https://img.shields.io/github/stars/kscanne/gaelg.svg)](https://github.com/kscanne/gaelg) NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine
 
 ## Migmaq
 
@@ -661,8 +661,8 @@ _mic :: Mi'kmaq_
 
 _oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ_
 
-* [Ojibway-iphone-app](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language.
-* [OjibwayMap](https://github.com/LowResourceLanguages/OjibwayMap) An iPhone app with audio and images for learning Ojibway language and culture.
+* [Ojibway-iphone-app ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/Ojibway-iphone-app.svg)](https://github.com/LowResourceLanguages/Ojibway-iphone-app) An iPhone app with audio and images for learning the Ojibway language.
+* [OjibwayMap ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/OjibwayMap.svg)](https://github.com/LowResourceLanguages/OjibwayMap) An iPhone app with audio and images for learning Ojibway language and culture.
 * [nishanimate ![GitHub stars](https://img.shields.io/github/stars/jpmontano/nishanimate.svg)](https://github.com/jpmontano/nishanimate)  A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.
 
 ## Oromo
@@ -698,11 +698,11 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 _gla :: Gàidhlig_
 
-* [aspell-gd](https://github.com/pld-linux/aspell-gd) Scottish Gaelic dictionary for aspell
-* [briathrachan](https://github.com/tobiasbayer/briathrachan) This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.
-* [gaidhlig](https://github.com/kscanne/gaidhlig) NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines
-* [gd-fcfg](https://github.com/wojtekdz/gd-fcfg) Context-free feature-based grammar of Scottish Gaelic in the NLTK format
-* [gdbank](https://github.com/colinbatchelor/gdbank) Some tools and resources for natural language processing of Scottish Gaelic. http://www.tantallon.org.uk/cggblog/
+* [aspell-gd ![GitHub stars](https://img.shields.io/github/stars/pld-linux/aspell-gd.svg)](https://github.com/pld-linux/aspell-gd) Scottish Gaelic dictionary for aspell
+* [briathrachan ![GitHub stars](https://img.shields.io/github/stars/tobiasbayer/briathrachan.svg)](https://github.com/tobiasbayer/briathrachan) This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.
+* [gaidhlig ![GitHub stars](https://img.shields.io/github/stars/kscanne/gaidhlig.svg)](https://github.com/kscanne/gaidhlig) NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines
+* [gd-fcfg ![GitHub stars](https://img.shields.io/github/stars/wojtekdz/gd-fcfg.svg)](https://github.com/wojtekdz/gd-fcfg) Context-free feature-based grammar of Scottish Gaelic in the NLTK format
+* [gdbank ![GitHub stars](https://img.shields.io/github/stars/colinbatchelor/gdbank.svg)](https://github.com/colinbatchelor/gdbank) Some tools and resources for natural language processing of Scottish Gaelic. http://www.tantallon.org.uk/cggblog/
 * [hunspell-gd ![GitHub stars](https://img.shields.io/github/stars/kscanne/hunspell-gd.svg)](https://github.com/kscanne/hunspell-gd)  Files for building Scottish Gaelic spell checkers
 
 ## Secwepemctsín
