@@ -124,6 +124,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
 ## Software
+* [4lang ![GitHub stars](https://img.shields.io/github/stars/kornai/4lang.svg)](https://github.com/kornai/4lang) - Concept dictionary using Eilenberg machines.
 * [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
 * [alignment-with-openfst ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/alignment-with-openfst.svg)](https://github.com/ldmt-muri/alignment-with-openfst) - This is an implementation of the CRF autoencoder framework for four tasks: bitext word alignment, part-of-speech tagging, code switching, dependency parsing.
 * [ANNIS](http://www.sfb632.uni-potsdam.de/annis/index.html) Search and Visualization in Multilayer Linguistic Corpora
@@ -175,7 +176,9 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [grind ![GitHub stars](https://img.shields.io/github/stars/sillsdev/grind.svg)](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab ![GitHub stars](https://img.shields.io/github/stars/sillsdev/hermitcrab.svg)](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
 * [Hfst ![GitHub stars](https://img.shields.io/github/stars/hfst/.svg)](https://github.com/hfst/) Helsinki Finite-State Technology - a set of command-line tools to work with finite state transducers. Is heavily used by the Giella infrastructure (see Divvun and Giellatekno under Sami further down)
+* [hundict ![GitHub stars](https://img.shields.io/github/stars/zseder/hundict.svg)](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora.
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell/hunspell.svg)](https://github.com/hunspell/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
+* [huntag ![GitHub stars](https://img.shields.io/github/stars/recski/HunTag/.svg)](https://github.com/recski/HunTag/) - a sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models.
 * [icu-dotnet ![GitHub stars](https://img.shields.io/github/stars/sillsdev/icu-dotnet.svg)](https://github.com/sillsdev/icu-dotnet) C# wrapper for ICU4C
 * [icu4c ![GitHub stars](https://img.shields.io/github/stars/sillsdev/icu4c.svg)](https://github.com/sillsdev/icu4c) Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.
 * [iLanguage ![GitHub stars](https://img.shields.io/github/stars/iLanguage/iLanguage.svg)](https://github.com/iLanguage/iLanguage) A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.
@@ -266,6 +269,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench3) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
 * [wavesurfer.js ![GitHub stars](https://img.shields.io/github/stars/katspaugh/wavesurfer.js.svg)](https://github.com/katspaugh/wavesurfer.js)  Navigable waveform built on Web Audio and Canvas https://wavesurfer-js.org/ (Also has an ELAN plugin)
 * [web-scriptureforge ![GitHub stars](https://img.shields.io/github/stars/sillsdev/web-scriptureforge.svg)](https://github.com/sillsdev/web-scriptureforge) platform for Scripture-related web apps
+* [webcorpus ![GitHub stars](https://img.shields.io/github/stars/zseder/webcorpus.svg)](https://github.com/zseder/webcorpus) - This project is a collection of scripts and programs for creating a webcorpus from crawled data. 
+* [wikt2dict ![GitHub stars](https://img.shields.io/github/stars/juditacs/wikt2dict.svg)](https://github.com/juditacs/wikt2dict) - Wiktionary parser tool for many language editions.
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary ![GitHub stars](https://img.shields.io/github/stars/eddersko/WordBoundary.svg)](https://github.com/eddersko/WordBoundary)  An experiment in the detection and segmentation of word boundaries
 * [wordbyword ![GitHub stars](https://img.shields.io/github/stars/cidles/wordbyword.svg)](https://github.com/cidles/wordbyword)  WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
@@ -292,6 +297,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [dlx-spec ![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/dlx-spec.svg)](https://github.com/digitallinguistics/spec) The official specification for the DLx linguistic data format. http://developer.digitallinguistics.io/spec/
 * [FoLiA ![GitHub stars](https://img.shields.io/github/stars/proycon/folio.svg)](https://github.com/proycon/folia/) FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/
+* [xdxf_makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict) - XDXF dictionary format and "makedict" dictionary converting software (official repository).
 
 # i18n-related Repositories
 
