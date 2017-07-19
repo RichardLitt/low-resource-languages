@@ -57,6 +57,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 - [Organizations](#organizations)
   - [On GitHub](#on-github)
   - [Other OSS Organisations](#other-oss-organisations)
+- [Tutorials](#tutorials)
 - [Language Specific Projects](#language-specific-projects)
   - [Albanian](#albanian)
   - [Amharic](#amharic)
@@ -479,6 +480,10 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 * [LTRC: Language Technologies Research Center IIIT Hyderabad](http://ltrc.iiit.ac.in/) LTRC addresses the complex problem of understanding and processing natural languages in both speech and text mode. LTRC conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South Asia. LTRC carries out its work through four labs, which work in synergy with each other, as listed above.
 * [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
+
+# Tutorials
+
+* [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) by [Peter Norvig](http://norvig.com/).
 
 # Language Specific Projects
 
