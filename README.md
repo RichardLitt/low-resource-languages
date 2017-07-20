@@ -60,6 +60,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 - [Tutorials](#tutorials)
 - [Language Specific Projects](#language-specific-projects)
   - [Albanian](#albanian)
+  - [Alutiiq](#alutiiq)
   - [Amharic](#amharic)
   - [Arabic](#arabic)
   - [Bengali](#bengali)
@@ -492,6 +493,12 @@ These corpora are useful for working with tools on endangered languages. Monolin
 _sqi :: shqip_
 
 * [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg)](https://github.com/substack/out-of-copyright-albanian-authors) authors scraped from the albanian language wikipedia who are out of copyright
+
+## Alutiiq
+
+_ems :: sugpiaq_
+
+* [wiinaq ![GitHub stars](https://img.shields.io/github/stars/futurulus/wiinaq.svg)](https://github.com/futurulus/wiinaq) - Word Wiinaq is a [Kodiak Alutiiq](http://www.alutiiqlanguage.org/) dictionary web application with automatically generated ending tables and souped-up search capabilities. It is written in Python using Django.
 
 ## Amharic
 
