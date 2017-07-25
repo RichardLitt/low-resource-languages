@@ -177,7 +177,9 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Gramadóir ![GitHub stars](https://img.shields.io/github/stars/kscanne/gramadoir.svg)](https://github.com/kscanne/gramadoir) Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind ![GitHub stars](https://img.shields.io/github/stars/sillsdev/grind.svg)](https://github.com/sillsdev/grind) An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab ![GitHub stars](https://img.shields.io/github/stars/sillsdev/hermitcrab.svg)](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
-* [Hfst ![GitHub stars](https://img.shields.io/github/stars/hfst/.svg)](https://github.com/hfst/) Helsinki Finite-State Technology - a set of command-line tools to work with finite state transducers. Is heavily used by the Giella infrastructure (see Divvun and Giellatekno under Sami further down)
+* [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst/.svg)](https://github.com/hfst/) - This package contains a bridging library for multiple FST libraries and toolkits and set of tools for processing of finite-state automate especially for linguistic systems.
+* [hfst-ospell ![GitHub stars](https://img.shields.io/github/stars/hfst/hfst-ospell.svg)](https://github.com/hfst/hfst-ospell) - HFST spell checker library and command line tool.
+* [hfst-optimized-lookup ![GitHub stars](https://img.shields.io/github/stars/hfst/hfst-optimized-lookup.svg)](https://github.com/hfst/hfst-optimized-lookup) - HFST optimized-lookup standalone library and command line tool.
 * [hundict ![GitHub stars](https://img.shields.io/github/stars/zseder/hundict.svg)](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora.
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell/hunspell.svg)](https://github.com/hunspell/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
 * [huntag ![GitHub stars](https://img.shields.io/github/stars/recski/HunTag/.svg)](https://github.com/recski/HunTag/) - a sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models.
@@ -465,6 +467,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [cmusphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx.svg)](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
 * [dativebase ![GitHub stars](https://img.shields.io/github/stars/dativebase.svg)](https://github.com/dativebase) - Tools for working with OLD.
 * [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB.svg)](https://github.com/FieldDB)
+* [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst.svg)](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all.svg)](https://github.com/lex4all)
 * [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow.svg)](https://github.com/longnow)
 * [moses-smt ![GitHub stars](https://img.shields.io/github/stars/moses-smt.svg)](https://github.com/moses-smt) - Statistical Machine Translation.
