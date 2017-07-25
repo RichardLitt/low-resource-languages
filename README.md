@@ -215,6 +215,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [morpholm ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/morpholm.svg)](https://github.com/ldmt-muri/morpholm) Morphology-aware language models.
 * [mosesdecoder ![GitHub stars](https://img.shields.io/github/stars/moses-smt/mosesdecoder.svg)](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
+* [mythes ![GitHub stars](https://img.shields.io/github/stars/hunspell/mythes.svg)](https://github.com/hunspell/mythes) - MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.
 * [myWorkSafe ![GitHub stars](https://img.shields.io/github/stars/sillsdev/myWorkSafe.svg)](https://github.com/sillsdev/myWorkSafe) Smart & Simple Backup for Language Development Workers http://myWorkSafe.palaso.org
 * [Natural ![GitHub stars](https://img.shields.io/github/stars/NaturalNode/natural.svg)](https://github.com/NaturalNode/natural)  *Javascript* general natural language facilities for node
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
@@ -468,6 +469,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [dativebase ![GitHub stars](https://img.shields.io/github/stars/dativebase.svg)](https://github.com/dativebase) - Tools for working with OLD.
 * [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB.svg)](https://github.com/FieldDB)
 * [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst.svg)](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
+* [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell.svg)](https://github.com/hunspell)
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all.svg)](https://github.com/lex4all)
 * [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow.svg)](https://github.com/longnow)
 * [moses-smt ![GitHub stars](https://img.shields.io/github/stars/moses-smt.svg)](https://github.com/moses-smt) - Statistical Machine Translation.
