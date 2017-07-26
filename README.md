@@ -159,6 +159,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Desmeme ![GitHub stars](https://img.shields.io/github/stars/jcgood/desmeme.svg)](https://github.com/jcgood/desmeme)  Database and tools for exploring linguistic templates
 * [dictdb ![GitHub stars](https://img.shields.io/github/stars/substack/dictdb.svg)](https://github.com/substack/dictdb)  dictionary database for language translation
 * [discoursegraphs ![GitHub stars](https://img.shields.io/github/stars/arne-cl/discoursegraphs.svg)](https://github.com/arne-cl/discoursegraphs)  Python-based tool to convert and merge multilayer annotated linguistic data
+* [divvun-suggest ![GitHub stars](https://img.shields.io/github/stars/divvun/divvun-suggest.svg)](https://github.com/divvun/divvun-suggest) - This program does FST lookup on forms specified as Constraint Grammar format readings, and looks up error-tags in an XML file with human-readable messages. It is meant to be used as a late stage of a grammar checker pipeline.
 * [DLTK ![GitHub stars](https://img.shields.io/github/stars/alvations/DLTK.svg)](https://github.com/alvations/DLTK)  Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html)
 * [ELDER: Endangered Language Data Electronic Repository ![GitHub stars](https://img.shields.io/github/stars/elderonline/ELDER.svg)](https://github.com/elderonline/ELDER)  Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [EMMA](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#eval) A Novel Evaluation Metric for Morphological Analysis
@@ -171,6 +172,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [FwLocalizations ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FwLocalizations.svg)](https://github.com/sillsdev/FwLocalizations) Localizations for FieldWorks
 * [FwSupportTools ![GitHub stars](https://img.shields.io/github/stars/sillsdev/FwSupportTools.svg)](https://github.com/sillsdev/FwSupportTools) Additional tools for FieldWorks development
 * [Gaia ![GitHub stars](https://img.shields.io/github/stars/mozilla-b2g/gaia.svg)](https://github.com/mozilla-b2g/gaia)  Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
+* [giellakbd-ios ![GitHub stars](https://img.shields.io/github/stars/divvun/giellakbd-ios.svg)](https://github.com/divvun/giellakbd-ios) - An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards.
+* [giella-ime ![GitHub stars](https://img.shields.io/github/stars/divvun/giella-ime.svg)](https://github.com/divvun/giella-ime) - A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems.
 * [giza-pp ![GitHub stars](https://img.shields.io/github/stars/moses-smt/giza-pp.svg)](https://github.com/moses-smt/giza-pp) GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [gv-crawl ![GitHub stars](https://img.shields.io/github/stars/vchahun/gv-crawl.svg)](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
 * [Glottolog data ![GitHub stars](https://img.shields.io/github/stars/clld/glottolog-data.svg)](https://github.com/clld/glottolog-data)  [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
@@ -179,6 +182,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [hermitcrab ![GitHub stars](https://img.shields.io/github/stars/sillsdev/hermitcrab.svg)](https://github.com/sillsdev/hermitcrab) HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
 * [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst/.svg)](https://github.com/hfst/) - This package contains a bridging library for multiple FST libraries and toolkits and set of tools for processing of finite-state automate especially for linguistic systems.
 * [hfst-ospell ![GitHub stars](https://img.shields.io/github/stars/hfst/hfst-ospell.svg)](https://github.com/hfst/hfst-ospell) - HFST spell checker library and command line tool.
+* [hfst-ospell-js ![GitHub stars](https://img.shields.io/github/stars/divvun/hfst-ospell-js.svg)](https://github.com/divvun/hfst-ospell-js) - Node bindings for hfst-ospell.
 * [hfst-optimized-lookup ![GitHub stars](https://img.shields.io/github/stars/hfst/hfst-optimized-lookup.svg)](https://github.com/hfst/hfst-optimized-lookup) - HFST optimized-lookup standalone library and command line tool.
 * [hundict ![GitHub stars](https://img.shields.io/github/stars/zseder/hundict.svg)](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora.
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell/hunspell.svg)](https://github.com/hunspell/hunspell) Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding
@@ -189,6 +193,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [ipa-help ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ipa-help.svg)](https://github.com/sillsdev/ipa-help) IPA Helps
 * [itweets-geodata ![GitHub stars](https://img.shields.io/github/stars/kscanne/itweets-geodata.svg)](https://github.com/kscanne/itweets-geodata)  Geodata from Indigenous Tweets
 * [jQuery.ime  ![GitHub stars](https://img.shields.io/github/stars/wikimedia/jquery.ime.svg)](https://github.com/wikimedia/jquery.ime) jQuery based input methods library
+* [kbdgen ![GitHub stars](https://img.shields.io/github/stars/divvun/kbdgen.svg)](https://github.com/divvun/kbdgen) - Generate keyboards and keyboard layouts for various operating systems.
 * [koreksyon ![GitHub stars](https://img.shields.io/github/stars/reokatoa/koreksyon.svg)](https://github.com/reokatoa/koreksyon)  Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages
 * [l20n.js ![GitHub stars](https://img.shields.io/github/stars/l20n/l20n.js.svg)](https://github.com/l20n/l20n.js)  L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org
 * [langid.py ![GitHub stars](https://img.shields.io/github/stars/saffsd/langid.py.svg)](https://github.com/saffsd/langid.py) Stand-alone language identification system.
@@ -205,6 +210,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [long-press ![GitHub stars](https://img.shields.io/github/stars/quentint/long-press.svg)](https://github.com/quentint/long-press) jQuery plugin to ease the writing of accented or rare characters. http://toki-woki.net/lab/long-press
 * [low-resource-pos-tagging-2014 ![GitHub stars](https://img.shields.io/github/stars/dhgarrette/low-resource-pos-tagging-2014.svg)](https://github.com/dhgarrette/low-resource-pos-tagging-2014/) Low-Resource POS-Tagging: 2014
 * [lrl ![GitHub stars](https://img.shields.io/github/stars/RichardLitt/lrl.svg)](https://github.com/RichardLitt/lrl)  For work concerning low resource languages.
+* [MacVoikko ![GitHub stars](https://img.shields.io/github/stars/roguePanda/MacVoikko.svg)](https://github.com/roguePanda/MacVoikko) - An OS X spelling server based on Voikko.
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine)  Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx)
 * [Make-extensions ![GitHub stars](https://img.shields.io/github/stars/kscanne/make-extensions.svg)](https://github.com/kscanne/make-extensions)  Scripts for generating hunspell spellchecking extensions
 * [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
@@ -213,6 +219,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
 * [morfessor ![GitHub stars](https://img.shields.io/github/stars/aalto-speech/morfessor.svg)](https://github.com/aalto-speech/morfessor)  Morfessor is a tool for unsupervised and semi-supervised morphological segmentation
 * [morpholm ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/morpholm.svg)](https://github.com/ldmt-muri/morpholm) Morphology-aware language models.
+* [morph-test ![GitHub stars](https://img.shields.io/github/stars/divvun/morph-test.svg)](https://github.com/divvun/morph-test) - A python script to run tests for generation and analysis of a morphological transducer built using the Giella infrastructure. Works with Hfst, Xerox' fst tools, and with Foma.
 * [mosesdecoder ![GitHub stars](https://img.shields.io/github/stars/moses-smt/mosesdecoder.svg)](https://github.com/moses-smt/mosesdecoder) Moses, the machine translation system
 * [moz-l10n-tiers ![GitHub stars](https://img.shields.io/github/stars/kscanne/moz-l10n-tiers.svg)](https://github.com/kscanne/moz-l10n-tiers)  Creates a pseudo-locale to evaluate string prioritization for l10n
 * [mythes ![GitHub stars](https://img.shields.io/github/stars/hunspell/mythes.svg)](https://github.com/hunspell/mythes) - MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.
@@ -227,6 +234,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [OdtXslt ![GitHub stars](https://img.shields.io/github/stars/sillsdev/OdtXslt.svg)](https://github.com/sillsdev/OdtXslt) Perform XSLT transform on contents of a package (such as ODT, Docx, etc.)
 * [old-webapp ![GitHub stars](https://img.shields.io/github/stars/jrwdunham/old-webapp.svg)](https://github.com/jrwdunham/old-webapp)  Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org
 * [old-pyramid ![GitHub stars](https://img.shields.io/github/stars/dativebase/old-pyramid.svg)](https://github.com/dativebase/old-pyramid) Online Linguistic Database migrated to the Pyramid framework.
+* [OmegaT-hfst-tokenizer ![GitHub stars](https://img.shields.io/github/stars/divvun/OmegaT-hfst-tokenizer.svg)](https://github.com/divvun/OmegaT-hfst-tokenizer) - OmegaT-hfst-tokenizer provides fst-based tokenisation in OmegaT.
 * [OpenDataKit](https://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [OpenNLP ![GitHub stars](https://img.shields.io/github/stars/apache/opennlp.svg)](https://github.com/apache/opennlp) The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [ops-devbox ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ops-devbox.svg)](https://github.com/sillsdev/ops-devbox) Ansible playbook for a (linux) developer machine
@@ -257,6 +265,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [str2ipa ![GitHub stars](https://img.shields.io/github/stars/ytsvetko/str2ipa.svg)](https://github.com/ytsvetko/str2ipa) Pronunciation dictionaries for languages with close-to-phonetic writing systems
 * [sugali ![GitHub stars](https://img.shields.io/github/stars/alvations/sugali.svg)](https://github.com/alvations/sugali)  This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
 * [SuGarLike ![GitHub stars](https://img.shields.io/github/stars/alvations/SuGarLike.svg)](https://github.com/alvations/SuGarLike)  Language Identification for Low Resource Languages (by Susanne, Guy and Liling)
+* [tasty-imitation-keyboard ![GitHub stars](https://img.shields.io/github/stars/divvun/tasty-imitation-keyboard.svg)](https://github.com/divvun/tasty-imitation-keyboard) - A custom keyboard for iOS8+ that serves as a tasty imitation of the default Apple keyboard. Built using Swift and the latest Apple technologies!
 * [teny ![GitHub stars](https://img.shields.io/github/stars/vchahun/teny.svg)](https://github.com/vchahun/teny) Tools for low-resource machine translation.
 * [TeraDict ![GitHub stars](https://img.shields.io/github/stars/longnow/TeraDict.svg)](https://github.com/longnow/TeraDict)  Translate English words into hundreds of languages!
 * [Tesseract.js ![GitHub stars](https://img.shields.io/github/stars/naptha/tesseract.js.svg)](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages 📖🎉🖥 http://tesseract.projectnaptha.com/
@@ -467,6 +476,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [BloomBooks ![GitHub stars](https://img.shields.io/github/stars/BloomBooks.svg)](https://github.com/BloomBooks) 
 * [cmusphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx.svg)](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
 * [dativebase ![GitHub stars](https://img.shields.io/github/stars/dativebase.svg)](https://github.com/dativebase) - Tools for working with OLD.
+* [divvun ![GitHub stars](https://img.shields.io/github/stars/divvun.svg)](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for minority languages, especially the Sámi languages. [Website](http://divvun.no).
 * [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB.svg)](https://github.com/FieldDB)
 * [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst.svg)](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
 * [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell.svg)](https://github.com/hunspell)
@@ -708,7 +718,7 @@ _que :: Runa Simi_
 
 _sma :: Sámi/Saami_
 
-* [Divvun](http://divvun.no/) Sámi proofing tools. This links to the documentation page, which explains how to access the svn repository.
+* [divvun-webdemo ![GitHub stars](https://img.shields.io/github/stars/divvun/divvun-webdemo.svg)](https://github.com/divvun/divvun-webdemo) - simple webdemo for divvun grammar checker. [Webite](https://gtweb.uit.no/gc).
 * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools.
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
