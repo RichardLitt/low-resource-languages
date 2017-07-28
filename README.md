@@ -335,7 +335,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg)](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
 * [node-pocketsphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/node-pocketsphinx.svg)](https://github.com/cmusphinx/node-pocketsphinx)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg)](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
-* [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg) ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
+* [pocketsphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg) ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg)](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 * [pocketsphinx-ios-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-ios-demo.svg)](https://github.com/cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS
 * [pocketsphinx-python ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-python.svg)](https://github.com/cmusphinx/pocketsphinx-python) Python module installed with setup.py
 * [pocketsphinx-ruby ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-ruby.svg)](https://github.com/cmusphinx/pocketsphinx-ruby) Ruby speech recognition with Pocketsphinx
@@ -393,7 +393,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Android Applications
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation
-* [Android Speech Recognition Trainer![GitHub Stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg) ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
+* [Android Speech Recognition Trainer![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg) ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
 * [AndroidLanguageLessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLessons.svg)](https://github.com/FieldDB/AndroidLanguageLessons)  Lets heritage speakers create self designed language lessons. https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
@@ -573,9 +573,9 @@ _kat :: ქართული_
 
 ### Fonts
 
-- [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
-- [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
-- [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+* [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+* [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
+* [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
 
 ### Internationalization and Localization (i18n/l10n)
 
