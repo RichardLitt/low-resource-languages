@@ -121,8 +121,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
-* [Template for Multilayered Language Learning Resources] (https://github.com/eddersko/web-template) This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
+* [web-template ![GitHub stars](https://img.shields.io/github/stars/eddersko/web-template.svg)](https://github.com/eddersko/web-template) This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
 ## Software
@@ -394,15 +394,15 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/langtech/aikuma.svg)](https://github.com/aikuma/aikuma)  Android software for recording and translation
 * [Android Speech Recognition Trainer![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg) ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) Speech recognition training app for low resource languages which interfaces with FieldDB corpora
+* [android-template ![GitHub stars](https://img.shields.io/github/stars/eddersko/android-template.svg)](https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB)  An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder)  A general purpose video recording tool
 * [AndroidLanguageLessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidLanguageLessons.svg)](https://github.com/FieldDB/AndroidLanguageLessons)  Lets heritage speakers create self designed language lessons. https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian
 * [AndroidProductionExperiment ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidProductionExperiment.svg)](https://github.com/FieldDB/AndroidProductionExperiment)  Android App to run perception experiments
 * [Bevara ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/bevara.svg)](https://github.com/KentonMurray/bevara)  Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz ![GitHub stars](https://img.shields.io/github/stars/ojovoz/ojoVoz_mobile.svg)](https://github.com/ojovoz/ojoVoz_mobile)  A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/
-* [pocketsphinx-android-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-android-demo.svg)](https://github.com/cmusphinx/pocketsphinx-android-demo)
 * [pocketsphinx-android ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-android.svg)](https://github.com/cmusphinx/pocketsphinx-android) pocketsphinx build for Android
-* [Template for Word-Learning App] (https://github.com/eddersko/android-template) This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/
+* [pocketsphinx-android-demo ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx-android-demo.svg)](https://github.com/cmusphinx/pocketsphinx-android-demo)
 
 # Chrome Extensions
 
@@ -573,9 +573,9 @@ _kat :: ქართული_
 
 ### Fonts
 
-* [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
-* [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
-* [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+* [Stichoza/font-larisome ![GitHub stars](https://img.shields.io/github/stars/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+* [Lotuashvili/BPGNateli ![GitHub stars](https://img.shields.io/github/stars/Lotuashvili/BPGNateli.svg)](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
+* [thecotne/georgian-webfonts ![GitHub stars](https://img.shields.io/github/stars/thecotne/georgian-webfonts.svg)](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
 
 ### Internationalization and Localization (i18n/l10n)
 
