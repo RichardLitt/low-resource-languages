@@ -18,7 +18,7 @@ To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/
 
 There are more details on contributing in the [CONTRIBUTING](CONTRIBUTING.md) guide.
 
-If you're interested in discussing the list in some offline capacity, get in touch with @RichardLitt. I'd be more than happy to have a phone call or email exchange.
+If you're interested in discussing the list in some offline capacity, get in touch with [@RichardLitt](https://github.com/RichardLitt). I'd be more than happy to have a phone call or email exchange.
 
 # Table of Contents
 
