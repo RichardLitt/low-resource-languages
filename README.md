@@ -770,6 +770,12 @@ _tir :: ትግርኛ_
 
 * [HornMorpho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology)  morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
+## Yiddish
+
+_yid :: yidish_
+
+* [Espeek](https://bitbucket.org/linguistlist/espeak_yid) - This is a first version of an Espeak module for Yiddish.
+
 ## Zulu
 
 _zul :: zulu_
