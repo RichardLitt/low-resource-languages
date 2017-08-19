@@ -24,7 +24,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc ![GitHub stars](https://img.shields.io/github/stars/thlorenz/doctoc.svg)](https://github.com/thlorenz/doctoc) - *.
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Definitions](#definitions)
 - [Generic Repositories](#generic-repositories)
@@ -104,7 +104,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
 
 Regarding the name, _Endangered Languages_ may not be the best term, as many low resource languages are not necessarily endangered. But this term is the most accessible to the widest amount of people. _Low Resource Languages_ would also suit this list.
 
-Looking for resources for code languages? Take a look at [the awesome lists collection ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg)](https://github.com/sindresorhus/awesome) - .
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
 
 # Generic Repositories
 
@@ -319,7 +319,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 # Format Specifications
 
-* [dlx-spec ![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/spec.svg)](https://github.com/digitallinguistics/spec) - The official specification for the DLx linguistic data format. http://developer.digitallinguistics.io/spec/.
+* [spec ![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/spec.svg)](https://github.com/digitallinguistics/spec) - The official specification for the DLx linguistic data format. http://developer.digitallinguistics.io/spec/.
 * [FoLiA ![GitHub stars](https://img.shields.io/github/stars/proycon/folio.svg)](https://github.com/proycon/folia/) FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/
 * [xdxf_makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict) - XDXF dictionary format and "makedict" dictionary converting software (official repository).
 
@@ -398,7 +398,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Android Applications
 
 * [Aikuma ![GitHub stars](https://img.shields.io/github/stars/aikuma/aikuma.svg)](https://github.com/aikuma/aikuma) - Android software for recording and translation.
-* [Android Speech Recognition Trainer![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) - Speech recognition training app for low resource languages which interfaces with FieldDB corpora.
+* [Android Speech Recognition Trainer ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidSpeechRecognitionTrainer.svg)](https://github.com/FieldDB/AndroidSpeechRecognitionTrainer) - Speech recognition training app for low resource languages which interfaces with FieldDB corpora.
 * [android-template ![GitHub stars](https://img.shields.io/github/stars/eddersko/android-template.svg)](https://github.com/eddersko/android-template) - This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/.
 * [AndroidFieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDB.svg)](https://github.com/FieldDB/AndroidFieldDB) - An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder ![GitHub stars](https://img.shields.io/github/stars/FieldDB/AndroidFieldDBElicitationRecorder.svg)](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder) - A general purpose video recording tool.
@@ -478,26 +478,26 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 ## On GitHub
 
-* [batumi ![GitHub stars](https://img.shields.io/github/stars/batumi.svg)](https://github.com/batumi) - Speech recognition and natural language processing for low-resource languages
-* [BloomBooks ![GitHub stars](https://img.shields.io/github/stars/BloomBooks.svg)](https://github.com/BloomBooks) 
-* [cmusphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx.svg)](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
-* [dativebase ![GitHub stars](https://img.shields.io/github/stars/dativebase.svg)](https://github.com/dativebase) - Tools for working with OLD.
-* [divvun ![GitHub stars](https://img.shields.io/github/stars/divvun.svg)](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for minority languages, especially the Sámi languages. [Website](http://divvun.no).
-* [FieldDB ![GitHub stars](https://img.shields.io/github/stars/FieldDB.svg)](https://github.com/FieldDB)
-* [HFST ![GitHub stars](https://img.shields.io/github/stars/hfst.svg)](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
-* [hunspell ![GitHub stars](https://img.shields.io/github/stars/hunspell.svg)](https://github.com/hunspell)
-* [lex4all ![GitHub stars](https://img.shields.io/github/stars/lex4all.svg)](https://github.com/lex4all)
-* [longnow ![GitHub stars](https://img.shields.io/github/stars/longnow.svg)](https://github.com/longnow)
-* [moses-smt ![GitHub stars](https://img.shields.io/github/stars/moses-smt.svg)](https://github.com/moses-smt) - Statistical Machine Translation.
-* [NLTK ![GitHub stars](https://img.shields.io/github/stars/nltk/nltk.svg)](https://github.com/nltk/nltk) - Natural Language Toolkit.
-* [PhonologicalCorpusTools ![GitHub stars](https://img.shields.io/github/stars/PhonologicalCorpusTools.svg)](https://github.com/PhonologicalCorpusTools)
-* [Projet de recherche sur l'écriture ![GitHub stars](https://img.shields.io/github/stars/projetDeRechercheSurLecriture/.svg)](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics).
-* [SIL International (Dev) ![GitHub stars](https://img.shields.io/github/stars/sillsdev.svg)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
-* [SIL International ![GitHub stars](https://img.shields.io/github/stars/silinternational.svg)](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
-* [SIL NRSI ![GitHub stars](https://img.shields.io/github/stars/silnrsi.svg)](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
-* [StanfordNLP ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp.svg)](https://github.com/stanfordnlp) https://nlp.stanford.edu
+* [batumi](https://github.com/batumi) - Speech recognition and natural language processing for low-resource languages
+* [BloomBooks](https://github.com/BloomBooks) 
+* [cmusphinx](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
+* [dativebase](https://github.com/dativebase) - Tools for working with OLD.
+* [divvun](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for minority languages, especially the Sámi languages. [Website](http://divvun.no).
+* [FieldDB](https://github.com/FieldDB)
+* [HFST](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
+* [hunspell](https://github.com/hunspell)
+* [lex4all](https://github.com/lex4all)
+* [longnow](https://github.com/longnow)
+* [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
+* [NLTK](https://github.com/nltk) - Natural Language Toolkit.
+* [PhonologicalCorpusTools)](https://github.com/PhonologicalCorpusTools)
+* [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics).
+* [SIL International (Dev)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
+* [SIL International](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
+* [SIL NRSI](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
+* [StanfordNLP](https://github.com/stanfordnlp) https://nlp.stanford.edu
 * [UniversalDependencies](https://github.com/UniversalDependencies) - Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank annotation for many languages, with the goal of facilitating multilingual parser development, cross-lingual learning, and parsing research from a language typology perspective. The annotation scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal inventory of categories and guidelines to facilitate consistent annotation of similar constructions across languages, while allowing language-specific extensions when necessary.
-* [utcompling ![GitHub stars](https://img.shields.io/github/stars/utcompling.svg)](https://github.com/utcompling) - The University of Texas at Austin's Computational Linguistics Lab. [Website](http://www.utcompling.com).
+* [utcompling](https://github.com/utcompling) - The University of Texas at Austin's Computational Linguistics Lab. [Website](http://www.utcompling.com).
 
 ## Other OSS Organisations
 
@@ -527,8 +527,7 @@ _ems :: sugpiaq_
 
 _amh :: አማርኛ_
 
-* [HornMorpho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology) - .
-morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
+* [HornMorpho ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology) - Morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
 
 
 ## Arabic
@@ -592,7 +591,7 @@ _kat :: ქართული_
 * [akalongman/kautilities ![GitHub stars](https://img.shields.io/github/stars/akalongman/kautilities.svg)](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
 * [Landish/Laravel-Ka ![GitHub stars](https://img.shields.io/github/stars/Landish/Laravel-KA.svg)](https://github.com/Landish/Laravel-KA) - [Laravel](https://laravel.com/) Georgian Language Pack.
 * [Landish/RedactorJS-GE ![GitHub stars](https://img.shields.io/github/stars/Landish/RedactorJS-GE.svg)](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
-* [wenzhixin/bootstrap-table ![GitHub stars](https://img.shields.io/github/stars/wenzhixin/bootstrap-table.svg)](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza ![GitHub stars](https://img.shields.io/github/stars/Stichoza.svg)](https://github.com/Stichoza).
+* [wenzhixin/bootstrap-table ![GitHub stars](https://img.shields.io/github/stars/wenzhixin/bootstrap-table.svg)](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
 * [moment/moment ![GitHub stars](https://img.shields.io/github/stars/moment/moment.svg)](https://github.com/moment/moment) - A lightweight date library (JavaScript).
 * [ioseb/geokbd ![GitHub stars](https://img.shields.io/github/stars/ioseb/geokbd.svg)](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
 
