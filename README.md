@@ -683,6 +683,8 @@ _lut :: Lushootseed_
 
 ## Malay
 
+_msa :: Bahasa Melayu_
+
 * [MorfoMalayu ![GitHub stars](https://img.shields.io/github/stars/LowResourceLanguages/hltdi-morphology.svg)](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis of Malay words.
 
 ## Malagasy
@@ -705,6 +707,8 @@ _mic :: Mi'kmaq_
 * [migmaq-lessons ![GitHub stars](https://img.shields.io/github/stars/FieldDB/migmaq-lessons.svg)](https://github.com/FieldDB/migmaq-lessons) - Repository for website building Mi'gmaq language lessons.
 
 ## Minderico
+
+_drc :: Piação do Ninhou_
 
 * [fredericajordarzambarino ![GitHub stars](https://img.shields.io/github/stars/cidles/fredericajordarzambarino.svg)](https://github.com/cidles/fredericajordarzambarino) - A web based game for mobile devices in minderico based in the "Who Wants to be a Millionaire" TV show.
 
