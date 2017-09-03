@@ -521,6 +521,7 @@ For each language, we include the [ISO 639-3 code](https://en.wikipedia.org/wiki
 
 _sqi :: shqip_
 
+* [Apertium rules for Albanian](https://sourceforge.net/p/apertium/svn/41266/tree/incubator/apertium-mk-sq/) - Machine Translation rules
 * [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg)](https://github.com/substack/out-of-copyright-albanian-authors) - authors scraped from the albanian language wikipedia who are out of copyright.
 * [Plis keyboard](http://plisi.org/tastiera/) - The Plis keyboard is a keyboard or computer keyboard layout for the Albanian language.
 * [spell checking](http://www.shkenca.org/k6i/index.html) - Here you find a collection of Albanian words and information about them. Aspell, Ispell, and MySpell are included.
