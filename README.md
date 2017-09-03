@@ -33,10 +33,12 @@ If you're interested in discussing the list in some offline capacity, get in tou
     - [Utilities](#utilities)
     - [Interactions and presentations of data](#interactions-and-presentations-of-data)
   - [Software](#software)
+- [Keyboard Layout Configuration Helpers](#keyboard-layout-configuration-helpers)
 - [Annotation](#annotation)
 - [Format Specifications](#format-specifications)
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
+- [Text-to-Speech (TTS)](#text-to-speech-tts)
 - [Text automation](#text-automation)
 - [Experimentation](#experimentation)
 - [Flashcards](#flashcards)
@@ -90,6 +92,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Secwepemctsín](#secwepemctsín)
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
+  - [Yiddish](#yiddish)
   - [Zulu](#zulu)
 - [License](#license)
 
@@ -222,7 +225,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [MacVoikko ![GitHub stars](https://img.shields.io/github/stars/roguePanda/MacVoikko.svg)](https://github.com/roguePanda/MacVoikko) - An OS X spelling server based on Voikko.
 * [Machine ![GitHub stars](https://img.shields.io/github/stars/sillsdev/machine.svg)](https://github.com/sillsdev/machine) - Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx).
 * [Make-extensions ![GitHub stars](https://img.shields.io/github/stars/kscanne/make-extensions.svg)](https://github.com/kscanne/make-extensions) - Scripts for generating hunspell spellchecking extensions.
-* [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de.
 * [maxent ![GitHub stars](https://img.shields.io/github/stars/lzhang10/maxent.svg)](https://github.com/lzhang10/maxent) - Maximum Entropy Modeling Toolkit for Python and C++ http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html.
 * [mgiza ![GitHub stars](https://img.shields.io/github/stars/moses-smt/mgiza.svg)](https://github.com/moses-smt/mgiza) - A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
@@ -247,7 +249,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [OpenDataKit](https://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [OpenNLP ![GitHub stars](https://img.shields.io/github/stars/apache/opennlp.svg)](https://github.com/apache/opennlp) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [ops-devbox ![GitHub stars](https://img.shields.io/github/stars/sillsdev/ops-devbox.svg)](https://github.com/sillsdev/ops-devbox) - Ansible playbook for a (linux) developer machine.
-* [Ossian](http://homepages.inf.ed.ac.uk/owatts/ossian/html/index.html) - Ossian is a collection of Python code for building text-to-speech (TTS) systems, with an emphasis on easing research into building TTS systems with minimal expert supervision.
 * [panlex-tools ![GitHub stars](https://img.shields.io/github/stars/longnow/panlex-tools.svg)](https://github.com/longnow/panlex-tools) - This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org.
 * [paradigm ![GitHub stars](https://img.shields.io/github/stars/sillsdev/paradigm.svg)](https://github.com/sillsdev/paradigm) - PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
 * [pathway ![GitHub stars](https://img.shields.io/github/stars/sillsdev/pathway.svg)](https://github.com/sillsdev/pathway) - Preparing language data for publication.
@@ -372,6 +373,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [sphinxbase ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/sphinxbase.svg)](https://github.com/cmusphinx/sphinxbase)
 * [sphinxtrain ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/sphinxtrain.svg)](https://github.com/cmusphinx/sphinxtrain)
 * [TLSphinx ![GitHub stars](https://img.shields.io/github/stars/cmusphinx/TLSphinx.svg)](https://github.com/cmusphinx/TLSphinx) - Swift wrapper around Pocketsphinx.
+
+# Text-to-Speech (TTS)
+
+* [espeak](http://espeak.sourceforge.net/) - eSpeak is a compact open source software speech synthesizer for English and other languages, for Linux and Windows. http://espeak.sourceforge.net.
+* [MARY TTS ![GitHub stars](https://img.shields.io/github/stars/marytts/marytts.svg)](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de.
+* [Ossian](http://homepages.inf.ed.ac.uk/owatts/ossian/html/index.html) - Ossian is a collection of Python code for building text-to-speech (TTS) systems, with an emphasis on easing research into building TTS systems with minimal expert supervision.
 
 # Text automation
 
@@ -527,6 +534,8 @@ These corpora are useful for working with tools on endangered languages. Monolin
 _sqi :: shqip_
 
 * [out-of-copyright-albanian-authors ![GitHub stars](https://img.shields.io/github/stars/substack/out-of-copyright-albanian-authors.svg)](https://github.com/substack/out-of-copyright-albanian-authors) - authors scraped from the albanian language wikipedia who are out of copyright.
+* [Plis keyboard](http://plisi.org/tastiera/) - The Plis keyboard is a keyboard or computer keyboard layout for the Albanian language.
+* [spell checking](http://www.shkenca.org/k6i/index.html) - Here you find a collection of Albanian words and information about them. Aspell, Ispell, and MySpell are included.
 
 ## Alutiiq
 
