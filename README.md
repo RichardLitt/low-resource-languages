@@ -63,7 +63,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Arabic](#arabic)
   - [Bengali](#bengali)
   - [Chichewa](#chichewa)
-  - [Estonian](#estonian)
   - [Georgian](#georgian)
     - [Fonts](#fonts-1)
     - [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
@@ -73,9 +72,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Høgnorsk](#høgnorsk)
   - [Inuktitut](#inuktitut)
   - [Irish](#irish)
-  - [Japanese](#japanese)
   - [Kinyarwanda](#kinyarwanda)
-  - [Korean](#korean)
   - [Lingala](#lingala)
   - [Lushootseed](#lushootseed)
   - [Malay](#malay)
@@ -105,6 +102,8 @@ If you're interested in discussing the list in some offline capacity, get in tou
 **Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](https://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
 
 Regarding the name, _Endangered Languages_ may not be the best term, as many low resource languages are not necessarily endangered. But this term is the most accessible to the widest amount of people. _Low Resource Languages_ would also suit this list.
+
+Tools which are built for these languages are not included (unless relevant for dialects or variants): Arabic, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, Flemish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Norwegian (Bokmål), Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Valencian, Vietnamese. This list comes from the list of most popular content languages for websites, [on this Wikipedia page](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet). Other metrics could be used - if you have another one, please suggest it!
 
 Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
 
@@ -335,7 +334,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [AuToBI ![GitHub stars](https://img.shields.io/github/stars/AndrewRosenberg/AuToBI.svg)](https://github.com/AndrewRosenberg/AuToBI) - Automatic prosodic annotation tool written in Java.
 * [BashScriptsForPhonetics ![GitHub stars](https://img.shields.io/github/stars/FieldDB/BashScriptsForPhonetics.svg)](https://github.com/FieldDB/BashScriptsForPhonetics) - (_Fork_ of a dormant project).
 * [esv-text-audio-aligner ![GitHub stars](https://img.shields.io/github/stars/westonruter/esv-text-audio-aligner.svg)](https://github.com/westonruter/esv-text-audio-aligner) - ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio.
-* [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/FieldDB/et-pocketsphinx-tutorial.svg)](https://github.com/FieldDB/et-pocketsphinx-tutorial) - Tutorial of Estonian speech recognition using PocketSphinx.
 * [html5-audio-read-along ![GitHub stars](https://img.shields.io/github/stars/westonruter/html5-audio-read-along.svg)](https://github.com/westonruter/html5-audio-read-along) - HTML5 Audio Read-Along.
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg)](https://github.com/westonruter/ipa-chart) - International Phonetic Alphabet (IPA) Unicode Chart and Character Picker.
 * [kaldi-svn-archive ![GitHub stars](https://img.shields.io/github/stars/kaldi-asr/kaldi-svn-archive.svg)](https://github.com/kaldi-asr/kaldi-svn-archive) - An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available).
@@ -544,7 +542,6 @@ _amh :: አማርኛ_
 
 _ara :: العربية_
 
-* [Buckwalter ![GitHub stars](https://img.shields.io/github/stars/KentonMurray/Buckwalter.svg)](https://github.com/KentonMurray/Buckwalter) - A small python script that transliterates Arabic text using the Buckwalter Transliteration Scheme. It allows for multiple decisions to be made around whether or not to include all types of diacritics and characters or ignore them. Useful for NLP experiments where you may want to normalize text.
 * [Dialects ![GitHub stars](https://img.shields.io/github/stars/amagidow/dialects.svg)](https://github.com/amagidow/dialects) - Django project to allow for documentation (input and displaty) of linguistic forms in dialects or closely related languages.
 
 ## Bengali
@@ -561,14 +558,6 @@ _ben :: বাংলা_
 _nya :: chicheŵa_
 
 * [Chichewa ![GitHub stars](https://img.shields.io/github/stars/kscanne/chichewa.svg)](https://github.com/kscanne/chichewa) - NLP resources for Chichewa.
-
-## Estonian
-
-_est :: eesti keel_
-
-* [et-pocketsphinx-tutorial ![GitHub stars](https://img.shields.io/github/stars/alumae/et-pocketsphinx-tutorial.svg)](https://github.com/alumae/et-pocketsphinx-tutorial) - Tutorial of Estonian speech recognition using PocketSphinx.
-* [Inimesed ![GitHub stars](https://img.shields.io/github/stars/Kaljurand/Inimesed.svg)](https://github.com/Kaljurand/Inimesed) - An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models. http://kaljurand.github.io/Inimesed/.
-* [Kõnele ![GitHub stars](https://img.shields.io/github/stars/Kaljurand/K6nele.svg)](https://github.com/Kaljurand/K6nele) - Kõnele is an Android app that offers speech-to-text services to other apps http://kaljurand.github.io/K6nele/.
 
 ## Georgian
 
@@ -647,13 +636,6 @@ _gle :: Gaeilge_
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial ![GitHub stars](https://img.shields.io/github/stars/kscanne/tesseract-gle-uncial.svg)](https://github.com/kscanne/tesseract-gle-uncial) - OCR for old Irish fonts.
 
-## Japanese
-
-_jpn :: 日本語_
-
-* [JapaneseCorpusAngoSakaguchi ![GitHub stars](https://img.shields.io/github/stars/iLanguage/JapaneseCorpusAngoSakaguchi.svg)](https://github.com/iLanguage/JapaneseCorpusAngoSakaguchi) - Ango Sakaguchi's essays, with some code.
-* [kuromoji ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji.svg)](https://github.com/atilika/kuromoji) - Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search.
-* [kuromoji-server ![GitHub stars](https://img.shields.io/github/stars/atilika/kuromoji-server.svg)](https://github.com/atilika/kuromoji-server) - Kuromoji server and demo that shows Japanese morphological analyzer capabilities.
 
 ## Kinyarwanda
 
@@ -661,13 +643,6 @@ _kin :: Ikinyarwanda_
 
 * [kin-morph-fst ![GitHub stars](https://img.shields.io/github/stars/ldmt-muri/kin-morph-fst.svg)](https://github.com/ldmt-muri/kin-morph-fst) - Kinyarwanda morphological analyzer.
 * [TurboTagger & TurboParser for Kinyarwanda (download)](https://web.archive.org/web/*/http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
-
-## Korean
-
-_kor :: 한국어_
-
-* [komoran ![GitHub stars](https://img.shields.io/github/stars/shineware/komoran-2.0.svg)](https://github.com/shineware/komoran-2.0) - Korean morphological analyzer.
-* [awesome-kr-foss ![GitHub stars](https://img.shields.io/github/stars/darjeeling/awesome-kr-foss.svg)](https://github.com/darjeeling/awesome-kr-foss) - A curated list of awesome Korean open source projects.
 
 ## Lingala
 
