@@ -28,7 +28,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
 
 - [Definitions](#definitions)
 - [Generic Repositories](#generic-repositories)
-  - [Massive Dictionary and Lexicography projects](#massive-dictionary-and-lexicography-projects)
   - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
     - [Utilities](#utilities)
     - [Interactions and presentations of data](#interactions-and-presentations-of-data)
@@ -110,15 +109,6 @@ Regarding the name, _Endangered Languages_ may not be the best term, as many low
 Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
 
 # Generic Repositories
-
-## Massive Dictionary and Lexicography projects
-* [ABVD](https://abvd.shh.mpg.de/austronesian/) Austronesian Basic Vocabulary Database
-* [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
-* [IE](http://ielex.mpi.nl./) Indo-european comparative lexical resource
-* [REFLEX](http://www.reflex.cnrs.fr/) a comparative dictionary project for Africa based out of CNRS in France.
-* [Southeast Asian lexicography](http://sealang.net/) Several Southeast Asian lexicons hosted.
-* [STEDT](http://stedt.berkeley.edu/database) Tibeto-burman focused project  where dictionaries from several languages are comparable.
-* [Tibeto-burman lexicography](http://www.himalayanlanguages.org/cdtd)
 
 ## Single language lexicography projects and utilities
 
