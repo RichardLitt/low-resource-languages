@@ -53,7 +53,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
 - [Corpora](#corpora)
 - [Organizations](#organizations)
   - [On GitHub](#on-github)
-  - [Other OSS Organisations](#other-oss-organisations)
+  - [Other OSS Organizations](#other-oss-organizations)
 - [Tutorials](#tutorials)
 - [Language Specific Projects](#language-specific-projects)
   - [Albanian](#albanian)
@@ -302,6 +302,15 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [WSI4URLang ![GitHub stars](https://img.shields.io/github/stars/mohammadnasiruddin/WSI4URLang.svg)](https://github.com/mohammadnasiruddin/WSI4URLang) - Word Sense Induction (WSI) for Under-resourced Languages (URLang).
 * [XDXF_Makedict ![GitHub stars](https://img.shields.io/github/stars/soshial/xdxf_makedict.svg)](https://github.com/soshial/xdxf_makedict) - XDXF dictionary format and "makedict" dictionary converting software (official repository).
 
+# Keyboard Layout Configuration Helpers
+
+* [Keyboard ![GitHub stars](https://img.shields.io/github/stars/Mottie/Keyboard.svg)](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~ http://mottie.github.io/Keyboard.
+* [Keyboards ![GitHub stars](https://img.shields.io/github/stars/keymanapp/keyboards.svg)](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards.
+* [Keyman ![GitHub stars](https://img.shields.io/github/stars/keymanapp/keyman.svg)](https://github.com/keymanapp/keyman) - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com).
+* [keyboardlayouteditor ![GitHub stars](https://img.shields.io/github/stars/simos/keyboardlayouteditor.svg)](https://github.com/simos/keyboardlayouteditor) - Keyboard Layout Editor https://code.google.com/archive/p/keyboardlayouteditor/.
+* [lipika-ime ![GitHub stars](https://img.shields.io/github/stars/ratreya/lipika-ime.svg)](https://github.com/ratreya/lipika-ime) - Input Method Engine (IME) for Mac OS X with built-in support for all Indic Languages.
+* [XKeyboardConfig](https://www.freedesktop.org/wiki/Software/XKeyboardConfig/) - The non-arch keyboard configuration database for X Window. The goal is to provide the consistent, well-structured, frequently released open source of X keyboard configuration data for X Window System implementations (free, open source and commercial). The project is targeted to XKB-based systems.
+
 # Annotation
 
 * [AGTK ![GitHub stars](https://img.shields.io/github/stars/lowresourcelanguages/agtk.svg)](https://github.com/lowresourcelanguages/agtk) - AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/).
@@ -487,6 +496,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [FieldDB](https://github.com/FieldDB)
 * [HFST](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
 * [hunspell](https://github.com/hunspell)
+* [keymanapp](https://github.com/keymanapp) - [Website](https://www.keyman.com).
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
 * [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
@@ -500,7 +510,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [UniversalDependencies](https://github.com/UniversalDependencies) - Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank annotation for many languages, with the goal of facilitating multilingual parser development, cross-lingual learning, and parsing research from a language typology perspective. The annotation scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal inventory of categories and guidelines to facilitate consistent annotation of similar constructions across languages, while allowing language-specific extensions when necessary.
 * [utcompling](https://github.com/utcompling) - The University of Texas at Austin's Computational Linguistics Lab. [Website](http://www.utcompling.com).
 
-## Other OSS Organisations
+## Other OSS Organizations
 
 * [Giellatekno](http://giellatekno.uit.no/index.eng.html) - Giellatekno combines cutting-edge linguistic and computational research into the analysis of Saami and other morphologically-rich languages, with the development of practical applications. We focus on deep linguistic modeling and on highly efficient and robust computational analysis with a wide empirical coverage. They use svn for their code: all of it can be found [here](https://victorio.uit.no/langtech/trunk/langs/), sorted by language.
 * [LTRC: Language Technologies Research Center IIIT Hyderabad](http://ltrc.iiit.ac.in/) LTRC addresses the complex problem of understanding and processing natural languages in both speech and text mode. LTRC conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South Asia. LTRC carries out its work through four labs, which work in synergy with each other, as listed above.
