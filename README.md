@@ -517,6 +517,8 @@ These corpora are useful for working with tools on endangered languages. Monolin
 
 # Language Specific Projects
 
+For each language, we include the [ISO 639-3 code](https://en.wikipedia.org/wiki/ISO_639-3), and the main autonym for that language.
+
 ## Albanian
 
 _sqi :: shqip_
