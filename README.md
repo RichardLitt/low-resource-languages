@@ -1,6 +1,8 @@
 # Endangered Languages
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/endangered-languages.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/RichardLitt/endangered-languages.svg?branch=master)](https://travis-ci.org/RichardLitt/endangered-languages)
+
 
 > Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 
