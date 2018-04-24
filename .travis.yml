@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-ssl "--white-list https://github.com/RichardLitt/endangered-languages/edit/master/README.md,https://victorio.uit.no/langtech/trunk/,http://app.phophlo.ca/,http://www.delph-in.net/matrix/"
+  - awesome_bot README.md --allow-dupe --allow-ssl "--white-list https://github.com/RichardLitt/low-resource-languages/edit/master/README.md,https://victorio.uit.no/langtech/trunk/,http://app.phophlo.ca/,http://www.delph-in.net/matrix/"

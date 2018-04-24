@@ -1,6 +1,6 @@
 # Contributing
 
-Welcome to the endangered-languages list.
+Welcome to the low-resource-languages list.
 
 Please feel free to contribute in any way you can: by submitting links, by engaging in discussions on the issues, and so on. All are welcome. This is a very open project.
 

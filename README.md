@@ -1,12 +1,12 @@
-# Endangered Languages
+# Low Resource Languages
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/endangered-languages.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/RichardLitt/endangered-languages.svg?branch=master)](https://travis-ci.org/RichardLitt/endangered-languages)
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/low-resource-languages.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/RichardLitt/low-resource-languages.svg?branch=master)](https://travis-ci.org/RichardLitt/low-resource-languages)
 
 
-> Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
+> Resources for conservation, development, and documentation of low resouce (human) languages.
 
-There is no centralized list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
+According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a list of open source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages.
 
 **Slack Group**
 
@@ -14,11 +14,11 @@ We have a Slack group for live discussion. [Join Us Here](https://lowresourcelan
 
 **Publication**
 
-A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the `papers` folder. Download the raw paper here: [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/endangered-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
+A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the `papers` folder. Download the raw paper here: [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/low-resource-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
 
 ## Contribute
 
-To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/endangered-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/endangered-languages/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
+To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/low-resource-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/low-resource-languages/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
 
 There are more details on contributing in the [CONTRIBUTING](CONTRIBUTING.md) guide.
 
@@ -101,11 +101,11 @@ If you're interested in discussing the list in some offline capacity, get in tou
 
 # Definitions
 
-**Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which are spoken by a significant population but under-represented on the web (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).
+**Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which may be spoken by a large population but are under-represented digitally (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).
 
 **Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](https://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
 
-Regarding the name, _Endangered Languages_ may not be the best term, as many low resource languages are not necessarily endangered. But this term is the most accessible to the widest amount of people. _Low Resource Languages_ would also suit this list.
+This list used to be named `endangered-languages`. It was renamed to reflect that endangerment is a loaded term that both may not reflect the views of language communities speaking minority languages. `low-resource-languages` focuses this list on a lack of digital resources compared to other, high resourced languages.
 
 Tools which are built for these languages are not included (unless relevant for dialects or variants): Arabic, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, Flemish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Norwegian (Bokmål), Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Valencian, Vietnamese. This list comes from the list of most popular content languages for websites, [on this Wikipedia page](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet). Other metrics could be used - if you have another one, please suggest it!
 
