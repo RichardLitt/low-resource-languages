@@ -224,6 +224,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [morph-test](https://github.com/divvun/morph-test) - A python script to run tests for generation and analysis of a morphological transducer built using the Giella infrastructure. Works with Hfst, Xerox' fst tools, and with Foma.
 * [mosesdecoder](https://github.com/moses-smt/mosesdecoder) - Moses, the machine translation system.
 * [moz-l10n-tiers](https://github.com/kscanne/moz-l10n-tiers) - Creates a pseudo-locale to evaluate string prioritization for l10n.
+* [mukurtucms](https://github.com/MukurtuCMS/mukurtucms) - The Mukurtu Content Management System (CMS) is an Internet- based platform designed to enable archiving of digital cultural resources
 * [mythes](https://github.com/hunspell/mythes) - MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.
 * [myWorkSafe](https://github.com/sillsdev/myWorkSafe) - Smart & Simple Backup for Language Development Workers. http://software.sil.org/myworksafe/.
 * [Natural](https://github.com/NaturalNode/natural) - *Javascript* general natural language facilities for node.
@@ -501,6 +502,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
 * [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
+* [mukurtucms](https://github.com/MukurtuCMS)
 * [NLTK](https://github.com/nltk) - Natural Language Toolkit.
 * [PhonologicalCorpusTools)](https://github.com/PhonologicalCorpusTools)
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics).
