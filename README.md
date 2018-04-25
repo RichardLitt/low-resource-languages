@@ -243,6 +243,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [OpenNLP](https://github.com/apache/opennlp) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [ops-devbox](https://github.com/sillsdev/ops-devbox) - Ansible playbook for a (linux) developer machine.
 * [panlex-tools](https://github.com/longnow/panlex-tools) - This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org.
+* [pdsc-collection-viewer](https://github.com/marcolarosa/pdsc-collection-viewer) - Paradisec Collection Browser
 * [paradigm](https://github.com/sillsdev/paradigm) - PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
 * [pathway](https://github.com/sillsdev/pathway) - Preparing language data for publication.
 * [pdfdroplet](https://github.com/sillsdev/pdfdroplet) - Library and GUI for imposition of PDF pages (e.g. 2-up) http://software.sil.org/pdfdroplet/.
