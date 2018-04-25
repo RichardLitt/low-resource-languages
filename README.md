@@ -392,9 +392,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Flashcards
 
 * [Anki](https://github.com/dae/anki) - Anki is a program to make and share flaschard decks (including audio) for any language or writing system. https://apps.ankiweb.net/.
-* [flashfork](https://github.com/sillsdev/flashfork) - An Anki addon for copying decks of flashcards, with or without also copying their note types.
-* [flashgrab](https://github.com/sillsdev/flashgrab) - An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor].
-* [flashgrid](https://github.com/sillsdev/flashgrid) - An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
+* [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources.
 * [VocabLift](https://github.com/somelinguist/VocabLift) - Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
 # Natural language generation
