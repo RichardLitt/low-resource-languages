@@ -506,6 +506,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [NLTK](https://github.com/nltk) - Natural Language Toolkit.
 * [PhonologicalCorpusTools)](https://github.com/PhonologicalCorpusTools)
 * [Projet de recherche sur l'écriture](https://github.com/projetDeRechercheSurLecriture/) - Crowdsourcing or conducting large scale psycholinguistics experiments (or statistically significant field linguistics).
+* [prosodylab](https://github.com/prosodylab) - Prosodylab at McGill University, Canada
 * [SIL International (Dev)](https://github.com/sillsdev) [SIL International](https://www.sil.org/)-  Another SIL organization, with many repositories.
 * [SIL International](https://github.com/silinternational) - SIL (originally known as the Summer Institute of Linguistics, Inc.) is probably the leading organization which provides software and tools tailored for use by field linguists and lexicographers working on endangered languages. A little known fact is that much of it's code is open sourced on GitHub and SIL is happy to recieve open source contributions and collaborate on open source projects.
 * [SIL NRSI](https://github.com/silnrsi) - SIL Non-Roman Script Initiative. The NRSI is a department of  SIL International, whose task is to provide assistance, research and development for SIL International and its partners to support the use of non-Roman and complex scripts in language development.
