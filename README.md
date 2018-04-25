@@ -499,6 +499,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [keymanapp](https://github.com/keymanapp) - [Website](https://keyman.com/).
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
+* [MontrealCorpusTools](https://github.com/MontrealCorpusTools)
 * [moses-smt](https://github.com/moses-smt) - Statistical Machine Translation.
 * [mukurtucms](https://github.com/MukurtuCMS)
 * [NLTK](https://github.com/nltk) - Natural Language Toolkit.
