@@ -281,6 +281,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Field Linguist's Toolbox](https://software.sil.org/toolbox/download/) - Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
 * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) - Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/.
 * [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) - A collection of scripts and recipes for linguistics.
+* [transcriber](https://github.com/langtech/transcriber/tree/dev) - An HTML5 transcription tool for Aikuma
 * [translitit-engine](https://github.com/gausby/translitit-engine) - A transliteration engine written in JavaScript.
 * [Tsammalex data](https://github.com/clld/tsammalex-data) - [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
 * [tweet2learn](https://github.com/kscanne/tweet2learn) - An app to make it easier to use your native language on Twitter.
@@ -498,6 +499,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [HFST](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
 * [hunspell](https://github.com/hunspell)
 * [keymanapp](https://github.com/keymanapp) - [Website](https://keyman.com/).
+* [langtech](https://github.com/langtech) - Language Technology Group, University of Melbourne
 * [lex4all](https://github.com/lex4all)
 * [longnow](https://github.com/longnow)
 * [MontrealCorpusTools](https://github.com/MontrealCorpusTools)
