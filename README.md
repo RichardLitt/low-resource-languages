@@ -34,7 +34,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
 - [Generic Repositories](#generic-repositories)
   - [Single language lexicography projects and utilities](#single-language-lexicography-projects-and-utilities)
     - [Utilities](#utilities)
-    - [Interactions and presentations of data](#interactions-and-presentations-of-data)
   - [Software](#software)
 - [Keyboard Layout Configuration Helpers](#keyboard-layout-configuration-helpers)
 - [Annotation](#annotation)
@@ -120,15 +119,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
 * [Webonary](http://www.webonary.org/) Site which hosts digital dictionaries for single languages.
 * [WeSay](https://github.com/sillsdev/wesay) - Allows language communities to build their own dictionaries. https://software.sil.org/wesay/ (by the SIL International).
-
-### Interactions and presentations of data
-* [Dict.cc](https://www.dict.cc/) An exemplar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people.
-* [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
-* [Ojibwe People's Dictionary](https://ojibwe.lib.umn.edu/)
-* [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
-* [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
-* [web-template](https://github.com/eddersko/web-template) - This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
-* [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
 
 ## Software
 * [4lang](https://github.com/kornai/4lang) - Concept dictionary using Eilenberg machines.
@@ -292,7 +282,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench3) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas https://wavesurfer-js.org/ (Also has an ELAN plugin).
 * [web-scriptureforge](https://github.com/sillsdev/web-scriptureforge) - platform for Scripture-related web apps.
-* [webcorpus](https://github.com/zseder/webcorpus) - This project is a collection of scripts and programs for creating a webcorpus from crawled data. .
+* [web-template](https://github.com/eddersko/web-template) - This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
+* [webcorpus](https://github.com/zseder/webcorpus) - This project is a collection of scripts and programs for creating a webcorpus from crawled data.
 * [wikt2dict](https://github.com/juditacs/wikt2dict) - Wiktionary parser tool for many language editions.
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary](https://github.com/eddersko/WordBoundary) - An experiment in the detection and segmentation of word boundaries.
