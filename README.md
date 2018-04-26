@@ -4,9 +4,9 @@
 [![Build Status](https://api.travis-ci.org/RichardLitt/low-resource-languages.svg?branch=master)](https://travis-ci.org/RichardLitt/low-resource-languages)
 
 
-> Resources for conservation, development, and documentation of low resouce (human) languages.
+> Resources for conservation, development, and documentation of low resource (human) languages.
 
-According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a list of open source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages.
+According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Krauss 1992](http://www.rnld.org/sites/default/files/Krauss(1992).pdf)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a list of open source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages.
 
 **Slack Group**
 
