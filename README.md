@@ -513,6 +513,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 ## Other OSS Organizations
 
 * [Giellatekno](http://giellatekno.uit.no/index.eng.html) - Giellatekno combines cutting-edge linguistic and computational research into the analysis of Saami and other morphologically-rich languages, with the development of practical applications. We focus on deep linguistic modeling and on highly efficient and robust computational analysis with a wide empirical coverage. They use svn for their code: all of it can be found [here](https://victorio.uit.no/langtech/trunk/langs/), sorted by language.
+* [LOWLANDS](https://bitbucket.org/lowlands/) - LOWLANDS – Parsing low-resource languages and domains http://ccc.ku.dk/research/lowlands/
 * [LTRC: Language Technologies Research Center IIIT Hyderabad](http://ltrc.iiit.ac.in/) LTRC addresses the complex problem of understanding and processing natural languages in both speech and text mode. LTRC conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South Asia. LTRC carries out its work through four labs, which work in synergy with each other, as listed above.
 * [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
