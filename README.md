@@ -67,6 +67,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Bengali](#bengali)
   - [Chichewa](#chichewa)
   - [Galician](#galician)
+    - [Apertium](#apertium)
   - [Georgian](#georgian)
     - [Fonts](#fonts-1)
     - [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
@@ -570,17 +571,49 @@ _nya :: chicheŵa_
 
 _glg :: galego_
 
-* [CitiusSentiment](https://github.com/gamallo/CitiusSentiment) -
+* [an-metri-gal](https://github.com/juliojgd/an-metri-gal) - Análise métrico de texto en verso en lingua galega (Galician language) gl-ES
+* [android_gl_dict](https://github.com/chavaone/android_gl_dict) - Android Galician (gl_ES) Keyboard Dictionary
+* [aspell-gl](https://github.com/pld-linux/aspell-gl) - Galician dictionary for aspell
+* [CitiusSentiment](https://github.com/gamallo/CitiusSentiment) - Sentiment analysis (opinion mining) for Portuguese, English, Spanish, and Galician
 * [CitiusTagger](https://gramatica.usc.es/pln/tools/CitiusTools.html) - A PoS-Tagger and Named Entity Classification tool for Portuguese, English, Galician, and Spanish
 * [Conshuga](https://gramatica.usc.es/pln/tools/conjugador/download.html) - Galician verb conjugator
+* [corpora](https://github.com/bertez/corpora) - This is a collection of corpus of Galician (or related to Galicia) words / Colección de corpus de palabras en galego (ou relacionadas con Galicia)
 * [DepPattern](https://github.com/gamallo/DepPattern) - Dependency Syntactic Parsing for Portuguese, Spanish, English, and Galician, including MetaRomance parser
-* [galeXtra](https://github.com/gamallo/galeXtra) -
-* [Linguakit](https://github.com/citiususc/Linguakit) -
+* [DOGA_scraper](https://github.com/jjelosua/DOGA_scraper) - Galician Official journal scraper
+* [elFinder-language](https://github.com/Rubarez/elFinder-Language) - Galician - Gallego / language for elFinder
+* [EuroWordNetLemon](https://github.com/martavillegas/EuroWordNetLemon) - EuroWordNet lemon lexicons generated from the LMF versions of the Multilingual Central Repository (MCR) EuroWordNet lexicons. It includes lexicons for Spanish, Catalan, Basque & Galician.
+* [GalegoDroid](https://github.com/amsqr/GalegoDroid) - Galician Translator for Android
+* [galeXtra](https://github.com/gamallo/galeXtra) - Multiword Extractor for Portuguese, English, Spanish, Galician, French
+* [Galician-Dependency-Treebank](https://github.com/paulomalvar/Galician-Dependency-Treebank) - This Galician Dependency Treebank has been developed by transliterating and adapting lexically the Portuguese part (Bosque 7.3 by the Floresta sintá(c)tica project) of the CONLL-X 2006.
+* [Galician-Fuzzy-Text-watch](https://github.com/pfsq/Galician-Fuzzy-Text-watch) - Based on Fuzzy Text International by Jesse Hallett, uses the galician language to display time.
+* [galician-locale-for-mac](https://github.com/vaites/galician-locale-for-mac) - Galician locale for Mac OS X
+* [gl-syllabler](https://github.com/bertez/gl-syllabler) - Split galician language words into syllables
+* [gl](https://github.com/OmegaT-L10N/gl)- Galician OmegaT Localisation
+* [hunspell-gl-ciencias](https://github.com/mglbranco/hunspell-gl-ciencias) - Project oriented into developing a science and maths Galician language Hunspell dictionary
+* [hunspell-gl](https://github.com/gooselinux/hunspell-gl) - Galician hunspell dictionaries
+* [hyphen-gl](https://github.com/gooselinux/hyphen-gl) - Galician hyphenation rules
+* [javagalician-java6](https://github.com/javagalician/javagalician-java6) - The Java Galician Locale is an implementation of Java localization SPIs which will allow the Java VM to use the Galician Language (locales "gl" and "gl_ES"), one of the official languages of Spain, which is not included in Sun's JVM distribution.
+* [Linguakit](https://github.com/citiususc/Linguakit) - Multilingual toolkit for NLP: dependency parser, PoS tagger, NERC, multiword extractor, sentiment analysis, etc.
+* [ParlamentoGalicia](https://github.com/jjelosua/ParlamentoGalicia) - Project based on the information extracted from the transcriptions of the sessions held in the Galician Parlament
+* [poss-gl](https://github.com/nosolosw/poss-gl) - Galician translation of Producing Open Source Software, by Karl Fogel
+* [rima](https://github.com/bertez/rima) - Find rhyming words in galician language.
+* [stopwords-gl](https://github.com/stopwords-iso/stopwords-gl) - Galician stopwords collection
+* [texlive-babel-galician](https://github.com/OpenMandrivaAssociation/texlive-babel-galician) - TeXLive babel-galician package
 * [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG) - The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG/) created at the University of Vigo by the the TALG NLP research group.
 * [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal) - The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
-Multilingual toolkit for NLP: dependency parser, PoS tagger, NERC, multiword extractor, sentiment analysis, etc.
-Multiword Extractor for Portuguese, English, Spanish, Galician, French
-Sentiment analysis (opinion mining) for Portuguese, English, Spanish, and Galician
+* [UL_Galician-TreeGal](https://github.com/conllul/UL_Galician-TreeGal) - CoNLL-UL Repository for UD_Galician-TreeGal
+
+### Apertium
+
+* [apertium-cat-glg](https://github.com/apertium/apertium-cat-glg) - Apertium translation pair for Catalan and Galician
+* [apertium-dict-en-gl](https://github.com/pld-linux/apertium-dict-en-gl) - English-Galician language pair for Apertium
+* [apertium-dict-es-gl](https://github.com/pld-linux/apertium-dict-es-gl) - Spanish-Galician language pair for Apertium
+* [apertium-dict-pt-gl](https://github.com/pld-linux/apertium-dict-pt-gl) - Portuguese-Galician language pair for Apertium
+* [apertium-en-gl](https://github.com/apertium/apertium-en-gl) - Apertium translation pair for English and Galician
+* [apertium-es-gl](https://github.com/apertium/apertium-es-gl) - Apertium translation pair for Spanish and Galician
+* [apertium-glg](https://github.com/apertium/apertium-glg) - Apertium linguistic data for Galician
+* [Apertium-pt-gl.pt-gl-LMF](https://github.com/apertium-lmf/Apertium-pt-gl.pt-gl-LMF) - This is the LMF version of the Apertium bilingual ditionary for Portugues and Galician languages
+* [apertium-pt-gl](https://github.com/apertium/apertium-pt-gl) - Apertium translation pair for Portuguese and Galician
 
 ## Georgian
 
