@@ -67,6 +67,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Arabic](#arabic)
   - [Bengali](#bengali)
   - [Chichewa](#chichewa)
+  - [Galician](#galician)
   - [Georgian](#georgian)
     - [Fonts](#fonts-1)
     - [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
@@ -573,6 +574,22 @@ _ben :: বাংলা_
 _nya :: chicheŵa_
 
 * [Chichewa](https://github.com/kscanne/chichewa) - NLP resources for Chichewa.
+
+## Galician
+
+_glg :: galego_
+
+* [CitiusSentiment](https://github.com/gamallo/CitiusSentiment) -
+* [CitiusTagger](https://gramatica.usc.es/pln/tools/CitiusTools.html) - A PoS-Tagger and Named Entity Classification tool for Portuguese, English, Galician, and Spanish
+* [Conshuga](https://gramatica.usc.es/pln/tools/conjugador/download.html) - Galician verb conjugator
+* [DepPattern](https://github.com/gamallo/DepPattern) - Dependency Syntactic Parsing for Portuguese, Spanish, English, and Galician, including MetaRomance parser
+* [galeXtra](https://github.com/gamallo/galeXtra) -
+* [Linguakit](https://github.com/citiususc/Linguakit) -
+* [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG) - The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG) created at the University of Vigo by the the TALG NLP research group.
+* [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal) - The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
+Multilingual toolkit for NLP: dependency parser, PoS tagger, NERC, multiword extractor, sentiment analysis, etc.
+Multiword Extractor for Portuguese, English, Spanish, Galician, French
+Sentiment analysis (opinion mining) for Portuguese, English, Spanish, and Galician
 
 ## Georgian
 
