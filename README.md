@@ -219,6 +219,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [mukurtucms](https://github.com/MukurtuCMS/mukurtucms) - The Mukurtu Content Management System (CMS) is an Internet- based platform designed to enable archiving of digital cultural resources
 * [mythes](https://github.com/hunspell/mythes) - MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.
 * [myWorkSafe](https://github.com/sillsdev/myWorkSafe) - Smart & Simple Backup for Language Development Workers. http://software.sil.org/myworksafe/.
+* [nabu](https://github.com/nabu-catalog/nabu) - nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items. www.paradisec.org.au
 * [Natural](https://github.com/NaturalNode/natural) - *Javascript* general natural language facilities for node.
 * [NIST 2008 Open Machine Translation Evalutation](https://catalog.ldc.upenn.edu/LDC2010T21)
 * [NLTK](https://github.com/nltk/nltk) - *Python* Natural Language Tool Kit. NLTK Source http://www.nltk.org/.
