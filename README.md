@@ -111,7 +111,10 @@ This list used to be named `endangered-languages`. It was renamed to reflect tha
 
 Tools which are built for these languages are not included (unless relevant for dialects or variants): Arabic, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, Flemish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Norwegian (Bokmål), Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Valencian, Vietnamese. This list comes from the list of most popular content languages for websites, [on this Wikipedia page](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet). Other metrics could be used - if you have another one, please suggest it!
 
+This list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the [Firefox language packs](https://addons.mozilla.org/eu/firefox/language-tools/) or [Apertium language modules](https://github.com/apertium/apertium-languages) for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the [ACL Wiki](https://aclweb.org/aclwiki/Resources_for_Basque), which would mainly mean cataloguing tools through the [IXA group](http://ixa.si.ehu.es/produktuak?language=en), some of which are open source, and some are not. Instead, view this list as a starting point for more research.
+
 Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
+
 
 # Generic Repositories
 
