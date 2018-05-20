@@ -60,6 +60,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Other OSS Organizations](#other-oss-organizations)
 - [Tutorials](#tutorials)
 - [Language Specific Projects](#language-specific-projects)
+  - [Afrikaans](#afrikaans)
   - [Albanian](#albanian)
   - [Alutiiq](#alutiiq)
   - [Amharic](#amharic)
@@ -525,6 +526,12 @@ These corpora are useful for working with tools on endangered languages. Monolin
 # Language Specific Projects
 
 For each language, we include the [ISO 639-3 code](https://en.wikipedia.org/wiki/ISO_639-3), and the main autonym for that language.
+
+## Afrikaans
+
+_afr :: Afrikaans_
+
+* [Afrikaanse rekenaarlinguïstiek (Afrikaans computational linguistics)](http://xixona.dlsi.ua.es/~fran/afrikaans/index.old.html) — wordlists, corpora, morphological analyser, tagger, word decompounder. Available upon email.
 
 ## Albanian
 
