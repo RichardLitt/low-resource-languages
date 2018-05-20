@@ -78,6 +78,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Inuktitut](#inuktitut)
   - [Irish](#irish)
   - [Kinyarwanda](#kinyarwanda)
+  - [Kurdish](#kurdish)
   - [Lingala](#lingala)
   - [Lushootseed](#lushootseed)
   - [Malay](#malay)
@@ -695,13 +696,19 @@ _gle :: Gaeilge_
 * [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial](https://github.com/kscanne/tesseract-gle-uncial) - OCR for old Irish fonts.
 
-
 ## Kinyarwanda
 
 _kin :: Ikinyarwanda_
 
 * [kin-morph-fst](https://github.com/ldmt-muri/kin-morph-fst) - Kinyarwanda morphological analyzer.
 * [TurboTagger & TurboParser for Kinyarwanda (download)](https://web.archive.org/web/*/http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz) TurboTagger & TurboParser for Kinyarwanda
+
+## Kurdish
+
+_kur :: Kurdî_
+
+* [Kurlex](https://gforge.inria.fr/scm/viewvc.php/alexina/kurlex/trunk/) - Morphological analyser and lexicon, written in the Alexina framework, licensed under the LGPL-LR.
+* [kurmanji-stemmer](https://github.com/adelra/kurmanji-stemmer) - NLTK based kurmanji stemmer
 
 ## Lingala
 
