@@ -439,7 +439,6 @@ _FieldDB_ is actively worked on by the [FieldDB (Formally known as OpenSourceFie
 * [FieldDBActivityFeed](https://github.com/FieldDB/FieldDBActivityFeed) - A fielddb activity feed widget which can be embedded in other codebases, websites etc [use](https://chrome.google.com/webstore/detail/lingsync-prototype/eeipnabdeimobhlkfaiohienhibfcfpa).
 * [FieldDBGlosser](https://github.com/FieldDB/FieldDBGlosser) - A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save.
 * [FieldDBLexicon](https://github.com/FieldDB/FieldDBLexicon) - A lexicon browser/editor web widget for FieldDB databases.
-* [FieldDBWebServer](https://github.com/FieldDB/FieldDBWebServer) - Web server which can display FieldDB public corpora/user's share pages [use](https://wwwdev.lingsync.org/lingllama/lingllama-communitycorpus).
 * [LanguageClassDashboard](https://github.com/FieldDB/LanguageClassDashboard) - App which provides a view of FieldDB corpora for language teachers [use](http://app.phophlo.ca/).
 * [LexiconWebService](https://github.com/FieldDB/LexiconWebService) - A node.js ElasticSearch wrapper for indexing/training lexicons from corpora.
 * [LexiconWebServiceSample](https://github.com/FieldDB/LexiconWebServiceSample) - A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project.
@@ -600,7 +599,7 @@ _glg :: galego_
 * [rima](https://github.com/bertez/rima) - Find rhyming words in galician language.
 * [stopwords-gl](https://github.com/stopwords-iso/stopwords-gl) - Galician stopwords collection
 * [texlive-babel-galician](https://github.com/OpenMandrivaAssociation/texlive-babel-galician) - TeXLive babel-galician package
-* [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG) - The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG/) created at the University of Vigo by the the TALG NLP research group.
+* [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG) - The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus created at the University of Vigo by the the TALG NLP research group.
 * [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal) - The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
 * [UL_Galician-TreeGal](https://github.com/conllul/UL_Galician-TreeGal) - CoNLL-UL Repository for UD_Galician-TreeGal
 
