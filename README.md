@@ -74,6 +74,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Hausa](#hausa)
   - [Hindi](#hindi)
   - [Høgnorsk](#h%C3%B8gnorsk)
+  - [Icelandic](#icelandic)
   - [Inuktitut](#inuktitut)
   - [Irish](#irish)
   - [Kinyarwanda](#kinyarwanda)
@@ -669,6 +670,12 @@ _hin :: हिन्दी_
 _nno :: Høgnorsk_
 
 * [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) - A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
+
+## Icelandic
+
+_isl :: íslenska_
+
+* [IceNLP](https://github.com/hrafnl/icenlp) - IceNLP is an open source Natural Language Processing (NLP) toolkit for analyzing and processing Icelandic text. The toolkit is implemented in Java.
 
 ## Inuktitut
 
