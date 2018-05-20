@@ -52,7 +52,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [FieldDB Webservices/Components/Plugins](#fielddb-webservicescomponentsplugins)
 - [Academic Research Paper-Specific Repositories](#academic-research-paper-specific-repositories)
 - [Example Repositories](#example-repositories)
-- [Language & Code Interfaces](#language--code-interfaces)
 - [Fonts](#fonts)
 - [Corpora](#corpora)
 - [Organizations](#organizations)
@@ -64,7 +63,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Albanian](#albanian)
   - [Alutiiq](#alutiiq)
   - [Amharic](#amharic)
-  - [Arabic](#arabic)
   - [Bengali](#bengali)
   - [Chichewa](#chichewa)
   - [Galician](#galician)
@@ -463,10 +461,6 @@ _These are repositories that are generally only interesting for training purpose
 * [lucenerevolution-2013](https://github.com/FieldDB/lucenerevolution-2013) - Demo examples for linguistics in Lucene and Solr.
 * [berlin-buzzwords-2013](https://github.com/FieldDB/berlin-buzzwords-2013) - Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk.
 
-# Language & Code Interfaces
-
-* [قلب](https://github.com/nasser/---) - ‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages.
-
 # Fonts
 
 * [fontinline](https://github.com/sillsdev/fontinline) - Make inline stroke paths from an outline font.
@@ -553,13 +547,6 @@ _ems :: sugpiaq_
 _amh :: አማርኛ_
 
 * [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - Morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
-
-
-## Arabic
-
-_ara :: العربية_
-
-* [Dialects](https://github.com/amagidow/dialects) - Django project to allow for documentation (input and displaty) of linguistic forms in dialects or closely related languages.
 
 ## Bengali
 
