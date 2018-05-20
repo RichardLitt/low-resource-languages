@@ -63,6 +63,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Albanian](#albanian)
   - [Alutiiq](#alutiiq)
   - [Amharic](#amharic)
+  - [Basque](#basque)
   - [Bengali](#bengali)
   - [Chichewa](#chichewa)
   - [Galician](#galician)
@@ -551,6 +552,12 @@ _ems :: sugpiaq_
 _amh :: አማርኛ_
 
 * [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - Morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs
+
+## Basque
+
+_eus :: euskara_
+
+* [Matxin](http://matxin.sourceforge.net/) - An open-source transfer machine translation engine. Linguistic information for the translation from Spanish and Basque (es-eu) is included.
 
 ## Bengali
 
