@@ -12,7 +12,6 @@ Please feel free to contribute in any way you can: by submitting links, by engag
 - Alphabetize your entry.
 - If a language entry for your specific tool does not exist, please create one.
 - Update the Table of Contents if you can. This can be done automatically with [`doctoc`](https://github.com/thlorenz/doctoc).
-- To add the GitHub Star badge, run `cd tooling; sh add_stars.sh`.
 - Check that your links work. We will automatically catch any broken links using TravisCI.
 
 If any of this is arduous, please open a PR with what you have and we can work together to make it fit.

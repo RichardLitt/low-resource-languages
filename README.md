@@ -237,7 +237,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [old](https://github.com/dativebase/old) - The Online Linguistic Database (OLD): software for linguistic fieldwork. http://www.onlinelinguisticdatabase.org.
 * [old-pyramid](https://github.com/dativebase/old-pyramid) - Online Linguistic Database migrated to the Pyramid framework.
 * [OmegaT-hfst-tokenizer](https://github.com/divvun/OmegaT-hfst-tokenizer) - OmegaT-hfst-tokenizer provides fst-based tokenisation in OmegaT.
-* [OpenDataKit](https://opendatakit.org/downloads/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
+* [OpenDataKit](https://opendatakit.org/software/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [OpenNLP](https://github.com/apache/opennlp) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [ops-devbox](https://github.com/sillsdev/ops-devbox) - Ansible playbook for a (linux) developer machine.
 * [panlex-tools](https://github.com/longnow/panlex-tools) - This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org.
@@ -514,7 +514,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 ## Other OSS Organizations
 
 * [Giellatekno](http://giellatekno.uit.no/index.eng.html) - Giellatekno combines cutting-edge linguistic and computational research into the analysis of Saami and other morphologically-rich languages, with the development of practical applications. We focus on deep linguistic modeling and on highly efficient and robust computational analysis with a wide empirical coverage. They use svn for their code: all of it can be found [here](https://victorio.uit.no/langtech/trunk/langs/), sorted by language.
-* [LOWLANDS](https://bitbucket.org/lowlands/) - LOWLANDS – Parsing low-resource languages and domains http://ccc.ku.dk/research/lowlands/
+* [LOWLANDS](https://bitbucket.org/lowlands/) - LOWLANDS – Parsing low-resource languages and domains https://ccc.ku.dk/research/lowlands/
 * [LTRC: Language Technologies Research Center IIIT Hyderabad](http://ltrc.iiit.ac.in/) LTRC addresses the complex problem of understanding and processing natural languages in both speech and text mode. LTRC conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South Asia. LTRC carries out its work through four labs, which work in synergy with each other, as listed above.
 * [The Language Archive](https://tla.mpi.nl/tools/tla-tools/) Part of the MPI
 
