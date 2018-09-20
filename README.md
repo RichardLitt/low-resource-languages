@@ -246,6 +246,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [pathway](https://github.com/sillsdev/pathway) - Preparing language data for publication.
 * [pdfdroplet](https://github.com/sillsdev/pdfdroplet) - Library and GUI for imposition of PDF pages (e.g. 2-up) http://software.sil.org/pdfdroplet/.
 * [pepper](https://github.com/korpling/pepper) - Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
+* [Persephone](https://github.com/persephone-tools/persephone) - Persephone aims to make state-of-the-art phonemic transcription accessible to people involved in language documentation, who have a training corpus of about one to four hours of transcribed speech. 
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) - Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [pressagio](https://github.com/cidles/pressagio) - Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [PrimerPro](https://github.com/sillsdev/PrimerPro) - The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
