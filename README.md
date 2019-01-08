@@ -161,6 +161,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [discoursegraphs](https://github.com/arne-cl/discoursegraphs) - Python-based tool to convert and merge multilayer annotated linguistic data.
 * [divvun-gramcheck](https://github.com/divvun/libdivvun) - This program does FST lookup on forms specified as Constraint Grammar format readings, and looks up error-tags in an XML file with human-readable messages. It is meant to be used as a late stage of a grammar checker pipeline.
 * [DLTK](https://github.com/alvations/DLTK) - Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html).
+* [epitran](https://github.com/dmort27/epitran) - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) - Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
 * [enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library https://abiword.github.io/enchant/.
 * [exsite9](https://github.com/IntersectAustralia/exsite9) - ExSite9 is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository. ExSite9 also allows for the structural organisation of said files within actually moving their physical location on your local file storage; allowing you to correctly organise your files and metadata ready for packaging.
@@ -269,6 +270,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [str2ipa](https://github.com/ytsvetko/str2ipa) - Pronunciation dictionaries for languages with close-to-phonetic writing systems.
 * [sugali](https://github.com/alvations/sugali) - This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.
 * [SuGarLike](https://github.com/alvations/SuGarLike) - Language Identification for Low Resource Languages (by Susanne, Guy and Liling).
+* [SyllabiPy](https://github.com/henchc/syllabipy) - Python interface for universal syllabification algorithms
 * [tasty-imitation-keyboard](https://github.com/divvun/tasty-imitation-keyboard) - A custom keyboard for iOS8+ that serves as a tasty imitation of the default Apple keyboard. Built using Swift and the latest Apple technologies!.
 * [TECkit](https://github.com/silnrsi/teckit) - A Text Encoding Conversion toolkit.
 * [teny](https://github.com/vchahun/teny) - Tools for low-resource machine translation.
@@ -349,6 +351,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [kaldi-svn-archive](https://github.com/kaldi-asr/kaldi-svn-archive) - An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available).
 * [kaldi](https://github.com/kaldi-asr/kaldi) - This is now the official location of the Kaldi project.
 * [lex4all](https://github.com/FieldDB/lex4all) - pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project).
+* [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Python interface for forced text/speech alignment.
 * [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx)
 * [opensauce](https://github.com/voicesauce/opensauce) - GNU Octave-compatible version of VoiceSauce.
 * [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop.
