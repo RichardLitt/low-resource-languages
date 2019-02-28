@@ -95,6 +95,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Secwepemctsín](#secwepemcts%C3%ADn)
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
+  - [Uralic](#uralic)
   - [Yiddish](#yiddish)
   - [Zulu](#zulu)
 - [License](#license)
