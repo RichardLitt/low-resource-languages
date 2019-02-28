@@ -833,6 +833,10 @@ _tir :: ትግርኛ_
 
 * [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.
 
+## Uralic
+_urj :: Uralic languages_
+* [UralicNLP](https://github.com/mikahama/uralicNLP) - A Python library for processing Uralic languages (Finnish, Skolt Sami, Erzya, Moksha, Komi-Zyrian and so on). The library provides an easy programmatic access to Giellatekno resources such as FST morphology and CG disambiguators. Other functionalities include UD parser, API for the [Online Dictionary of Uralic Languages](http://akusanat.com) and interface to SemFi and SemUr semantic databases. The library is under active development and new features are added from time to time.
+
 ## Yiddish
 
 _yid :: yidish_
