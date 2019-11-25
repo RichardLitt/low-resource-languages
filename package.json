@@ -1,6 +1,6 @@
 {
   "name": "low-resource-languages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.",
   "main": "README.md",
   "scripts": {
