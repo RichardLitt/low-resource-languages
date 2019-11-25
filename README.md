@@ -124,7 +124,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ### Utilities
 * [Project for Free Electronic Dictionaries](http://pfed.info/) Is a project for a java MIDlet for mobile phones - for indigenous language dictionaries.
-* [Webonary](http://www.webonary.org/) Site which hosts digital dictionaries for single languages.
+* [Webonary](https://www.webonary.org/) Site which hosts digital dictionaries for single languages.
 * [WeSay](https://github.com/sillsdev/wesay) - Allows language communities to build their own dictionaries. https://software.sil.org/wesay/ (by the SIL International).
 
 ## Software
@@ -169,7 +169,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner.
 * [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [FieldWorks](https://github.com/sillsdev/FieldWorks) - FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. https://software.sil.org/fieldworks/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology.
-* [Franc](https://github.com/wooorm/franc) - Natural language detection http://wooorm.com/franc/.
+* [Franc](https://github.com/wooorm/franc) - Natural language detection https://wooorm.com/franc/.
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) - Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) - Localizations for FieldWorks.
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) - Additional tools for FieldWorks development.
@@ -178,7 +178,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [giella-ime](https://github.com/divvun/giella-ime) - A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems.
 * [giza-pp](https://github.com/moses-smt/giza-pp) - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
-* [Glottolog data](https://github.com/clld/glottolog-data) - [Glottolog](http://glottolog.org) provides comprehensive reference information for the world's languages.
+* [Glottolog data](https://github.com/clld/glottolog-data) - [Glottolog](https://glottolog.org) provides comprehensive reference information for the world's languages.
 * [Gramadóir](https://github.com/kscanne/gramadoir) - Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) - An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) - HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
@@ -285,7 +285,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) - A collection of scripts and recipes for linguistics.
 * [transcriber](https://github.com/langtech/transcriber/tree/dev) - An HTML5 transcription tool for Aikuma
 * [translitit-engine](https://github.com/gausby/translitit-engine) - A transliteration engine written in JavaScript.
-* [Tsammalex data](https://github.com/clld/tsammalex-data) - [Tsammalex](http://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
+* [Tsammalex data](https://github.com/clld/tsammalex-data) - [Tsammalex](https://tsammalex.clld.org) is a multilingual lexical database on plants and animals.
 * [tweet2learn](https://github.com/kscanne/tweet2learn) - An app to make it easier to use your native language on Twitter.
 * [twitter_langid](https://github.com/ajaech/twitter_langid) - A hierarchical character-word neural network for language identification.
 * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) - Universal Dependencies online documentation http://universaldependencies.org/docs/.
@@ -337,7 +337,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # i18n-related Repositories
 
 * [Express-Lingua](https://github.com/akoenig/express-lingua) - An i18n middleware for the Express.js framework.
-* [Polyglot.js](http://airbnb.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
+* [Polyglot.js](https://airbnb.io/polyglot.js/) Give your JavaScript the ability to speak many languages.
 * [Transifex](https://www.transifex.com/) - System for providing a nice, userfriendly/project oriented approach to translating `.po` files. Great for non-technical users, free for open-source projects, decent for minority languages; **however**, it can take a while to get a new language added to the Transifex system because the ticketing system Transifex uses results in them losing tickets sometimes. Provides translation memory, ability to appoint reviewers, etc. Transifex used to have an open source system that you could host on your own, but that seems to have disappeared.
 
 # Audio automation
@@ -408,7 +408,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 # Computing systems
 
-* [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.w.uib.no/about/) - One of their projects (not clearly listed here) is about providing an online system for language analysis, so users can connect resources visually, dump in text, and get a result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](http://www.uio.no/english/services/it/research/hpc/abel/) cluster.
+* [Common Language Resources and Technology Infrastructure Norway / Clarino](https://clarin.w.uib.no/about/) - One of their projects (not clearly listed here) is about providing an online system for language analysis, so users can connect resources visually, dump in text, and get a result. Kind of like the Yahoo! Pipes but for language processing. Uses the [ABEL](https://www.uio.no/english/services/it/research/hpc/abel/) cluster.
 
 # Android Applications
 
@@ -475,7 +475,7 @@ _These are repositories that are generally only interesting for training purpose
 
 * [fontinline](https://github.com/sillsdev/fontinline) - Make inline stroke paths from an outline font.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.
-* [Unicodify](http://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
+* [Unicodify](https://www.lancaster.ac.uk/staff/hardiea/unicodify.htm) Unicodify is a suite of programs for converting text in a variety of 8-bit encodings to Unicode (using the UTF-16 encoding). Unicodify was particularly designed to handle HTML-based text using non-ISCII 8-bit fonts to render South Asian scripts. However, elements of the suite can map other types of non-ASCII 8-bit encodings, such as Latin-2, ISCII and PASCII.
 
 # Corpora
 
@@ -797,7 +797,7 @@ _sma :: Sámi/Saami_
 * [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools.
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
-- [Neahttadigisánit](http://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
+- [Neahttadigisánit](https://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
 Giellatekno does a lot for other minority Uralic languages. Following are some keywords for CTRL+F friendliness:
 
 * Saami languages: North Saami, Lule Saami, South Saami // Inari Saami, Kildin Saami, Pite Saami, Skolt Saami.
@@ -812,7 +812,7 @@ _gla :: Gàidhlig_
 * [briathrachan](https://github.com/tobiasbayer/briathrachan) - This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.
 * [gaidhlig](https://github.com/kscanne/gaidhlig) - NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines.
 * [gd-fcfg](https://github.com/wojtekdz/gd-fcfg) - Context-free feature-based grammar of Scottish Gaelic in the NLTK format.
-* [gdbank](https://github.com/colinbatchelor/gdbank) - Some tools and resources for natural language processing of Scottish Gaelic. http://www.tantallon.org.uk/cggblog/.
+* [gdbank](https://github.com/colinbatchelor/gdbank) - Some tools and resources for natural language processing of Scottish Gaelic. https://www.tantallon.org.uk/cggblog/.
 * [hunspell-gd](https://github.com/kscanne/hunspell-gd) - Files for building Scottish Gaelic spell checkers.
 
 ## Secwepemctsín
@@ -836,7 +836,7 @@ _tir :: ትግርኛ_
 
 ## Uralic
 _urj :: Uralic languages_
-* [UralicNLP](https://github.com/mikahama/uralicNLP) - A Python library for processing Uralic languages (Finnish, Skolt Sami, Erzya, Moksha, Komi-Zyrian and so on). The library provides an easy programmatic access to Giellatekno resources such as FST morphology and CG disambiguators. Other functionalities include UD parser, API for the [Online Dictionary of Uralic Languages](http://akusanat.com) and interface to SemFi and SemUr semantic databases. The library is under active development and new features are added from time to time.
+* [UralicNLP](https://github.com/mikahama/uralicNLP) - A Python library for processing Uralic languages (Finnish, Skolt Sami, Erzya, Moksha, Komi-Zyrian and so on). The library provides an easy programmatic access to Giellatekno resources such as FST morphology and CG disambiguators. Other functionalities include UD parser, API for the [Online Dictionary of Uralic Languages](https://akusanat.com) and interface to SemFi and SemUr semantic databases. The library is under active development and new features are added from time to time.
 
 ## Yiddish
 
