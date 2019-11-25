@@ -96,7 +96,6 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
   - [Uralic](#uralic)
-  - [Yiddish](#yiddish)
   - [Zulu](#zulu)
 - [License](#license)
 
@@ -199,7 +198,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [l20n.js](https://github.com/l20n/l20n.js) - L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org.
 * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html).
-* [leebock/languages](https://github.com/leebock/languages) - Application files for the Smithsonian endangered languages story map.
 * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) - Material relating to the LEGO Unified Concepticon.
 * [Lex4All](https://github.com/lex4all/lex4all) - pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/.
 * [lexdb](https://bitbucket.org/evoling/lexdb) - LexDB is a lexical cognate tracking database. It stores the full provenance of all lexemes and cognate judgements, and allows export into a number of nexus dialects. The database is written in the flexible python/django web framework.
@@ -215,7 +213,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [MacVoikko](https://github.com/bnavetta/MacVoikko) - An OS X spelling server based on Voikko.
 * [Machine](https://github.com/sillsdev/machine) - Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx).
 * [Make-extensions](https://github.com/kscanne/make-extensions) - Scripts for generating hunspell spellchecking extensions.
-* [maxent](https://github.com/lzhang10/maxent) - Maximum Entropy Modeling Toolkit for Python and C++ http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html.
 * [mgiza](https://github.com/moses-smt/mgiza) - A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.
 * [Minority Translate](https://bitbucket.org/andrjus/minoritytranslate/) Minority Translate is a simple program for helping content generation on smaller sized Wikipedias (actually any sized) by giving pointers to existing articles in other language Wikipedias, so that the user can easily translate or adapt existing texts and thus increase the size and useability of their Wikipedia editions.
 * [morfessor](https://github.com/aalto-speech/morfessor) - Morfessor is a tool for unsupervised and semi-supervised morphological segmentation.
@@ -292,7 +289,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [UniversalDependencies tools](https://github.com/universaldependencies/tools) - Various utilities for processing the data.
 * [VocBench](https://bitbucket.org/art-uniroma2/vocbench3) VocBench is a web-based, multilingual, editing and workflow tool that manages thesauri, authority lists and glossaries using SKOS-XL.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas https://wavesurfer-js.org/ (Also has an ELAN plugin).
-* [web-scriptureforge](https://github.com/sillsdev/web-scriptureforge) - platform for Scripture-related web apps.
 * [web-template](https://github.com/eddersko/web-template) - This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [webcorpus](https://github.com/zseder/webcorpus) - This project is a collection of scripts and programs for creating a webcorpus from crawled data.
 * [wikt2dict](https://github.com/juditacs/wikt2dict) - Wiktionary parser tool for many language editions.
@@ -324,7 +320,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [LDC Word Aligner](https://github.com/RichardLitt/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources. [Website](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner).
 * [poio-analyzer](https://github.com/cidles/poio-analyzer) - Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
 * [poio-api](https://github.com/cidles/poio-api) - Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F…
-* [poio-doc](https://github.com/cidles/poio-doc) - Documentation of the Poio project.
 * [pyannotation](https://github.com/cidles/pyannotation) - PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
@@ -417,7 +412,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [android-template](https://github.com/eddersko/android-template) - This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/.
 * [AndroidFieldDB](https://github.com/FieldDB/AndroidFieldDB) - An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.
 * [AndroidFieldDBElicitationRecorder](https://github.com/FieldDB/AndroidFieldDBElicitationRecorder) - A general purpose video recording tool.
-* [AndroidLanguageLessons](https://github.com/FieldDB/AndroidLanguageLessons) - Lets heritage speakers create self designed language lessons. https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.lessons.georgian.
+* [AndroidLanguageLessons](https://github.com/FieldDB/AndroidLanguageLessons) - Lets heritage speakers create self designed language lessons.
 * [AndroidProductionExperiment](https://github.com/FieldDB/AndroidProductionExperiment) - Android App to run perception experiments.
 * [Bevara](https://github.com/KentonMurray/bevara) - Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages.
 * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) - A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/.
@@ -666,7 +661,7 @@ _kat :: ქართული_
 
 _grn :: Guarani_
 
-* [ParaMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives. Used to be [here](https://www.cs.indiana.edu/~gasser/research/software.html).
+* [ParaMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives.
 
 ## Hausa
 
@@ -707,7 +702,6 @@ _gle :: Gaeilge_
 * [caighdean](https://github.com/kscanne/caighdean) - Code for standardizing Irish language text.
 * [fleiscin](https://github.com/hyphenation/fleiscin) - Irish hyphenation patterns for TeX https://cadhan.com/fleiscin/.
 * [GaelSpell](https://github.com/kscanne/gaelspell) - Sources for an Irish language spell checker.
-* [morphological analyzer & syntactic disambiguator](http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html) Elaine Uí Dhonnchadha has produced a morphology in XFST/FOMA, which now seems to be hosted by [Giellatekno]. Includes syntax written in VISL Constraint Grammar.
 * [tesseract-gle-uncial](https://github.com/kscanne/tesseract-gle-uncial) - OCR for old Irish fonts.
 
 ## Kinyarwanda
@@ -794,7 +788,7 @@ _que :: Runa Simi_
 _sma :: Sámi/Saami_
 
 * [divvun-webdemo](https://github.com/divvun/divvun-webdemo) - simple webdemo for divvun grammar checker. [Webite](https://gtweb.uit.no/gc/).
-* [Giellatekno](http://giellatekno.uit.no/doc/admin/ProjectDocumentationOverview.html) A host of Sámi tools.
+* [Giellatekno](http://giellatekno.uit.no/) A host of Sámi tools.
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
 - [Neahttadigisánit](https://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
@@ -825,7 +819,7 @@ _shs :: Secwepemctsín_
 
 _som :: Soomaaliga_
 
-* [somorph](https://github.com/rtxanson/somorph) - Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in in [Giellatekno's](http://giellatekno.uit.no/doc/lang/som/SomaliDocumentation.html) repository.
+* [somorph](https://github.com/rtxanson/somorph) - Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in on [Giellatekno's](http://giellatekno.uit.no) repository.
 * [qaamuus.net](http://qaamuus.net/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
 
 ## Tigrinya
@@ -837,12 +831,6 @@ _tir :: ትግርኛ_
 ## Uralic
 _urj :: Uralic languages_
 * [UralicNLP](https://github.com/mikahama/uralicNLP) - A Python library for processing Uralic languages (Finnish, Skolt Sami, Erzya, Moksha, Komi-Zyrian and so on). The library provides an easy programmatic access to Giellatekno resources such as FST morphology and CG disambiguators. Other functionalities include UD parser, API for the [Online Dictionary of Uralic Languages](https://akusanat.com) and interface to SemFi and SemUr semantic databases. The library is under active development and new features are added from time to time.
-
-## Yiddish
-
-_yid :: yidish_
-
-* [Espeek](https://bitbucket.org/linguistlist/espeak_yid) - This is a first version of an Espeak module for Yiddish.
 
 ## Zulu
 
