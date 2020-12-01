@@ -300,10 +300,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 # Keyboard Layout Configuration Helpers
 
+* [jQuery.IME](https://github.com/wikimedia/jquery.ime) - jQuery Input Method Editor used on Wikipedia
 * [Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~ https://mottie.github.io/Keyboard/.
 * [Keyboards](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards.
 * [Keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
 * [keyboardlayouteditor](https://github.com/simos/keyboardlayouteditor) - Keyboard Layout Editor https://code.google.com/archive/p/keyboardlayouteditor/.
+* [Keyboard layout editor](https://github.com/ijprest/keyboard-layout-editor) - Keyboard Layout Editor http://www.keyboard-layout-editor.com
 * [lipika-ime](https://github.com/ratreya/lipika-ime) - Input Method Engine (IME) for Mac OS X with built-in support for all Indic Languages.
 * [XKeyboardConfig](https://www.freedesktop.org/wiki/Software/XKeyboardConfig/) - The non-arch keyboard configuration database for X Window. The goal is to provide the consistent, well-structured, frequently released open source of X keyboard configuration data for X Window System implementations (free, open source and commercial). The project is targeted to XKB-based systems.
 
