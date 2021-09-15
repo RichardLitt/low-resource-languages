@@ -492,7 +492,7 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [unicode-cldr](https://github.com/unicode-cldr) - Unicode Common Locale Data Repository (CLDR) Project http://cldr.unicode.org
 * [cmusphinx](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
 * [dativebase](https://github.com/dativebase) - Tools for working with OLD.
-* [divvun](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for minority languages, especially the Sámi languages. [Website](http://divvun.no).
+* [divvun](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for indigenous and minority languages, especially the Sámi languages. [Website](http://divvun.no).
 * [FieldDB](https://github.com/FieldDB)
 * [GiellaLT](https://github.com/giellalt) - home for keyboard layouts, lexicons and morphologies for indigenous and minority languages, especially for morphologically complex languages, using mainly rule-based techonlogies. The resources are used by Divvun (above) and Giellatekno (below) to build a number of tools for the language communities. Almost everything is open source.
 * [HFST](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
