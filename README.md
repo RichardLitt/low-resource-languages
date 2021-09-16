@@ -160,6 +160,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [dictdb](https://github.com/substack/dictdb) - dictionary database for language translation.
 * [discoursegraphs](https://github.com/arne-cl/discoursegraphs) - Python-based tool to convert and merge multilayer annotated linguistic data.
 * [divvun-gramcheck](https://github.com/divvun/libdivvun) - This program does FST lookup on forms specified as Constraint Grammar format readings, and looks up error-tags in an XML file with human-readable messages. It is meant to be used as a late stage of a grammar checker pipeline.
+* [divvun-keyboard](https://github.com/divvun/divvun-keyboard) - keyboard apps for iOS and Android with keyboard layouts for indigenous and minority languages
 * [divvunspell](https://github.com/divvun/divvunspell) - `hfst-ospell` (below) rewritten in Rust, for robust concurrency and memory management. Is in practical use about 10x faster than `hfst-ospell`. It uses the same zhfst files as `hfst-ospell`, which are available for all languages in the [GiellaLT](https://github.com/giellalt/) GitHub org (see below).
 * [DLTK](https://github.com/alvations/DLTK) - Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html).
 * [epitran](https://github.com/dmort27/epitran) - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
