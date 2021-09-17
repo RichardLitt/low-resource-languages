@@ -160,6 +160,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [dictdb](https://github.com/substack/dictdb) - dictionary database for language translation.
 * [discoursegraphs](https://github.com/arne-cl/discoursegraphs) - Python-based tool to convert and merge multilayer annotated linguistic data.
 * [divvun-gramcheck](https://github.com/divvun/libdivvun) - This program does FST lookup on forms specified as Constraint Grammar format readings, and looks up error-tags in an XML file with human-readable messages. It is meant to be used as a late stage of a grammar checker pipeline.
+* [divvun-keyboard](https://github.com/divvun/divvun-keyboard) - keyboard apps for iOS and Android with keyboard layouts for indigenous and minority languages
+* [divvunspell](https://github.com/divvun/divvunspell) - `hfst-ospell` (below) rewritten in Rust, for robust concurrency and memory management. Is in practical use about 10x faster than `hfst-ospell`. It uses the same zhfst files as `hfst-ospell`, which are available for all languages in the [GiellaLT](https://github.com/giellalt/) GitHub org (see below).
 * [DLTK](https://github.com/alvations/DLTK) - Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html).
 * [epitran](https://github.com/dmort27/epitran) - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) - Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
@@ -173,8 +175,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [FwLocalizations](https://github.com/sillsdev/FwLocalizations) - Localizations for FieldWorks.
 * [FwSupportTools](https://github.com/sillsdev/FwSupportTools) - Additional tools for FieldWorks development.
 * [Gaia](https://github.com/mozilla-b2g/gaia) - Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
-* [giellakbd-ios](https://github.com/divvun/giellakbd-ios) - An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards.
-* [giella-ime](https://github.com/divvun/giella-ime) - A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems.
+* [giellakbd-android](https://github.com/divvun/giellakbd-android) - A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems. Used by [kbdgen](https://github.com/divvun/kbdgen) (see elsewhere on this page).
+* [giellakbd-ios](https://github.com/divvun/giellakbd-ios) - An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards. Used by [kbdgen](https://github.com/divvun/kbdgen) (see elsewhere on this page).
 * [giza-pp](https://github.com/moses-smt/giza-pp) - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
 * [Glottolog data](https://github.com/clld/glottolog-data) - [Glottolog](https://glottolog.org) provides comprehensive reference information for the world's languages.
@@ -301,6 +303,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 # Keyboard Layout Configuration Helpers
 
 * [jQuery.IME](https://github.com/wikimedia/jquery.ime) - jQuery Input Method Editor used on Wikipedia
+* [kbdgen](https://github.com/divvun/kbdgen) - Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.
 * [Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~ https://mottie.github.io/Keyboard/.
 * [Keyboards](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards.
 * [Keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
@@ -490,8 +493,9 @@ These corpora are useful for working with tools on endangered languages. Monolin
 * [unicode-cldr](https://github.com/unicode-cldr) - Unicode Common Locale Data Repository (CLDR) Project http://cldr.unicode.org
 * [cmusphinx](https://github.com/cmusphinx) - Mirror of the SourceForge repositories
 * [dativebase](https://github.com/dativebase) - Tools for working with OLD.
-* [divvun](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for minority languages, especially the Sámi languages. [Website](http://divvun.no).
+* [divvun](https://github.com/divvun) - The Divvun group at UiT develops proofing tools, keyboard apps and other language technology solutions for indigenous and minority languages, especially the Sámi languages. [Website](http://divvun.no).
 * [FieldDB](https://github.com/FieldDB)
+* [GiellaLT](https://github.com/giellalt) - home for keyboard layouts, lexicons and morphologies for indigenous and minority languages, especially for morphologically complex languages, using mainly rule-based techonlogies. The resources are used by Divvun (above) and Giellatekno (below) to build a number of tools for the language communities. Almost everything is open source.
 * [HFST](https://github.com/hfst) - Helsinki Finite-State Technology. [Website](http://hfst.github.io/).
 * [hunspell](https://github.com/hunspell)
 * [keymanapp](https://github.com/keymanapp) - [Website](https://keyman.com/).
