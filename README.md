@@ -793,7 +793,7 @@ _que :: Runa Simi_
 
 _sma :: Sámi/Saami_
 
-* [divvun-webdemo](https://github.com/divvun/divvun-webdemo) - simple webdemo for divvun grammar checker. [Webite](https://gtweb.uit.no/gc/).
+* [divvun-webdemo](https://github.com/divvun/divvun-webdemo) - simple webdemo for divvun grammar checker. [Website](https://gtweb.uit.no/gc/).
 * [Giellatekno](http://giellatekno.uit.no/) A host of Sámi tools.
 - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 - [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
