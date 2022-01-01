@@ -41,6 +41,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
 - [i18n-related Repositories](#i18n-related-repositories)
 - [Audio automation](#audio-automation)
 - [Text-to-Speech (TTS)](#text-to-speech-tts)
+- [Automatic Speech Recognition (ASR)](#automatic-speech-recognition-asr)
 - [Text automation](#text-automation)
 - [Experimentation](#experimentation)
 - [Flashcards](#flashcards)
@@ -247,7 +248,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [pathway](https://github.com/sillsdev/pathway) - Preparing language data for publication.
 * [pdfdroplet](https://github.com/sillsdev/pdfdroplet) - Library and GUI for imposition of PDF pages (e.g. 2-up) http://software.sil.org/pdfdroplet/.
 * [pepper](https://github.com/korpling/pepper) - Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
-* [Persephone](https://github.com/persephone-tools/persephone) - Persephone aims to make state-of-the-art phonemic transcription accessible to people involved in language documentation, who have a training corpus of about one to four hours of transcribed speech. 
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) - Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [pressagio](https://github.com/cidles/pressagio) - Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [PrimerPro](https://github.com/sillsdev/PrimerPro) - The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.
@@ -350,7 +350,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [html5-audio-read-along](https://github.com/westonruter/html5-audio-read-along) - HTML5 Audio Read-Along.
 * [ipa-chart](https://github.com/westonruter/ipa-chart) - International Phonetic Alphabet (IPA) Unicode Chart and Character Picker.
 * [kaldi-svn-archive](https://github.com/kaldi-asr/kaldi-svn-archive) - An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available).
-* [kaldi](https://github.com/kaldi-asr/kaldi) - This is now the official location of the Kaldi project.
 * [lex4all](https://github.com/FieldDB/lex4all) - pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project).
 * [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Python interface for forced text/speech alignment.
 * [node-pocketsphinx](https://github.com/cmusphinx/node-pocketsphinx)
@@ -379,6 +378,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [espeak](http://espeak.sourceforge.net/) - eSpeak is a compact open source software speech synthesizer for English and other languages, for Linux and Windows. http://espeak.sourceforge.net.
 * [MARY TTS](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de.
 * [Ossian](http://homepages.inf.ed.ac.uk/owatts/ossian/html/index.html) - Ossian is a collection of Python code for building text-to-speech (TTS) systems, with an emphasis on easing research into building TTS systems with minimal expert supervision.
+
+# Automatic Speech Recognition (ASR)
+
+* [Elpis](https://github.com/CoEDL/elpis) - Elpis is software for creating speech recognition models and applying them to the transcription of audio. As of 2022, it gives access to Kaldi and Huggingface Transformers.
+* [kaldi](https://github.com/kaldi-asr/kaldi) - This is now the official location of the Kaldi project.
+* [Persephone](https://github.com/persephone-tools/persephone) - Persephone aims to make state-of-the-art phonemic transcription accessible to people involved in language documentation, who have a training corpus of about one to four hours of transcribed speech. As of 2022, Persephone is superseded by Elpis.
 
 # Text automation
 
