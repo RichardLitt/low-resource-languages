@@ -294,6 +294,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [web-template](https://github.com/eddersko/web-template) - This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [webcorpus](https://github.com/zseder/webcorpus) - This project is a collection of scripts and programs for creating a webcorpus from crawled data.
 * [wikt2dict](https://github.com/juditacs/wikt2dict) - Wiktionary parser tool for many language editions.
+* [wikipron](https://github.com/CUNY-CL/wikipron) -- retrives IPA pronunciations for Wiktionary entries
 * [Word Generator](http://billposer.org/Software/WordGenerator.html) WordGenerator generates hypothetical words from specifications of their syllable structure.
 * [WordBoundary](https://github.com/eddersko/WordBoundary) - An experiment in the detection and segmentation of word boundaries.
 * [wordbyword](https://github.com/cidles/wordbyword) - WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.
