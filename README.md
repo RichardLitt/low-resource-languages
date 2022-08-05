@@ -96,6 +96,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Secwepemctsín](#secwepemcts%C3%ADn)
   - [Somali](#somali)
   - [Tigrinya](#tigrinya)
+  - [Tsimshian](#tsimshian)
   - [Uralic](#uralic)
   - [Zulu](#zulu)
 - [License](#license)
@@ -833,6 +834,21 @@ _som :: Soomaaliga_
 
 * [somorph](https://github.com/rtxanson/somorph) - Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in on [Giellatekno's](http://giellatekno.uit.no) repository.
 * [qaamuus.net](http://qaamuus.net/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
+
+## Tsimshian
+
+* [Sm’algya̱x](https://web.unbc.ca/~smalgyax/) - Frequently cited, extensive dictionary
+* [Language authority](ttps://www.smalgyax.ca/)
+* [Writing system, on Omniglot](https://omniglot.com/writing/tsimshian.htm)
+* [FNLC - SSHRC Partnership](https://www.sfu.ca/fnlc/about/partnership-grant.html) - Active grant & project to document, and teach, First Nations languages.
+* [Alaska Native Languages](https://www.alaskanativelanguages.org/tsimshian)
+> There are seven first-language speakers of Sm'álgyax in Alaska today.
+* [Language preservation—news](https://seattleglobalist.com/2015/12/08/smalgyax-native-american-language-preservation/44225)
+* [Limited but thoughtful resources](http://www.languagegeek.com/tsimshian/smalgyax.html)
+> ISO 639-3 language code: tsi
+> DEMOGRAPHICS
+The [Canadian Census](http://www.languagegeek.com/bibliography/allref.html#canstats) counts 640 Tsimshian speakers in 2006, up from from 505 in 2001, which would include both Sm’algya̱x and South Tsimshian. According to [Howe and Cook](http://www.languagegeek.com/bibliography/allref.html#howe%20and%20cook), there are 500 in both Canada (430) and the United States (70).
+
 
 ## Tigrinya
 
