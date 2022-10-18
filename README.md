@@ -648,6 +648,7 @@ _kat :: ქართული_
 * [SamartlosSakonstitutsioSasamartdoSarke](https://github.com/batumi/SamartlosSakonstitutsioSasamartdoSarke) - სამართლოს საკონსტიტუციო სასამართდო სარკე.
 * [translitit-latin-to-mkhedruli-georgian](https://github.com/batumi/translitit-latin-to-mkhedruli-georgian) - A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript.
 * [translitit-mkhedruli-georgian-to-ipa](https://github.com/batumi/translitit-mkhedruli-georgian-to-ipa) - A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript.
+* [Declensions](https://github.com/opinion-mining-south-caucasus/declensions) - The mothods to generate declensions for Georgian language
 
 ### Fonts
 
