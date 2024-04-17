@@ -180,6 +180,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [giellakbd-ios](https://github.com/divvun/giellakbd-ios) - An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards. Used by [kbdgen](https://github.com/divvun/kbdgen) (see elsewhere on this page).
 * [giza-pp](https://github.com/moses-smt/giza-pp) - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
+* [GlotLID](https://github.com/cisnlp/GlotLID) - Fasttext language identification with support for more than 2000 labels.
 * [Glottolog data](https://github.com/clld/glottolog-data) - [Glottolog](https://glottolog.org) provides comprehensive reference information for the world's languages.
 * [Gramadóir](https://github.com/kscanne/gramadoir) - Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) - An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
