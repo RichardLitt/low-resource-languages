@@ -8,6 +8,7 @@ authors:
 title: Open Source Code Serving Endangered Languages
 version: 1.0.0
 date-released: '2016-06-03'
+doi: https://doi.org/10.5281/zenodo.11164852
 preferred-citation:
   authors:
     - family-names: Littauer
