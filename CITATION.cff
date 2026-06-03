@@ -17,10 +17,7 @@ preferred-citation:
   title: Open Source Code Serving Endangered Languages
   type: conference-paper
   year: '2016'
-  collection-title: |2-
-        Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an
-        Alliance for Digital Language Diversity (CCURL) Workshop
-  conference: "LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an
-        Alliance for Digital Language Diversity (CCURL) Workshop"
+  collection-title: Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop
+  conference: "LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop"
   publisher:
     address: Portorož, Slovenia
