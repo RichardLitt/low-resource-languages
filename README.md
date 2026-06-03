@@ -1,9 +1,6 @@
 # Awesome Low Resource Languages
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/low-resource-languages.svg)](https://greenkeeper.io/)
-[![Build Status](https://api.travis-ci.org/RichardLitt/low-resource-languages.svg?branch=master)](https://travis-ci.org/RichardLitt/low-resource-languages)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 
 > A curated list of resources for the conservation, development, and documentation of low resource (human) languages.
 
