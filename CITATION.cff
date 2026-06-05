@@ -3,8 +3,10 @@ message: If you use this software, please cite both the article from preferred-c
 authors:
   - family-names: Littauer
     given-names: Richard
-  - family-names: Paterson
+    orcid: https://orcid.org/0000-0001-5428-7535
+  - family-names: Paterson III
     given-names: Hugh
+    orcid: https://orcid.org/0000-0002-5502-4865
 title: Open Source Code Serving Endangered Languages
 version: 1.0.0
 date-released: '2016-06-03'
@@ -13,8 +15,10 @@ preferred-citation:
   authors:
     - family-names: Littauer
       given-names: Richard
-    - family-names: Paterson
+      orcid: https://orcid.org/0000-0001-5428-7535
+    - family-names: Paterson III
       given-names: Hugh
+      orcid: https://orcid.org/0000-0002-5502-4865
   title: Open Source Code Serving Endangered Languages
   type: conference-paper
   year: '2016'
