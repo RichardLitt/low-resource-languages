@@ -564,6 +564,12 @@ _eus :: euskara_
 
 * [Matxin](http://matxin.sourceforge.net/) - An open-source transfer machine translation engine. Linguistic information for the translation from Spanish and Basque (es-eu) is included.
 
+### Belarusian
+
+_bel :: беларуская мова_
+
+* [belmorph](https://github.com/alesdrobysh/belmorph) - Zero-dependency morphological analyzer for Belarusian (JavaScript/TypeScript).
+
 ### Bengali
 
 _ben :: Bangla / বাংলা_
