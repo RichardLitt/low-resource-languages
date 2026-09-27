@@ -86,6 +86,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Nishnaabe](#nishnaabe)
   - [Oromo](#oromo)
   - [Quechua](#quechua)
+  - [Rohingya](#rohingya)
   - [Sami](#sami)
   - [Scottish Gaelic](#scottish-gaelic)
   - [Secwepemctsin](#secwepemctsin)
@@ -832,6 +833,14 @@ _que :: Runa Simi_
 
 * [AntiMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs.
 * [Morphology, spellchecker](https://pub.cl.uzh.ch/projects/squoia/normalizer.html) - XFST and FOMA, plus OpenOffice plugin.
+
+### Rohingya
+
+_rhg :: Rohingya_
+
+* [English–Rohingya dictionary](https://rohingyalanguage.org/tools/dictionary/) - Searchable English–Rohingyalish word list based on E.M. Siddique Basu’s dictionary.
+* [Rohingya online keyboard](https://rohingyalanguage.org/tools/rohingya-keyboard/) - Browser keyboard for typing Hanifi Unicode and Rohingyalish text.
+* [Rohingya script converter](https://rohingyalanguage.org/tools/script-converter/) - Converts text between Hanifi Rohingya and Rohingyalish.
 
 ### Sami
 
