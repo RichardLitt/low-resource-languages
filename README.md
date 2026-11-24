@@ -72,6 +72,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
   - [Hindi](#hindi)
   - [Høgnorsk](#h%C3%B8gnorsk)
   - [Icelandic](#icelandic)
+  - [Ingush](#ingush)
   - [Inuktitut](#inuktitut)
   - [Irish](#irish)
   - [Kinyarwanda](#kinyarwanda)
@@ -740,6 +741,13 @@ _nno :: Høgnorsk_
 _isl :: Íslenska_
 
 * [IceNLP](https://github.com/hrafnl/icenlp) - IceNLP is an open source Natural Language Processing (NLP) toolkit for analyzing and processing Icelandic text. The toolkit is implemented in Java.
+
+### Ingush
+
+_inh :: Ingush / ГӀалгӀай мотт_
+
+* [PaydaDosh](https://paydadosh.ru) - Ingush–Russian dictionary and language platform: dictionary, corpus with Russian translations, word forms, spell-checker, phrasebook and digitized books.
+* [paydadosh-mcp](https://github.com/paydadosh/paydadosh-mcp) - Open read-only MCP server of the PaydaDosh Ingush–Russian dictionary: lookup, inflection tables, corpus examples and text checks for AI assistants (endpoint https://mcp.paydadosh.ru/mcp).
 
 ### Inuktitut
 
